@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>JustSpawnedStateString</Name>
+		<String>Fait la queue</String>
+	</TextString>
+	<TextString>
+		<Name>WaitingInLineStateString</Name>
+		<String>Attend dans la queue</String>
+	</TextString>
+	<TextString>
+		<Name>AccomodatingStateString</Name>
+		<String>Se met à table</String>
+	</TextString>
+	<TextString>
+		<Name>CheckingMenuStateString</Name>
+		<String>Regarde le menu</String>
+	</TextString>
+	<TextString>
+		<Name>WaitingAtTableStateString</Name>
+		<String>Attend pour commander</String>
+	</TextString>
+	<TextString>
+		<Name>OrderingStateString</Name>
+		<String>Passe commande</String>
+	</TextString>
+	<TextString>
+		<Name>OrderTakenStateString</Name>
+		<String>Attend d'être servi</String>
+	</TextString>
+	<TextString>
+		<Name>EatingStateString</Name>
+		<String>Mange</String>
+	</TextString>
+	<TextString>
+		<Name>WaitingAfterEatingStateString</Name>
+		<String>Attend l'addition</String>
+	</TextString>
+	<TextString>
+		<Name>WantingToGoAwayStateString</Name>
+		<String>Part</String>
+	</TextString>
+	<TextString>
+		<Name>AccomodateCustomersString</Name>
+		<String>Accueille les clients</String>
+	</TextString>
+	<TextString>
+		<Name>WaitForOrderString</Name>
+		<String>Inactif</String>
+	</TextString>
+	<TextString>
+		<Name>MovingString</Name>
+		<String>Se déplace</String>
+	</TextString>
+	<TextString>
+		<Name>ReceiveCustomersString</Name>
+		<String>Accueille les clients</String>
+	</TextString>
+	<TextString>
+		<Name>CustomersAskForTableString</Name>
+		<String>Accueille les clients</String>
+	</TextString>
+	<TextString>
+		<Name>TakeOrdersString</Name>
+		<String>Prend les commandes</String>
+	</TextString>
+	<TextString>
+		<Name>DeliverOrdersString</Name>
+		<String>Livre la commande</String>
+	</TextString>
+	<TextString>
+		<Name>TakeOrdersFromBenchString</Name>
+		<String>Prend la nourriture</String>
+	</TextString>
+	<TextString>
+		<Name>ServeOrdersString</Name>
+		<String>Sert la commande</String>
+	</TextString>
+	<TextString>
+		<Name>TakeBillString</Name>
+		<String>Prend l'addition</String>
+	</TextString>
+	<TextString>
+		<Name>CheckOutString</Name>
+		<String>Vérifie les clients</String>
+	</TextString>
+	<TextString>
+		<Name>CleanTableString</Name>
+		<String>Nettoie</String>
+	</TextString>
+	<TextString>
+		<Name>TakePreparationString</Name>
+		<String>Met une recette sur l'outil</String>
+	</TextString>
+	<TextString>
+		<Name>CookPreparationString</Name>
+		<String>Prépare une recette</String>
+	</TextString>
+	<TextString>
+		<Name>FreeTableString</Name>
+		<String>Libre</String>
+	</TextString>
+	<TextString>
+		<Name>WaitingForCustomersString</Name>
+		<String>Clients Entrants</String>
+	</TextString>
+	<TextString>
+		<Name>OccupiedCustomersString</Name>
+		<String>Regarde le menu</String>
+	</TextString>
+	<TextString>
+		<Name>ReadyToOrderCustomersString</Name>
+		<String>Attend de commander</String>
+	</TextString>
+	<TextString>
+		<Name>TakingOrdersCustomersTableString</Name>
+		<String>Prend les commandes</String>
+	</TextString>
+	<TextString>
+		<Name>OrderTakesCustomersTableString</Name>
+		<String>Attend d'être servi</String>
+	</TextString>
+	<TextString>
+		<Name>TableCustomersEatingString</Name>
+		<String>Mange</String>
+	</TextString>
+	<TextString>
+		<Name>TableCustomersWaitingCheckoutString</Name>
+		<String>Attend pour payer</String>
+	</TextString>
+	<TextString>
+		<Name>TableCustomersCheckingOutString</Name>
+		<String>Règle l'addition</String>
+	</TextString>
+	<TextString>
+		<Name>TableDirtyString</Name>
+		<String>Doit être nettoyé</String>
+	</TextString>
+	<TextString>
+		<Name>TableCleaningString</Name>
+		<String>En cours de nettoyage</String>
+	</TextString>
+	<TextString>
+		<Name>EmptyStringTable</Name>
+		<String>Aucun Client</String>
+	</TextString>
+</TextStrings>
