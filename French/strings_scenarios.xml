@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>ScenarioReward</Name>
+		<String>Passer à l'étape suivante du scénario en cours</String>
+	</TextString>
+	<TextString>
+		<Name>ScenarioWinReward</Name>
+		<String>Remporter le scénario en cours</String>
+	</TextString>
+	<TextString>
+		<Name>ScenarioVictoryEventName</Name>
+		<String>Victoire !</String>
+	</TextString>
+	
+	<!-- Scenario 1 -->
+
+	<TextString>
+		<Name>Scenario01EventName</Name>
+		<String>Apocalypse écologique</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Description</Name>
+		<String>La fin est proche ! Gaia ne tolérera plus les péchés de l'humanité, la Terre était un paradis et elle se transforme maintenant en une terre désolée. Il est temps pour tous ceux qui ont le cœur pur d'abandonner la planète, tandis que les pécheurs seront purgés. Gaia, l'un des chefs végétaliens les plus célèbres au monde, vous a confié une tâche simple : utilisez vos pouvoirs pour ramener autant de pécheurs que possible dans le troupeau vert, afin qu'ils ne périssent pas dans l'apocalypse écologique.</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Objectives</Name>
+		<String>- Créez un menu végétalien à haute teneur en calories et convertissez les familles à votre cause;
+- Créez un menu végétalien plein de glucides et convertissez les travailleurs à votre cause;
+- Créez un menu végétalien de haute qualité et convertissez les gourmets à votre cause.</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01VeganAlertName</Name>
+		<String>Avoir un menu végétalien approprié</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01VeganAlertDescription</Name>
+		<String>Vous devez avoir un menu entièrement végétalien et 10 recettes ou plus sur le menu pour ne pas interrompre la partie..</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkScenario01Name</Name>
+		<String>Bénédiction de Gaia</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkScenario01Description</Name>
+		<String>Les pouvoirs de Gaia vous aideront à amener des clients chez vous!
+
+{MODIFIERS}</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>Scenario01RecipesCondition</Name>
+		<String>Avoir plus de 10 recettes au menu</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest01Name</Name>
+		<String>Convertir les familles</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest01Description</Name>
+		<String>Il est temps de convertir certains foyers à la véritable façon de se nourrir, celle qui est verte. Plus vous ferez plaisir aux gens, plus ils accepteront Gaia dans leur vie.</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest01Condition</Name>
+		<String>Avoir un menu végétalien</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest01Condition1</Name>
+		<String>Servir plus de 100 clients en famille pendant la journée en cours</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest01Condition2</Name>
+		<String>Avoir une note de 4,5+ pour la nourriture</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>Scenario01Quest02Name</Name>
+		<String>Convertir les travailleurs</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario02Quest01Description</Name>
+		<String>Ces travailleurs ont passé leur vie à insulter la nourriture qui pourrait les sauver maintenant. Il est temps de prouver notre supériorité morale, sauvez-les !</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest02Condition</Name>
+		<String>Avoir un menu végétalien</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest02Condition1</Name>
+		<String>Servir plus de 100 clients travailleurs pendant la journée en cours</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest02Condition2</Name>
+		<String>Avoir une note de 4,5+ pour la nourriture.</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest02Condition3</Name>
+		<String>Recettes à base de glucides uniquement</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>Scenario01Quest03Name</Name>
+		<String>Convertir les gourmets</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest03Description</Name>
+		<String>L'apocalypse écologique est lancée, il est temps de convertir les derniers mécréants à notre cause et d'abandonner cette planète mourante : faites plaisir aux gourmets.</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest03Condition</Name>
+		<String>Have a Vegan Menu</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest03Condition1</Name>
+		<String>Servir plus de 100 clients passionnés d'alimentation pendant la journée en cours</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest03Condition2</Name>
+		<String>Avoir une note de 4,5+ pour la nourriture</String>
+	</TextString>
+
+	<TextString>
+		<Name>Scenario01Quest03Condition3</Name>
+		<String>Utiliser + de 80 ingrédients</String>
+	</TextString>
+
+
+
+
+</TextStrings>

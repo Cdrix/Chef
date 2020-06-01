@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+  <TextString>
+    <Name>String_StaffTypeAvatar</Name>
+    <String>Vous</String>
+  </TextString>
+  <TextString>
+    <Name>String_StaffTypeDishwasher</Name>
+    <String>Plongeur</String>
+  </TextString>
+  <TextString>
+    <Name>String_StaffTypeWaiter</Name>
+    <String>Serveur</String>
+  </TextString>
+  <TextString>
+    <Name>String_StaffTypeHeadWaiter</Name>
+    <String>Chef de rang</String>
+  </TextString>
+  <TextString>
+    <Name>String_StaffTypeChef</Name>
+    <String>Cuisinier</String>
+  </TextString>
+  <TextString>
+    <Name>ChefDescriptiveNameString</Name>
+    <String>Cuisinier</String>
+  </TextString>
+  <TextString>
+    <Name>ChefDescriptionString</Name>
+    <String>Ce personnage est un cuisinier.</String>
+  </TextString>
+  <TextString>
+    <Name>WaiterDescriptiveNameString</Name>
+    <String>Serveur</String>
+  </TextString>
+  <TextString>
+    <Name>WaiterDescriptionString</Name>
+    <String>Ce personnage est un serveur.</String>
+  </TextString>
+  <TextString>
+    <Name>GoodChefDescriptiveNameString</Name>
+    <String>Bon cuisinier</String>
+  </TextString>
+  <TextString>
+    <Name>GoodChefDescriptionString</Name>
+    <String>Un bon cuisinier est un bon chef, un personnage vraiment tridimensionnel</String>
+  </TextString>
+  <TextString>
+    <Name>NormalChefDescriptiveNameString</Name>
+    <String>Cuisinier normal</String>
+  </TextString>
+  <TextString>
+    <Name>NormalChefDescriptionString</Name>
+    <String>Un cuisinier normal est un chef normal, un personnage vraiment tridimensionnel</String>
+  </TextString>
+  <TextString>
+    <Name>BadChefDescriptiveNameString</Name>
+    <String>Mauvais cuisinier</String>
+  </TextString>
+  <TextString>
+    <Name>BadChefDescriptionString</Name>
+    <String>Un mauvais cuisinier est un mauvais chef, un personnage vraiment tridimensionnel</String>
+  </TextString>
+  <TextString>
+    <Name>GoodWaiterDescriptiveNameString</Name>
+    <String>Bon serveur</String>
+  </TextString>
+  <TextString>
+    <Name>GoodWaiterDescriptionString</Name>
+    <String>Un bon serveur est un bon serveur, un personnage vraiment tridimensionnel</String>
+  </TextString>
+  <TextString>
+    <Name>NormalWaiterDescriptiveNameString</Name>
+    <String>Serveur normal</String>
+  </TextString>
+  <TextString>
+    <Name>NormalWaiterDescriptionString</Name>
+    <String>Un serveur normal est un serveur normal, un personnage vraiment tridimensionnel</String>
+  </TextString>
+  <TextString>
+    <Name>BadWaiterDescriptiveNameString</Name>
+    <String>Mauvais serveur</String>
+  </TextString>
+  <TextString>
+    <Name>BadWaiterDescriptionString</Name>
+    <String>Un mauvais serveur est un mauvais serveur, un personnage vraiment tridimensionnel</String>
+  </TextString>
+ 
+</TextStrings>

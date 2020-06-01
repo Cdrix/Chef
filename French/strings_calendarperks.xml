@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>CalendarPerkWeekendName</Name>
+		<String>Weekend</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkWeekendDescription</Name>
+		<String>Pendant le week-end, vous pouvez vous attendre à un plus grand nombre de clients de toutes les catégories.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkChristmasName</Name>
+		<String>Noël</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkChristmasDescription</Name>
+		<String>Pendant la période de Noël, de nombreuses autres familles visiteront votre restaurant et seront prêtes à dépenser plus!</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkNewYearName</Name>
+		<String>Nouvel An</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkNewYearDescription</Name>
+		<String>Lorsque les gens fêtent une nouvelle année, ils ont l'absurde volonté de dépenser beaucoup d'argent, alors attendez-vous à ce qu'un grand nombre de clients viennent dîner!</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkEasterName</Name>
+		<String>Pâques</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkEasterDescription</Name>
+		<String>C'est Pâques : attendez-vous à voir beaucoup plus de familles venir chez vous et manger plus que d'habitude!</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkWorkersDayName</Name>
+		<String>Fête du Travail</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkWorkersDayDescription</Name>
+		<String>Ce jour férié traditionnel amènera de nombreux travailleurs dans votre restaurant, désireux de fêter et de dépenser leur argent durement gagné.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkSummerFeastName</Name>
+		<String>Festival d'Eté</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkSummerFeastDescription</Name>
+		<String>C'est enfin l'été et pendant que les autres font la fête, vous vous préparez à servir les nombreux touristes affamés qui envahissent la ville.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkFleaMarketName</Name>
+		<String>Marché aux Puces</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkFleaMarketDescription</Name>
+		<String>Il y a un marché aux puces à proximité, alors attendez-vous à ce qu'un nombre croissant de familles et de personnes bon marché viennent chez vous.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkBeerFestivalName</Name>
+		<String>Festival de la Bière</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkBeerFestivalDescription</Name>
+		<String>La ville a organisé un festival de la bière ! Attendez-vous à un plus grand nombre de clients à faible budget, mais comme la plupart d'entre eux seront ivres, vos serveurs devront faire un effort supplémentaire dans leur travail.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkWineFestivalName</Name>
+		<String>Festival du Vin</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkWineFestivalDescription</Name>
+		<String>La ville a organisé un festival du vin ! Attendez-vous à un plus grand nombre de clients à très gros budget, mais comme la plupart d'entre eux seront ivres, vos serveurs devront faire un effort supplémentaire dans leur travail.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkSaladFestivalName</Name>
+		<String>Festival de la Salade</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkSaladFestivalDescription</Name>
+		<String>C'est le Festival de la salade ! Des essaims de clients végétariens et végétaliens parcourront la ville à la recherche d'un repas savoureux!</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkSportEventDescription</Name>
+		<String>Il y a un événement sportif important aujourd'hui. Il s'agit d'un événement où les gens lancent une balle, mais l'important est que les Cheapskates, les familles à faible budget et les ouvriers viennent plus facilement chez vous ce soir.!</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkSportEventName</Name>
+		<String>Evenement Sportif</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkMovieName</Name>
+		<String>Film Poxar</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkMovieDescription</Name>
+		<String>Les Studios Poxar ont sorti un nouveau film incroyable ! Ce qui signifie que les familles de toute sorte auront besoin d'un endroit pour manger ce soir.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkTouristBoomName</Name>
+		<String>Afflux de Touristes</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkTouristBoomDescription</Name>
+		<String>Les touristes envahissent la ville, réservent des chambres d'hôtel et cherchent des endroits où manger. Ce devrait être le bon moment pour leur soutirer de l'argent!</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkCheapSurgeName</Name>
+		<String>Cheap Happens</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkCheapSurgeDescription</Name>
+		<String>Is that a horde of Cheapskates invading the city because of the many shops doing sales? They'll want a place in which to eat without spending too much...</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkCoolClimateName</Name>
+		<String>Météo Agréable</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkCoolClimateDescription</Name>
+		<String>Le temps est beau et frais aujourd'hui, et cela se reflète sur votre personnel : il sera moins fatigué en travaillant!</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkOvertimeName</Name>
+		<String>Heures Supplémentaires</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkOvertimeDescription</Name>
+		<String>Les travailleurs locaux travaillent beaucoup plus que d'habitude, ce qui signifie qu'ils seront plus nombreux à manger dans les restaurants.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkDesignWeekName</Name>
+		<String>Semaine du Design</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkDesignWeekDescription</Name>
+		<String>C'est la Semaine du design, et la ville est pleine d'événements où des designers et des entreprises célèbres montrent leurs créations ! Attendez-vous à plus de travailleurs et de touristes, mais attendez-vous aussi à ce qu'ils aient des attentes plus élevées en ce qui concerne l'ameublement de votre restaurant!</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkStockMarketCrashName</Name>
+		<String>Crash Boursier</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkStockMarketCrashDescription</Name>
+		<String>Il semble que la bourse se soit effondrée et que les gens soient maintenant moins enclins à dépenser de l'argent. Vous feriez mieux d'en tenir compte et d'ajuster temporairement vos prix.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkDairyCheapName</Name>
+		<String>Surproduction : Produits laitiers</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkDairyCheapDescription</Name>
+		<String>Les ingrédients laitiers sont surproduits, ce qui signifie que leur prix sera inférieur de 15% aujourd'hui.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkDairyCostlyName</Name>
+		<String>Pénurie : Produits laitiers</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkDairyCostlyDescription</Name>
+		<String>Les ingrédients laitiers sont en pénurie, ce qui signifie que leur prix sera 15% plus élevé aujourd'hui.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkVeggiesCheapName</Name>
+		<String>Surproduction : Légumes</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkVeggiesCheapDescription</Name>
+		<String>Les ingrédients végétaux sont surproduits, ce qui signifie que leur prix sera inférieur de 15% aujourd'hui.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkVeggiesCostlyName</Name>
+		<String>Pénurie : Légumes</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkVeggiesCostlyDescription</Name>
+		<String>Les ingrédients végétaux sont en pénurie, ce qui signifie que leur prix sera 15% plus élevé aujourd'hui.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkMeatCheapName</Name>
+		<String>Surproduction : Viande</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkMeatCheapDescription</Name>
+		<String>Les ingrédients à base de viande sont surproduits, ce qui signifie que leur prix sera inférieur de 15 % aujourd'hui.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkMeatCostlyName</Name>
+		<String>Pénurie : Viande</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkMeatCostlyDescription</Name>
+		<String>Les ingrédients à base de viande sont en pénurie, ce qui signifie que leur prix sera 15% plus élevé aujourd'hui.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkSeafoodCheapName</Name>
+		<String>Surproduction : Fruit de mer</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkSeafoodCheapDescription</Name>
+		<String>Les ingrédients à base de fruits de mer sont surproduits, ce qui signifie que leur prix sera inférieur de 15 % aujourd'hui.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CalendarPerkSeafoodCostlyName</Name>
+		<String>Pénurie : Fruit de mer</String>
+	</TextString>
+	<TextString>
+		<Name>CalendarPerkSeafoodCostlyDescription</Name>
+		<String>Les ingrédients à base de fruits de mer sont en pénurie, ce qui signifie que leur prix sera 15% plus élevé aujourd'hui.</String>
+	</TextString>
+	
+	
+	
+	
+	<TextString>
+		<Name>WorldChefRankingName</Name>
+		<String>World Chef Ranking</String>
+	</TextString>
+
+	<TextString>
+		<Name>NoRankingPlayerString</Name>
+		<String>NA</String>
+	</TextString>
+	
+	
+	
+	
+</TextStrings>

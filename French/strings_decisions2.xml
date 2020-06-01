@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<!--
+<TextString>
+		<Name>Decision***Name</Name>
+		<String>Activate XXX</String>
+	</TextString>
+	<TextString>
+		<Name>Decision***Description</Name>
+		<String>Add this Active Skill to the quick bar in the main UI.
+
+WIt has the following effects when activated:
+{PERK:Perk***}</TextString>
+-->
+
+</TextStrings>

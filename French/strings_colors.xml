@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+  <TextString>
+    <Name>MainColorName</Name>
+    <String>Couleur principale</String>
+  </TextString>
+  <TextString>
+    <Name>MainColorDescription</Name>
+    <String>Couleur du corps</String>
+  </TextString>
+   <TextString>
+    <Name>DetailColorName</Name>
+    <String>Détails</String>
+  </TextString>
+  <TextString>
+    <Name>DetailColorDescription</Name>
+    <String>Couleur des détails</String>
+  </TextString>
+
+    <TextString>
+    <Name>PaintName</Name>
+    <String>Image</String>
+  </TextString>
+  <TextString>
+    <Name>CorniceName</Name>
+    <String>Couleur du cadre</String>
+  </TextString>
+</TextStrings>

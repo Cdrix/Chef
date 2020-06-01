@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+  <TextString>
+    <Name>BusinessName</Name>
+    <String>Quartier des affaires</String>
+  </TextString>
+  <TextString>
+    <Name>CountrysideName</Name>
+    <String>Zone rurale</String>
+  </TextString>
+  <TextString>
+    <Name>SuburbsName</Name>
+    <String>District de banlieue</String>
+  </TextString>
+  <TextString>
+    <Name>OldTownName</Name>
+    <String>Vieille ville</String>
+  </TextString>
+  <TextString>
+    <Name>SmallTownName</Name>
+    <String>Petite ville</String>
+  </TextString>
+  <TextString>
+    <Name>ResidentialName</Name>
+    <String>Quartier résidentiel</String>
+  </TextString>
+  <TextString>
+    <Name>CommercialName</Name>
+    <String>Quartier commercial</String>
+  </TextString>
+  <TextString>
+    <Name>IndustrialName</Name>
+    <String>Quartier industriel</String>
+  </TextString>
+</TextStrings>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+<!-- FOOD -->
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_0</Name>
+    <String>Manger {RECIPE} a été pour moi une chose que j'ai détestée à chaque seconde écoulée.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_1</Name>
+    <String>J'ai eu envie de vomir en mangeant {RECIPE}.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_2</Name>
+    <String>{RECIPE} ETAIT EPOUVANTABLE !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_3</Name>
+    <String>{RECIPE} était le plat le plus mauvais que j'aie jamais mangé.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_4</Name>
+    <String>{RECIPE} m'a provoqué une intoxication alimentaire.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_5</Name>
+    <String>Le cuisinier était-il ivre pendant la préparation de {RECIPE}?</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_6</Name>
+    <String>{RECIPE} pourrait provoquer une troisième guerre mondiale…</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_7</Name>
+    <String>La Convention de Genève devrait interdire {RECIPE}!</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_8</Name>
+    <String>Le plat avait meilleur goût que {RECIPE} qui s'y trouvait…</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_9</Name>
+    <String>Un coup de poing au visage vaut mieux que de manger {RECIPE}.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_10</Name>
+    <String>N'essayez même pas de commander {RECIPE}.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_0_11</Name>
+    <String>Je ne me sens pas bien. {RECIPE} va probablement me tuer !</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>ReviewRecipeComment_1_0</Name>
+    <String>Pourquoi {RECIPE} est au menu ? Trop mauvais !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_1_1</Name>
+    <String>{RECIPE} n'avait pas un bon goût.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_1_2</Name>
+    <String>Manger {RECIPE} fut une expérience fade…</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_1_3</Name>
+    <String>Evitez de manger {RECIPE}, c'est plutôt mauvais.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_1_4</Name>
+    <String>{RECIPE} n'était pas bon du tout…</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_1_5</Name>
+    <String>J'aurais pu mieux préparer {RECIPE} chez moi.</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>ReviewRecipeComment_2_0</Name>
+    <String>J'ai l'impression qu'ils auraient pu mieux faire {RECIPE}.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_2_1</Name>
+    <String>Evitez de manger {RECIPE}, ce n'est pas bon.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_2_2</Name>
+    <String>{RECIPE} ? Pas si bon…</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_2_3</Name>
+    <String>{RECIPE} était MEH…</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_2_4</Name>
+    <String>{RECIPE} n'était pas vraiment bon..</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_2_5</Name>
+    <String>J'attendais davantage de {RECIPE}.</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>ReviewRecipeComment_3_0</Name>
+    <String>J'ai apprécié {RECIPE}.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_3_1</Name>
+    <String>{RECIPE} a assouvi mon désir de bien manger.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_3_2</Name>
+    <String>J'ai trouvé {RECIPE} assez bon.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_3_3</Name>
+    <String>Commander {RECIPE} fut un bon choix.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_3_4</Name>
+    <String>{RECIPE} était très savoureux !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_3_5</Name>
+    <String>{RECIPE} était bon !</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>ReviewRecipeComment_4_0</Name>
+    <String>J'ai commandé {RECIPE} et j'ai été très surpris !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_4_1</Name>
+    <String>{RECIPE} ? Excellent !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_4_2</Name>
+    <String>Je n'ai jamais mangé quelque chose d'aussi meilleur que {RECIPE} !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_4_3</Name>
+    <String>Wow ! {RECIPE}, tellement bon !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_4_4</Name>
+    <String>Je vous suggère fortement d'essayer {RECIPE}!</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_4_5</Name>
+    <String>Je ne peux pas croire que {RECIPE} était si bon !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_4_6</Name>
+    <String>Manger {RECIPE} a été la meilleure expérience de ma vie !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewRecipeComment_4_7</Name>
+    <String>Goûter {RECIPE} était vraiment époustouflant !</String>
+  </TextString>
+  
+  
+  <!-- ORDERS -->
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_2_0</Name>
+    <String>Nous avons trop attendu pour commander ! BEAUCOUP TROP !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_2_1</Name>
+    <String>Pourquoi a-t-il fallu SI LONGTEMPS pour prendre nos commandes ?</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_2_2</Name>
+    <String>Nous étions sur le point de partir quand ils ont finalement accepté nos commandes !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_2_3</Name>
+    <String>Attendre que quelqu'un prenne nos commandes a guéri mon insomnie chronique…</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_1_0</Name>
+    <String>Nous avons attendu longtemps avant que le personnel ne prenne nos commandes.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_1_1</Name>
+    <String>Nous avons vraiment eu faim en attendant que le personnel prenne nos commandes.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_1_2</Name>
+    <String>Nous avons dû attendre longtemps pour passer nos commandes…</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_0_0</Name>
+    <String>Rien de grave, mais ils nous ont laissé attendre un peu avant de prendre nos commandes.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_0_1</Name>
+    <String>Nous avons dû attendre quelques minutes avant de pouvoir commander.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToOrder_0_2</Name>
+    <String>Nous avons attendu un peu avant que le serveur ne prenne nos commandes.</String>
+  </TextString>
+  
+  
+  <!-- DELIVERFOOD -->
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_2_0</Name>
+    <String>Cela a pris des années pour enfin manger !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_2_1</Name>
+    <String>Nous avons trop attendu pour manger !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_2_2</Name>
+    <String>Ce n'est pas possible d'attendre autant pour manger !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_2_3</Name>
+    <String>Nous avons attendu de manger à tel point que nous avons renoncé au déjeuner et avons dîné…</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_1_0</Name>
+    <String>Faire cuire les aliments ne peut pas prendre autant de temps…</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_1_1</Name>
+    <String>Je me suis ennuyé en attendant la nourriture.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_1_2</Name>
+    <String>Ils devraient cuisiner plus vite, nous avons beaucoup attendu !</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_0_0</Name>
+    <String>Cela a pris un peu de temps pour recevoir ce que nous avons commandé.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_0_1</Name>
+    <String>Nous avons attendu un peu trop longtemps pour manger.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToEat_0_2</Name>
+    <String>Nous avons attendu un moment avant de pouvoir enfin manger.</String>
+  </TextString>
+  
+  
+  <!-- PAY -->
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_2_0</Name>
+    <String>J'ai attendu BEAUCOUP de temps avant de pouvoir enfin payer et partir !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_2_1</Name>
+    <String>VOUS DEVRIEZ ÊTRE HEUREUX DE ME LAISSER PAYER ! POURQUOI ME LAISSER ATTENDRE ?</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_2_2</Name>
+    <String>Il ne faut pas plus de 30 minutes pour glisser une carte de crédit !</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_2_3</Name>
+    <String>Pourquoi prendre autant de temps pour me laisser payer ? La prochaine fois, je m'en irai tout simplement!</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_1_0</Name>
+    <String>J'ai dû attendre plusieurs minutes avant de pouvoir payer.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_1_1</Name>
+    <String>Je n'arrive pas à croire qu'il a fallu 30 minutes pour payer le repas.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_1_2</Name>
+    <String>Nous avons attendu longtemps avant de pouvoir payer…</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_0_0</Name>
+    <String>Ils devraient accorder plus d'attention aux clients qui ont terminé et qui veulent simplement payer.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_0_1</Name>
+    <String>Il a fallu un moment pour payer après que nous ayons terminé.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ReviewServiceComment_WaitToCheckout_0_2</Name>
+    <String>Nous avons dû attendre un peu pour payer l'addition.</String>
+  </TextString>
+ 
+  
+  
+  
+  
+</TextStrings>

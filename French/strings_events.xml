@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+  <TextString>
+    <Name>TutorialEventName</Name>
+    <String>Tutoriel</String>
+  </TextString>
+  <TextString>
+    <Name>AchievementsEventName</Name>
+    <String>Succès déverrouillés !</String>
+  </TextString>
+  <TextString>
+    <Name>EligibleFirstStarName</Name>
+    <String>Eligible for the WebGuide</String>
+  </TextString>
+  <TextString>
+    <Name>StarLostName</Name>
+    <String>Étoile perdue</String>
+  </TextString>
+  <TextString>
+    <Name>PopularityIncreaseName</Name>
+    <String>Votre popularité s'accroît</String>
+  </TextString>
+  <TextString>
+    <Name>LosingMoneyName</Name>
+    <String>Faillite imminente</String>
+  </TextString>
+  <TextString>
+    <Name>GameOverName</Name>
+    <String>Vous êtes ruiné</String>
+  </TextString>
+  <TextString>
+    <Name>InfluencePointGained</Name>
+    <String>Point d'influence obtenu</String>
+  </TextString>
+  <TextString>
+    <Name>MarketingUnlockName</Name>
+    <String>Politiques publicitaires déverrouillées !</String>
+  </TextString>
+  <TextString>
+    <Name>ZeroMoraleName</Name>
+    <String>Moral à zéro !</String>
+  </TextString>
+  
+  <!-- Star Chef -->
+  <TextString>
+    <Name>StarChefStartName</Name>
+    <String>Le parcours du chef</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefServeCustomFirstName</Name>
+    <String>Tâche : servir des recettes personnalisées</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefGoodIngredientsName</Name>
+    <String>Tâche : utiliser des ingrédients de niveau 2</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefAwesomeRecipeName</Name>
+    <String>Tâche : créer une bonne recette</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefServeCustomSecondName</Name>
+    <String>Tâche : servir (plus) de recettes personnalisées</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefGetFirstStarName</Name>
+    <String>Webguide Star</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefBeginningFirstStarName</Name>
+    <String>Tâche : gagner une première étoile</String>
+  </TextString>
+  <TextString>
+    <Name>FirstStarGainedName</Name>
+    <String>Première étoile obtenue !</String>
+  </TextString>
+  <TextString>
+    <Name>StarFailedName</Name>
+    <String>Task Failed</String>
+  </TextString>
+  <TextString>
+    <Name>SecondStarGainedName</Name>
+    <String>Seconde étoile obtenue !</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefBeginningSecondStarName</Name>
+    <String>Tâche : gagner une première étoile</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefGetSecondStarName</Name>
+    <String>Webguide Star</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefPerfectRecipeName</Name>
+    <String>Créer une recette parfaite</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefGourmetIngredientsName</Name>
+    <String>Tâche : utiliser des ingrédients de niveau 3</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefGetThirdStarName</Name>
+    <String>Webguide Star</String>
+  </TextString>
+  <TextString>
+    <Name>StarChefBeginningThirdStarName</Name>
+    <String>Tâche : gagner une troisième étoile</String>
+  </TextString>
+  <TextString>
+    <Name>ThirdStarGainedName</Name>
+    <String>Troisième étoile obtenue !</String>
+  </TextString>
+</TextStrings>

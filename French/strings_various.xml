@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+  <TextString>
+    <Name>MediumKitchenString</Name>
+    <String>Cuisine moyenne</String>
+  </TextString>
+  <TextString>
+    <Name>LargeHallString</Name>
+    <String>Grand Hall</String>
+  </TextString>
+  <TextString>
+    <Name>MediumHallString</Name>
+    <String>Moyen Hall</String>
+  </TextString>
+  <TextString>
+    <Name>VeryLargeHallString</Name>
+    <String>Très grand Hall</String>
+  </TextString>
+  <TextString>
+    <Name>SmallKitchenString</Name>
+    <String>Petite cuisine</String>
+  </TextString>
+  <TextString>
+    <Name>SmallHallString</Name>
+    <String>Petit Hall</String>
+  </TextString>
+  <TextString>
+    <Name>LargeKitchenString</Name>
+    <String>Grande cuisine</String>
+  </TextString>
+  <TextString>
+    <Name>VeryLargeKitchenString</Name>
+    <String>Très grande cuisine</String>
+  </TextString>
+  <TextString>
+    <Name>MassiveHallString</Name>
+    <String>Immense Hall</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>DecorName</Name>
+    <String>Décoration</String>
+  </TextString>
+</TextStrings>

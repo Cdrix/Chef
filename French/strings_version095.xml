@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+	<TextString>
+		<Name>StackingYellowName</Name>
+		<String>Proche de la limite d'empilage</String>
+	</TextString>
+	<TextString>
+		<Name>StackingYellowDesc</Name>
+		<String>Vous ne pouvez ajouter qu'un seul objet de ce type au restaurant, les objets supplémentaires n'auront aucun effet.</String>
+	</TextString>
+
+	<TextString>
+		<Name>StackingRedName</Name>
+		<String>Limite d'empilage atteinte</String>
+	</TextString>
+	<TextString>
+		<Name>StackingRedDesc</Name>
+		<String>Vous avez atteint les limites d'empilage pour ce type d'objets, les objets supplémentaires n'auront aucun effet.</String>
+	</TextString>
+	
+
+
+</TextStrings>

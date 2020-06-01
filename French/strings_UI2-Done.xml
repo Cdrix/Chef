@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+<!-- STANCES -->
+
+ <TextString>
+    <Name>WaitingOutsideName</Name>
+    <String>Clients qui attendent à l'extérieur</String>
+  </TextString>
+
+ <TextString>
+    <Name>WaitingOutsideDesc</Name>
+    <String>C'est le nombre de personnes en attente d'un serveur pour les accueillir et les prendre en charge. 
+	
+Pour les accueillir, assurez-vous que la position accueil est active sur suffisamment de serveurs et qu'il y a suffisamment de tables pour eux.</String>
+  </TextString>
+
+ <TextString>
+    <Name>WaitingOrderName</Name>
+    <String>Clients prêts à commander</String>
+  </TextString>
+
+ <TextString>
+    <Name>WaitingOrderDesc</Name>
+    <String>C'est le nombre de clients qui ont pris une décision et attendent qu'un serveur prenne leur commande.
+	
+Pour réduire ce nombre, assurez-vous d'avoir suffisamment de serveurs avec la position service active.</String>
+  </TextString>
+
+ <TextString>
+    <Name>ToBeCookedName</Name>
+    <String>Commandes en attente à la cuisine</String>
+  </TextString>
+
+ <TextString>
+    <Name>ToBeCookedDesc</Name>
+    <String>C'est le nombre de commandes qui attendent d'être cuisinées par vos cuisiniers. Une commande unique peut comprendre plusieurs recettes.
+	
+Pour accélérer les choses en cuisine, assurez-vous d'avoir suffisamment d'outils et de postes de travail pour préparer toutes les recettes et assurez-vous qu'il y a suffisamment de chefs pour gérer toutes les commandes.</String>
+  </TextString>
+
+ <TextString>
+    <Name>TobeServedName</Name>
+    <String>Commandes en attente d'être servies</String>
+  </TextString>
+
+ <TextString>
+    <Name>TobeServedDesc</Name>
+    <String>C'est le nombre de commandes en attente d'être livrées par vos serveurs. Les commandes uniques peuvent comprendre plusieurs recettes, mais les serveurs ne serviront une table que lorsque toutes ses commandes seront prêtes.
+	
+Pour réduire ce nombre, assurez-vous d'avoir suffisamment de serveurs avec la position service active et veillez à ce que vos chefs ne soient pas surchargés.</String>
+  </TextString>
+
+ <TextString>
+    <Name>ToCheckOutName</Name>
+    <String>Clients attendant de régler l'addition</String>
+  </TextString>
+
+ <TextString>
+    <Name>ToCheckOutDesc</Name>
+    <String>C'est le nombre de clients qui ont fini de manger et qui sont prêts à payer et à partir.
+	
+Pour réduire ce nombre, assurez-vous que vous avez suffisamment de serveurs avec la posture régler l'addition active afin qu'ils puissent livrer les paiements et remettre les tables à neuf.</String>
+  </TextString>
+
+ <TextString>
+    <Name>DineAndDashNumberName</Name>
+    <String>Clients partis</String>
+  </TextString>
+
+ <TextString>
+    <Name>DineAndDashNumberDesc</Name>
+    <String>Les clients peuvent partir s'ils n'aiment pas votre menu. De plus, si votre service prend trop de temps, les clients peuvent perdre patience et partir sans payer.</String>
+  </TextString>
+
+ <TextString>
+    <Name>SortToggleWaiterName</Name>
+    <String>Afficher les serveurs en haut de la liste</String>
+  </TextString>
+
+ <TextString>
+    <Name>SortToggleChefName</Name>
+    <String>Afficher les cuisiniers en haut de la liste</String>
+  </TextString>
+
+ <TextString>
+    <Name>SortToggleEnergyName</Name>
+    <String>Trier par énergie</String>
+  </TextString>
+
+ <TextString>
+    <Name>MissingRequisitesName</Name>
+    <String>Ingrédients manquants</String>
+  </TextString>
+
+ <TextString>
+    <Name>MissingRequisitesDesc</Name>
+    <String>Chaque modèle de recette a ses propres exigences en matière d'ingrédients. Afin de sauvegarder votre recette personnalisée, remplissez les cases des ingrédients requis avec le type d'ingrédient correspondant.</String>
+  </TextString>
+
+ 
+ 
+</TextStrings>

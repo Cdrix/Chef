@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+<!-- UI PIECES -->
+ <TextString>
+    <Name>MenuSortName</Name>
+    <String>Nom</String>
+  </TextString>
+  
+   <TextString>
+    <Name>MenuSortCost</Name>
+    <String>Coût</String>
+  </TextString>
+  
+   <TextString>
+    <Name>MenuSortTime</Name>
+    <String>Durée</String>
+  </TextString>
+  
+   <TextString>
+    <Name>MenuSortEvaluation</Name>
+    <String>Evaluation</String>
+  </TextString>
+  
+   <TextString>
+    <Name>MenuSortTool</Name>
+    <String>Outil</String>
+  </TextString>
+  
+   <TextString>
+    <Name>EditRecipeMenuButtonString</Name>
+    <String>Editer Recette</String>
+  </TextString>
+  
+   <TextString>
+    <Name>EditRecipeMenuButtonDesc</Name>
+    <String>Vous pouvez modifier librement les recettes que vous avez créées.</String>
+  </TextString>
+  
+   <TextString>
+    <Name>RemoveAllRecipeString</Name>
+    <String>Supprimer toutes les recettes</String>
+  </TextString>
+  
+  <!-- Policies/Decision Screen -->
+  
+  <TextString>
+    <Name>GeneralDecisionToggleString</Name>
+    <String>DECISIONS GENERALES</String>
+  </TextString>
+
+  <TextString>
+    <Name>RestaurantDecisionsToggleString</Name>
+    <String>DECISIONS DU RESTAURANT</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PoliciesToggleString</Name>
+    <String>POLITIQUES</String>
+  </TextString>
+  
+  <!-- Main Menu -->
+  
+  <TextString>
+    <Name>MainMenuNewGameString</Name>
+    <String>NOUVELLE PARTIE</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MainMenuLoadGameString</Name>
+    <String>CHARGER PARTIE</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MainMenuOptionsString</Name>
+    <String>Options</String>
+  </TextString>
+
+  <TextString>
+    <Name>MainMenuCreditsString</Name>
+    <String>Crédits</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MainMenuQuitString</Name>
+    <String>QUITTER</String>
+  </TextString>
+  
+  <TextString>
+    <Name>OptionsResolutionString</Name>
+    <String>Résolution</String>
+  </TextString>
+  
+  <TextString>
+    <Name>OptionsQualityString</Name>
+    <String>Qualité</String>
+  </TextString>
+  
+  <TextString>
+    <Name>OptionsFullscreenString</Name>
+    <String>Plein écran</String>
+  </TextString>
+
+  <TextString>
+    <Name>OptionsVsyncString</Name>
+    <String>Synchro V</String>
+  </TextString>
+  
+  <TextString>
+    <Name>OptionsHighQualityShadowsString</Name>
+    <String>Ombres haute qualité</String>
+  </TextString>
+  
+  <TextString>
+    <Name>OptionsAAString</Name>
+    <String>Anti-Aliasing</String>
+  </TextString>
+  
+  <TextString>
+    <Name>OptionsAOString</Name>
+    <String>Occlusion ambiante</String>
+  </TextString>
+  
+  <TextString>
+    <Name>OptionsScreenSpaceReflectionsString</Name>
+    <String>Screen Space Reflections</String>
+  </TextString>
+
+  <TextString>
+    <Name>OptionsBloomString</Name>
+    <String>Bloom</String>
+  </TextString>
+  
+  <TextString>
+    <Name>LoadGameButtonString</Name>
+    <String>Charger Partie</String>
+  </TextString>
+  
+  <TextString>
+    <Name>LoadButtonString</Name>
+    <String>Charger</String>
+  </TextString>
+  
+  <TextString>
+    <Name>BackButtonString</Name>
+    <String>Précédent</String>
+  </TextString>
+  
+  <TextString>
+    <Name>DeleteButtonString</Name>
+    <String>Supprimer</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SaveGaemButtonString</Name>
+    <String>Sauvegarder Partie</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SaveButtonString</Name>
+    <String>Sauvegarder</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MainNewSavePlaceholderString</Name>
+    <String>Nouvelle Sauvegarde</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MainRestNamePlaceholderString</Name>
+    <String>Déverrouiller et entrer un nom...</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MainQuitString</Name>
+    <String>Quitter vers le Bureau</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MainExitString</Name>
+    <String>Quitter vers le Menu Principal</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MainOptionsString</Name>
+    <String>Options</String>
+  </TextString>
+  
+  <TextString>
+    <Name>GameOverBackString</Name>
+    <String>RETOURNER AU MENU PRINCIPAL</String>
+  </TextString>
+  
+  <!-- Furnishing -->
+  
+  <TextString>
+    <Name>FurnitureToolsCategoryName</Name>
+    <String>Mobilier et outils</String>
+  </TextString>
+  
+  <TextString>
+    <Name>FurnitureToolsCategoryDesc</Name>
+    <String>Cette catégorie contient tous les outils et décorations pour votre restaurant.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>WallsFloorsName</Name>
+    <String>Murs et Sols</String>
+  </TextString>
+  
+  <TextString>
+    <Name>WallsFloorsDesc</Name>
+    <String>Cette catégorie contient toutes les variantes permettant de personnaliser les murs et les sols de votre restaurant.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>WallsFloorsGenericDesc</Name>
+    <String>La personnalisation des murs et des sols est totalement gratuite.</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>HallFloorName</Name>
+    <String>Personnaliser le sol du hall</String>
+  </TextString>
+  
+  <TextString>
+    <Name>KitchenFloorName</Name>
+    <String>Personnaliser le sol de la cuisine</String>
+  </TextString>
+  
+  <TextString>
+    <Name>HallWallName</Name>
+    <String>Personnaliser les murs du hall</String>
+  </TextString>
+  
+  <TextString>
+    <Name>KitchenWallName</Name>
+    <String>Personnaliser les murs de la cuisine</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ExternalWallName</Name>
+    <String>Personnaliser les murs extérieurs</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ApplyButtonString</Name>
+    <String>Appliquer</String>
+  </TextString>
+
+  <TextString>
+    <Name>SellButtonString</Name>
+    <String>VENDRE</String>
+  </TextString>
+
+  <TextString>
+    <Name>CANTSellButtonString</Name>
+    <String>En cours d'utilisation</String>
+  </TextString>
+
+  <TextString>
+    <Name>UnavailableItemString</Name>
+    <String>Cet objet pourra être débloqué dans le panneau des décisions une fois que votre popularité sera suffisamment élevée.</String>
+  </TextString>
+
+  <TextString>
+    <Name>FurnshingInstructions1String</Name>
+    <String>Faites un clic droit pour faire tourner l'objet.</String>
+  </TextString>
+
+  <TextString>
+    <Name>FurnshingInstructions2String</Name>
+    <String>Appuyez sur la touche Shift et maintenez-la enfoncée pour placer les objets avec précision.</String>
+  </TextString>
+
+  <TextString>
+    <Name>FurnshingInstructions3String</Name>
+    <String>Appuyez sur Z ou X pour faire tourner l'aperçu</String>
+  </TextString>
+  
+  <!-- Chef Advisor -->
+  
+  <TextString>
+    <Name>ChefAdvisorDashboardToggleString</Name>
+    <String>Journal de bord</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorReviewsToggleString</Name>
+    <String>Critiques</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorLatestReviewsString</Name>
+    <String>Dernières critiques</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CAAtmosphereString</Name>
+    <String>Ambiance</String>
+  </TextString>
+
+  <TextString>
+    <Name>CAAverageString</Name>
+    <String>Moyenne</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CAExcellentString</Name>
+    <String>Excellent</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CAFoodString</Name>
+    <String>Nourriture</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CAPoorString</Name>
+    <String>Mauvaise</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CAPricesString</Name>
+    <String>Prix</String>
+  </TextString>
+
+  <TextString>
+    <Name>CAServiceText</Name>
+    <String>Service</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CATerribleText</Name>
+    <String>Terrible</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CAVeryGoodText</Name>
+    <String>Très bon</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CAReviewsString</Name>
+    <String> Critiques</String>
+  </TextString>
+  
+  <!-- Summary/End Day Screen -->
+  
+  <TextString>
+    <Name>SummaryCurrentWeekString</Name>
+    <String>Semaine en cours</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SummaryPreviousWeekString</Name>
+    <String>Semaine précédente</String>
+  </TextString>
+
+  <TextString>
+    <Name>EconomicSummaryString</Name>
+    <String>Synthèse économique</String>
+  </TextString>
+
+  <TextString>
+    <Name>EconomicSummaryBudgetString</Name>
+    <String>Solde des liquidités</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EconomicSummaryEarningsString</Name>
+    <String>Bénéfices</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EconomicSummaryFoodString</Name>
+    <String>Nourriture</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EconomicSummaryBeveragesString</Name>
+    <String>Boissons</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EconomicSummaryOtherString</Name>
+    <String>Autre</String>
+  </TextString>
+
+  <TextString>
+    <Name>EconomicSummaryExpensesString</Name>
+    <String>Dépenses</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EconomicSummaryPersonnelString</Name>
+    <String>Personnel</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EconomicSummaryRentString</Name>
+    <String>Loyer</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EconomicSummaryRawGoodsString</Name>
+    <String>Matières premières</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EconomicSummaryMaintenanceString</Name>
+    <String>Entretien</String>
+  </TextString>
+
+  <TextString>
+    <Name>EconomicSummaryBalanceString</Name>
+    <String>Bilan hebdomadaire</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SummarySaveExitButton</Name>
+    <String>Sauvegarder et Quitter</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SummaryProceedButton</Name>
+    <String>Continuer</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EndDayDescString</Name>
+    <String>Un seul jour simule une semaine entière d'activité</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EndDayTitleString</Name>
+    <String>Fin de la journée</String>
+  </TextString>
+  
+  <!-- RecipeEditor -->
+  
+  <TextString>
+    <Name>RecipeEditorTemplateSelectionString</Name>
+    <String>Choisir un modèle de recette</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SaveButtonRecipeEditorString</Name>
+    <String>Accepter</String>
+  </TextString>
+
+  <TextString>
+    <Name>MenuSearchString</Name>
+    <String>Rechercher</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MenuFilterString</Name>
+    <String>Filtrer</String>
+  </TextString>
+  
+  <TextString>
+    <Name>RecipeEditorFlavorString</Name>
+    <String>Saveur</String>
+  </TextString>
+  
+  <TextString>
+    <Name>RecipeEditorTasteString</Name>
+    <String>Goût</String>
+  </TextString>
+  
+  <TextString>
+    <Name>RecipeEditorSkillsString</Name>
+    <String>Compétences</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CaloriesString</Name>
+    <String>kcal</String>
+  </TextString>
+  
+  <TextString>
+    <Name>RecipeEditorNamePlaceholderString</Name>
+    <String>Entrer le nom de la recette...</String>
+  </TextString>
+  
+  <TextString>
+    <Name>RecipeEditorSearchPlaceholderString</Name>
+    <String>Entrer le nom de l'ingrédient...</String>
+  </TextString>
+
+  <!-- Restaurant Menu -->
+  
+  <TextString>
+    <Name>RecipeColumnString</Name>
+    <String>Recette</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TagsColumnString</Name>
+    <String>Etiquettes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ToolsColumnString</Name>
+    <String>Outils</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PriceTimeColumnString</Name>
+    <String>Prix &amp; Durée</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MenuRecipeName</Name>
+    <String>Détails de la recette</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MenuRecipeInfoString</Name>
+    <String>Evaluation de la recette : {EVALUATION}
+Coût des matières premières: {COST}
+Temps de préparation (Secondes): {PREPARATION_TIME}</String>
+  </TextString>
+  
+  <!-- Restaurants Panel -->
+  
+  <TextString>
+    <Name>RestaurantsPanelCurrentRestaurantsString</Name>
+    <String>Restaurants actuels</String>
+  </TextString>
+
+  <TextString>
+    <Name>RestaurantsPanelBuyRestaurantsString</Name>
+    <String>Acheter des restaurants</String>
+  </TextString>
+  
+  <TextString>
+    <Name>RestaurantsPanelRentRestaurantsString</Name>
+    <String>Louer des restaurants</String>
+  </TextString>
+  
+  <TextString>
+    <Name>RestaurantsBuyButton</Name>
+    <String>Acheter</String>
+  </TextString>
+  
+  <!-- Staff Panel -->
+  
+  <TextString>
+    <Name>StaffMenuAvailablePersonnelString</Name>
+    <String>Personnel disponible</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialDescription</Name>
+    <String>Ce curseur radial représente le niveau de compétence de votre membre du personnel dans un certain domaine. Il n'est représentatif que du nombre de points de compétence qui ont été dépensés pour une certaine spécialisation.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialAppetizer</Name>
+    <String>Niveau de compétence en apéritifs</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialMainCourse</Name>
+    <String>Niveau de compétences en plats principaux</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialSoup</Name>
+    <String>Niveau de compétence en soupes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialSalad</Name>
+    <String>Niveau de compétence en salades</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialSide</Name>
+    <String>Niveau de compétence en plats d'accompagnement</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialDessert</Name>
+    <String>Niveau de compétence en desserts</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialWelcoming</Name>
+    <String>Niveau de compétence pour l'accueil</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialService</Name>
+    <String>Niveau de compétence pour le service</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialCheckout</Name>
+    <String>Niveau de compétence à la caisse</String>
+  </TextString>
+  
+  <TextString>
+    <Name>StaffRadialFitness</Name>
+    <String>Niveau de compétence physique</String>
+  </TextString>
+  
+<!-- TOOLTIPS -->
+  <TextString>
+    <Name>SkillLevelString</Name>
+    <String>Niveau</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SkillLevelCostString</Name>
+    <String>Points de compétence nécessaire : </String>
+  </TextString>
+
+  <TextString>
+    <Name>UISeatsName</Name>
+    <String>Places</String>
+  </TextString>
+
+  <TextString>
+    <Name>UIIngredientPointsName</Name>
+    <String>Points d'ingrédients</String>
+  </TextString>
+
+  <TextString>
+    <Name>UISkillPointsName</Name>
+    <String>Points d'expérience</String>
+  </TextString>
+
+  <TextString>
+    <Name>UITutorialGuyName</Name>
+    <String>Tutoriel</String>
+  </TextString>
+
+  <TextString>
+    <Name>UITutorialGuyDescription</Name>
+    <String>Vous pouvez cliquer à gauche sur moi et me faire glisser sur les éléments de l'interface pour en savoir plus ! Cliquez sur le bouton droit pour en savoir plus sur le panneau actuellement ouvert.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISeatsDescription</Name>
+    <String>C'est le nombre de places disponibles dans le restaurant</String>
+  </TextString>
+
+  <TextString>
+    <Name>UIMoneyName</Name>
+    <String>Solde</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIPopularityName</Name>
+    <String>Popularité</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIBalanceName</Name>
+    <String>Solde prévisionnel</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIMenuName</Name>
+    <String>Menu options</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIRestaurantLevelName</Name>
+    <String>Niveau du restaurant</String>
+  </TextString>
+
+  <TextString>
+    <Name>UIRestaurantLevelDescription</Name>
+    <String>Ne fonctionne pas actuellement</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UICharacterScreenName</Name>
+    <String>Panneau personnage</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIMenuScreenName</Name>
+    <String>Menu</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIStaffScreenName</Name>
+    <String>Personnel</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIRecipeEditorName</Name>
+    <String>Editeur de recette</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIIngredientsName</Name>
+    <String>Panneau ingrédients</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIStatsName</Name>
+    <String>Statistiques</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UICAName</Name>
+    <String>ChefAdvisor</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>UIPoliciesName</Name>
+    <String>Politiques et décisions</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIRestaurantsName</Name>
+    <String>Carte de la ville</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIRecipeEditorFilterString</Name>
+    <String>Filtre</String>
+  </TextString>
+
+  <TextString>
+    <Name>UiFurnishingScreenName</Name>
+    <String>Ameublement</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UITasteValues</Name>
+    <String>Valeurs gustatives :
+</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISavoryName</Name>
+    <String>Salinité</String>
+  </TextString>
+  
+  <TextString>
+    <Name>NoTasteValuesName</Name>
+    <String>Aucune valeur gustative</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISavoryDescription</Name>
+    <String>Le taux de salinité de la recette.</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>UISavoryDescription2</Name>
+    <String>Le taux de salinité de l'ingrédient.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISweetName</Name>
+    <String>Goût sucré</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISweetDescription</Name>
+    <String>Le taux de sucre de la recette. </String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISweetDescription2</Name>
+    <String>Le taux de sucre de l'ingrédient.</String>
+  </TextString>
+
+  <TextString>
+    <Name>UISourName</Name>
+    <String>Acidité</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISourDescription</Name>
+    <String>Le taux d'acidité de la recette.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISourDescription2</Name>
+    <String>Le taux d'acidité de l'ingrédient. </String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIBitterName</Name>
+    <String>Amertume</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIBitterDescription</Name>
+    <String>Le taux d'amertume de la recette.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIBitterDescription2</Name>
+    <String>Le taux d'amertume de l'ingrédient.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIFatnessName</Name>
+    <String>Graisse</String>
+  </TextString>
+
+  <TextString>
+    <Name>UIFatnessDescription</Name>
+    <String>Le taux de graisse de la recette.</String>
+  </TextString>
+
+  <TextString>
+    <Name>UIFatnessDescription2</Name>
+    <String>Le taux de graisse et d'huile de l'ingrédient. </String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIMatchingsName</Name>
+    <String>Recherche d'arômes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIMatchingsDescription</Name>
+    <String>Nombre d'associations aromatiques dans la recette, divisé en associations positives, associations neutres et associations absentes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UICaloriesName</Name>
+    <String>Calories</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UICaloriesDescription</Name>
+    <String>Moins il y a de calories dans une recette, plus elle est saine.</String>
+  </TextString>
+
+  <TextString>
+    <Name>UICookingTimeName</Name>
+    <String>Temps de cuisson</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISelectTemplateName</Name>
+    <String>Choisir un modèle</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UICookingTimeDescription</Name>
+    <String>Temps total de cuisson, y compris les phases de préparation et de cuisson.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UICostName</Name>
+    <String>Coût des ingrédients</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UICostDescription</Name>
+    <String>Le coût de tous les ingrédients pour préparer une seule portion de cette recette.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIRequiredToolName</Name>
+    <String>Outil requis</String>
+  </TextString>
+
+  <TextString>
+    <Name>UIRelativeRecipeRatingName</Name>
+    <String>Evaluation globale de la recette</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIRelativeRecipeRatingDescription</Name>
+    <String>L'évaluation globale de cette recette par rapport au niveau actuel du restaurant.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UISaveRecipeName</Name>
+    <String>Sauvegarder la recette</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIDiscardRecipeName</Name>
+    <String>Nouvelle recette</String>
+    <String>Nouvelle recette</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIDiscardRecipeDescription</Name>
+    <String>Supprimer tous les changements et retirer le modèle choisi ainsi que tous les ingrédients ajoutés.</String>
+  </TextString>
+
+  <TextString>
+    <Name>UIHireButtonName</Name>
+    <String>Cliquer pour embaucher cette personne.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIFireButtonName</Name>
+    <String>Cliquer pour licencier cette personne.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIStatsSummaryName</Name>
+    <String>Statistiques du restaurant</String>
+  </TextString>
+  
+  <TextString>
+    <Name>UIIngredientsScreenName</Name>
+    <String>Ingrédients</String>
+  </TextString>
+  
+ 
+ <!-- Character Creation Customization Options, dinamically generated -->
+ 
+ <TextString>
+    <Name>CustomizationHeadString</Name>
+    <String>Tête</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CustomizationHairsString</Name>
+    <String>Cheveux</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CustomizationBodiesString</Name>
+    <String>Corps</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CustomizationHair_ColorString</Name>
+    <String>Couleur des chevuex</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CustomizationSkinString</Name>
+    <String>Couleur de la peau</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CustomizationColoration1String</Name>
+    <String>Couleur des vêtements #1</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CustomizationColoration2String</Name>
+    <String>Couleur des vêtements #2</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CustomizationColoration3String</Name>
+    <String>Couleur des vêtements #3</String>
+  </TextString>
+  
+ <TextString>
+    <Name>FaceFeatureFaceString</Name>
+    <String>Détails du visage</String>
+  </TextString>
+  
+ <TextString>
+    <Name>FaceFeatureExpressionString</Name>
+    <String>Expression</String>
+  </TextString>
+  
+ <TextString>
+    <Name>FireStaffString</Name>
+    <String>Membre du personnel des pompiers</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIPriceName</Name>
+    <String>Prix</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UICookingandPreparationTime</Name>
+    <String>Durée nécessaire</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UiSkillPointsAvailable</Name>
+    <String>Points de compétences disponibles</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIRequiredSkillPointsName</Name>
+    <String>Points de compétences requis</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIRequiredSkillPointsDescription</Name>
+    <String>Le nombre de points que vous devez investir dans cet arbre de compétences pour débloquer les compétences de ce niveau.</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>UIIngredientToggleTier1</Name>
+    <String>Basculer vers des ingrédients de qualité normale</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>UIIngredientToggleTier2</Name>
+    <String>Basculer vers des ingrédients de haute qualité</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>UIIngredientToggleTier3</Name>
+    <String>Basculer vers des ingrédients de qualité gastronomique</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleVegetablesIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés légumes</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleMeatIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés viandes</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleCarbsIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés glucides</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleSeafoodIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés fruits de mer</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleDairyIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés laitiers</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleSpiceIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés épicés</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleFruitIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés fruits</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleNutsIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés noix</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleOtherIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés autres</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleLegumeIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés légumes</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIToggleAlcoholIngredients</Name>
+    <String>Basculer vers des ingrédients étiquettés alcool</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIStaffPanelWelcomingDescription</Name>
+    <String>Lorsque cette icône devient rouge, cela signifie que certains clients attendent qu'un serveur les reçoive.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIStaffPanelServiceDescription</Name>
+    <String>Lorsque cette icône devient rouge, cela signifie que certains clients attendent de commander et d'être servis par votre personnel.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>UIStaffPanelCheckOutDescription</Name>
+    <String>Lorsque cette icône devient rouge, cela signifie que certains clients attendent qu'un serveur leur livre l'addition.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>RestNameToggleName</Name>
+    <String>(Dé)verrouiller le nom du restaurant</String>
+  </TextString>
+  
+ <TextString>
+    <Name>RestNameToggleDescription</Name>
+    <String>Cliquez ici pour déverrouiller le champ de saisie à gauche et entrer un nom pour votre restaurant. Cliquez à nouveau pour confirmer et verrouiller le nom.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>AccomodateFocusString</Name>
+    <String>Cliquez ici pour donner la priorité aux clients accueillis par ce serveur.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>ServingFocusString</Name>
+    <String>Cliquez ici pour prioriser la prise de commande et le service sur ce serveur</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CheckoutFocusString</Name>
+    <String>Cliquez ici pour prioriser la remise des additions et le nettoyage des tables pour ce serveur</String>
+  </TextString>
+  
+ <TextString>
+    <Name>RemoveFromMenuString</Name>
+    <String>Retirer la recette du menu</String>
+  </TextString>
+  
+ <TextString>
+    <Name>DeleteCustomRecipeName</Name>
+    <String>Supprimer la recette</String>
+  </TextString>
+  
+ <TextString>
+    <Name>DeleteCustomRecipeDescription</Name>
+    <String>Cliquez pour supprimer cette recette personnalisée. Si le bouton n'est pas actif, vous devrez attendre, la recette est encore en cours de cuisson ou servie.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>GameForcedPausedString</Name>
+    <String>Vous ne pouvez pas mettre le jeu en pause maintenant ! Vérifiez sur le côté droit de l'écran et voyez s'il y a des &lt;b&gt;Alertes&lt;/b&gt; actives et voyez ce que vous devez faire pour mettre le jeu en pause !</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CustomerEntityString</Name>
+    <String>Client</String>
+  </TextString>
+  
+  <!-- Map UI -->
+  
+  
+ <TextString>
+    <Name>RentInfluenceToggleName</Name>
+    <String>Basculer le mode loyer/influence</String>
+  </TextString>
+  
+ <TextString>
+    <Name>RentInfluenceToggleDescription</Name>
+    <String>Cliquez pour passer du mode loyer au mode influence.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>ConquerVisName</Name>
+    <String>Basculer la visualisation normale/d'influence</String>
+  </TextString>
+  
+ <TextString>
+    <Name>ConquerVisDescription</Name>
+    <String>Cliquez pour passer de la vue normale à la vue d'influence</String>
+  </TextString>
+  
+ <TextString>
+    <Name>RemoveInfluencePointName</Name>
+    <String>Retirer le point d'influence</String>
+  </TextString>
+  
+ <TextString>
+    <Name>RemoveInfluencePointDescription</Name>
+    <String>Quantité de points d'influence récupérés en supprimant l'influence récemment ajoutée dans ce district</String>
+  </TextString>
+  
+ <TextString>
+    <Name>AddInfluencePointName</Name>
+    <String>Dépenser le point d'influence</String>
+  </TextString>
+  
+ <TextString>
+    <Name>AddInfluencePointDescription</Name>
+    <String>Quantité de point d'influence nécessaire pour accroître votre influence dans le district. Plus vous vous éloignez de votre district de départ, plus le coût est élevé.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>InfluencePointsAvailableName</Name>
+    <String>Points d'influence</String>
+  </TextString>
+  
+ <TextString>
+    <Name>InfluencePointsAvailableDescription</Name>
+    <String>Les points d'influence peuvent être dépensés pour étendre votre influence dans les districts voisins, augmentant ainsi votre nombre de clients potentiels.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapRestaurantsForRentString</Name>
+    <String>Restaurants à louer</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapCurrentCustomersPoolString</Name>
+    <String>Portefeuille de clients actuels</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapRentingNewPlaceString</Name>
+    <String>CHANGER DE RESTAURANT</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapRentingNewPlaceString2</Name>
+    <String>AJOUTER UN NOUVEAU RESTAURANT</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapRentingNewPlaceString3</Name>
+    <String>LOUER VOTRE RESTAURANT</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapRentConfirmLongString</Name>
+    <String>Êtes-vous sûr que vous voulez que ce soit votre premier restaurant ?
+Vous pourrez changer à tout moment, mais après avoir dépensé votre budget en mobilier et en personnel, vous ne pourrez probablement pas vous offrir un autre restaurant pendant un certain temps.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapRentConfirmShortString</Name>
+    <String>Êtes-vous sûr de louer un nouveau restaurant ? Tout votre mobilier sera vendu et, après la journée en cours, vous déménagerez dans le nouveau restaurant, avec votre personnel.
+
+La décision peut être révoquée en utilisant ce panneau avant la fin de la journée en cours.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapNewPlaceRentString</Name>
+    <String>Nouveau loyer du restaurant :</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapNewPlaceClearanceString</Name>
+    <String>Vente de liquidation des meubles :</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapOldPlaceBudgetString</Name>
+    <String>Solde actuel du restaurant :</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapNewPlaceWeeklyRentString</Name>
+    <String>Loyer hebdomadaire :</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapNewPlaceCurrentRentString</Name>
+    <String>Loyer actuel du restaurant :</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapNewPlaceRefundedPointsString</Name>
+    <String>Influence remboursée
+Points :</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>ButtonConfirmCapsString</Name>
+    <String>CONFIRMER</String>
+  </TextString>
+  
+ <TextString>
+    <Name>ButtonBackCapsString</Name>
+    <String>PRECEDENT</String>
+  </TextString>
+  
+ <TextString>
+    <Name>MapNothingSelectedString</Name>
+    <String>Cliquez sur les icônes des districts sur la carte</String>
+  </TextString>
+  
+  
+  <!-- Summary -->
+  
+  
+ <TextString>
+    <Name>SummaryBalanceCapsString</Name>
+    <String>SOLDE</String>
+  </TextString>
+ 
+  
+ <TextString>
+    <Name>SummaryCustomerTypeString</Name>
+    <String>Type de client</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryCustomersCapsString</Name>
+    <String>CLIENTS</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryCustomerCategoryString</Name>
+    <String>CATEGORIE DE CLIENT</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryInfoCapsString</Name>
+    <String>INFO</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryLastWeekCapsString</Name>
+    <String>SEMAINE PASSEE</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryNameCapsString</Name>
+    <String>NOM</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryOtherString</Name>
+    <String>Autre</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryPoliciesString</Name>
+    <String>Politiques</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryRecipeString</Name>
+    <String>Recette</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFurnitureString</Name>
+    <String>Meubles et outils</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryCategoryCapsString</Name>
+    <String>CATEGORIE</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryExpenseCapsString</Name>
+    <String>DEPENSE</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryRatingCapsString</Name>
+    <String>NOTE</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFullOrderCapsString</Name>
+    <String>COMMANDE COMPLÈTE</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummeryOrdersCapsString</Name>
+    <String>COMMANDES</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryPopularityString</Name>
+    <String>POPULARITE</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryNetProfits30String</Name>
+    <String>Bénéfices nets
+(Mois précédent)</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryNetProfits7String</Name>
+    <String>Bénéfices nets
+(Hier)</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryRecipesCapsString</Name>
+    <String>RECETTES</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryTagsCapsString</Name>
+    <String>ETIQUETTES</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryTotal30String</Name>
+    <String>Total
+(Les 30 derniers jours)</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryDescriptionCapsString</Name>
+    <String>DESCRIPTION</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryServed30String</Name>
+    <String>N° Servi
+(Mois dernier)</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryTotal7String</Name>
+    <String>Total
+(Hier)</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryServed7String</Name>
+    <String>N° Servi
+(Hier)</String>
+  </TextString>
+  
+ <TextString>
+    <Name>N° Servi
+(Aujourd'hui)</Name>
+    <String>SummaryServedString</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryTotalString</Name>
+    <String>Total
+(Aujourd'hui)</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>SummaryTheyLikeString</Name>
+    <String>Ils apprécient :</String>
+  </TextString>
+ <TextString>
+    <Name>SummaryTheyDislikeString</Name>
+    <String>Ils détestent :</String>
+  </TextString>
+ <TextString>
+    <Name>SummaryExpenseBudgetString</Name>
+    <String>Budget des dépenses :</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>SummaryGourmetsString</Name>
+    <String>Gourmets</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryGourmetsDescString</Name>
+    <String>Gourmets, des personnalités légendaires prêtes à dépenser beaucoup d'argent lorsqu'elles vont au restaurant. Pour cette raison, non seulement elles sont peu nombreuses, mais leurs attentes sont aussi incroyablement élevées. Tout dans votre restaurant doit être parfait si vous voulez les satisfaire..</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryTouristHighString</Name>
+    <String>Touristes à budget élevé</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryTouristHighDescString</Name>
+    <String>Certains touristes sont heureux de payer cher pour un bon repas dans un bon restaurant. C'est pourquoi leurs attentes sont également élevées et vous aurez besoin d'un restaurant de haut niveau pour les satisfaire.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFoodEnthString</Name>
+    <String>Passionnés d'alimentation</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFoodEnthAllString</Name>
+    <String>Les passionnés d'alimentation mangent n'importe quoi, à condition que la qualité soit élevée !</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryGourmetsAllString</Name>
+    <String>Les gourmets mangent n'importe quoi, à condition que la qualité soit élevée !</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFoodEnthDescString</Name>
+    <String>Il y a beaucoup de gastronomes dans le monde, toujours à la recherche de nouvelles recettes à déguster et de nouveaux endroits à tester ! Ils ne se soucient pas vraiment de savoir si votre service est lent, si vos prix sont un peu élevés ou si votre endroit n'est pas parfaitement propre, leur principal intérêt est la nourriture que vous fournissez.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryTouristLowString</Name>
+    <String>Touristes à bas budget</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryTouristLowDescString</Name>
+    <String>Certains touristes ne sont pas prêts à dépenser beaucoup en nourriture, mais ils constituent néanmoins une cible de clientèle bien payée. Il est préférable d'avoir un endroit agréable si vous voulez les attirer, car ils ne connaissent généralement rien de la région et le fait d'avoir une bonne réputation locale ne les aidera pas à trouver votre restaurant.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFamilyHighString</Name>
+    <String>Familles à budget élevé</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFamilyHighDescString</Name>
+    <String>Certaines familles sont prêtes à dépenser beaucoup d'argent lorsqu'elles vont au restaurant. Elles commanderont beaucoup de choses différentes et dépenseront beaucoup de temps et d'argent dans votre restaurant. Il vaut mieux avoir un endroit agréable, des serveurs professionnels et un grand menu si vous voulez les satisfaire!</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFamilyLowString</Name>
+    <String>Familles à faible budget</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryFamilyLowDescString</Name>
+    <String>Toutes les familles ne sont pas prêtes à dépenser beaucoup lorsqu'elles sortent pour un repas. Malgré cela, elles commanderont plusieurs recettes différentes et passeront beaucoup de temps dans votre restaurant. Malgré tout, leurs attentes sont raisonnables et elles peuvent vous rapporter beaucoup d'argent au début de votre carrière.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryWhiteCollarString</Name>
+    <String>Bureaucrates</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryWhiteCollarDescString</Name>
+    <String>Les bureaucrates aiment dépenser leur gros salaire lorsqu'ils arrêtent de travailler et se rendent à un repas. Ils sont souvent pressés, et il vaut mieux les servir le plus vite possible si vous voulez éviter les mauvaises critiques et les clients en colère.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryBlueCOllarString</Name>
+    <String>Ouvriers</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryBlueCOllarDescString</Name>
+    <String>Les ouvriers ont toujours besoin d'un endroit où manger pour le déjeuner et le dîner, mais ils préfèrent ne pas y dépenser tout leur salaire et privilégient les endroits moins chers. Ils doivent souvent retourner au travail dès qu'ils le peuvent, et il faut donc parfois plus de serveurs pour les servir correctement, et éventuellement des recettes qui n'ont pas besoin d'être préparées en grand nombre.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryCheapskatesString</Name>
+    <String>Cheapskates</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryCheapskatesDescString</Name>
+    <String>Cheapskates's expectations are low, but their budget is even lower! They prefer saving money than eating something good, any of them for a different reason! There's a lot of them, because not everyone is interested in high quality food. You better get rid of them as soon as you can!</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryAllCustomersString</Name>
+    <String>Tous les clients</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryVegetarianString</Name>
+    <String>Végétariens</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryVegetarianDescString</Name>
+    <String>Les végétariens sont des personnes qui refusent de manger de la viande, quelle qu'elle soit, la plupart du temps pour des raisons éthiques. Il va sans dire qu'ils ne viendront jamais chez vous si vous ne leur fournissez pas de recettes végétariennes.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryVeganString</Name>
+    <String>Végétaliens</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryVeganDescString</Name>
+    <String>Les végétaliens ne mangent pas de viande ni rien qui puisse être classé comme produit animal. Il est préférable d'avoir quelques recettes végétaliennes dans votre menu si vous voulez les faire entrer chez vous !</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryOrdrsNumberCapsString</Name>
+    <String># COMMANDES</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummarySectionStringCaps</Name>
+    <String>SECTION</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SummaryAverageExpenseString</Name>
+    <String>Dépenses moyennes</String>
+  </TextString>
+  
+ <TextString>
+    <Name>WrongVersionSaveTitleID</Name>
+    <String>Sauvegarde non compatible</String>
+  </TextString>
+  
+ <TextString>
+    <Name>WrongVersionSaveTextID</Name>
+    <String>En raison des changements massifs apportés au jeu avec les dernières mises à jour, cette sauvegarde n'est plus compatible et son chargement créerait des problèmes majeurs avec votre jeu. Si vous souhaitez continuer à jouer avec cette sauvegarde, veuillez revenir à une ancienne version du jeu disponible sur Steam en accédant au panneau Bêta du jeu.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>CantSellPopupMessage</Name>
+    <String>Cet objet est actuellement utilisé et ne peut pas être vendu ou déplacé.</String>
+  </TextString>
+  
+  
+  <!-- Stances & new staff lateral panel -->
+  
+  
+ <TextString>
+    <Name>StanceNameAppetizer</Name>
+    <String>Cuisiner les entrées</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescAppetizer</Name>
+    <String>Lorsqu'il est activé, ce chef cuisinera des recettes répertoriées sous la rubrique entrées</String>
+  </TextString>
+  
+ <TextString>
+    <Name>StanceNameDessert</Name>
+    <String>Cuisiner les desserts</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescDessert</Name>
+    <String>Lorsqu'il est activé, ce chef cuisinera des recettes répertoriées sous la rubrique desserts</String>
+  </TextString>
+  
+ <TextString>
+    <Name>StanceNameSide</Name>
+    <String>Cuisiner les plats d'accompagnement</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescSide</Name>
+    <String>Lorsqu'il est activé, ce chef cuisinera des recettes répertoriées sous la rubrique plats d'accompagnement</String>
+  </TextString>
+  
+ <TextString>
+    <Name>StanceNameMainCourse</Name>
+    <String>Cuisiner les plats principaux</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescMainCourse</Name>
+    <String>Lorsqu'il est activé, ce chef cuisinera des recettes répertoriées sous la rubrique plats principaux</String>
+  </TextString>
+  
+ <TextString>
+    <Name>StanceNameSalad</Name>
+    <String>Cuisiner les salades</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescSalad</Name>
+    <String>Lorsqu'il est activé, ce chef cuisinera des recettes répertoriées sous la rubrique salades</String>
+  </TextString>
+  
+ <TextString>
+    <Name>StanceNameSoup</Name>
+    <String>Cuisiner les soupes</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescSoup</Name>
+    <String>Lorsqu'il est activé, ce chef cuisinera des recettes répertoriées sous la rubrique Soupes</String>
+  </TextString>
+  
+  
+  
+  
+ <TextString>
+    <Name>StanceNameWelcoming</Name>
+    <String>Accueil</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescWelcoming</Name>
+    <String>Lorsqu'il est activé, ce serveur accueille les nouveaux clients et leur indique où s'asseoir</String>
+  </TextString>
+  
+ <TextString>
+    <Name>StanceNameService</Name>
+    <String>Service</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescService</Name>
+    <String>Lorsqu'il est activé, ce serveur prend les commandes des tables et les livre dès qu'elles sont prêtes</String>
+  </TextString>
+  
+ <TextString>
+    <Name>StanceNameCheckOut</Name>
+    <String>Régler l'addition</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescCheckOut</Name>
+    <String>Lorsqu'il est activé, ce serveur remet l'addition aux clients et nettoie les tables</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>StanceNameRest</Name>
+    <String>Se reposer</String>
+  </TextString>
+ <TextString>
+    <Name>StanceDescRest</Name>
+    <String>Lorsqu'il est activé, ce membre du personnel cesse de travailler et récupère son énergie. Une fois désactivé, le membre du personnel retournera aux tâches précédemment sélectionnées</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>AverageMoraleName</Name>
+    <String>Moral moyen</String>
+  </TextString>
+ <TextString>
+    <Name>AverageMoraleDescription</Name>
+    <String>Un moral moyen plus élevé réduira le temps de récupération de toutes les compétences actives, ce qui vous permettra de les utiliser plus souvent pour améliorer les performances de votre restaurant :
+
+Moral Niveau 1 (Rouge): 9 heures de récupération;
+Moral Niveau 2 (Orange): 6 heures de récupération;
+Moral Niveau 3 (Vert foncé): 3 heures de récupération;
+Moral Niveau 4 (Vert clair): 2 heures de récupération;
+Moral Niveau 5 (Azur): 90 minutes de récupération.
+</String>
+  </TextString>
+  
+  
+  
+ <TextString>
+    <Name>PoliciesEventsMoraleChange</Name>
+    <String>Selon votre position actuelle en matière de politique du personnel, votre personnel gagnera quelques points de moral à la fin de la journée. 
+	
+Le moral est divisé en niveaux et 100 points sont nécessaires pour augmenter le niveau.</String>
+  </TextString>
+ <TextString>
+    <Name>CustomersSatisfationMorale</Name>
+    <String>Plus vos clients seront satisfaits, plus vous gagnerez de points de moral à la fin de la journée. Consultez vos critiques pour savoir comment votre restaurant se porte.. 
+	
+Le moral est divisé en niveaux et 100 points sont nécessaires pour augmenter le niveau.</String>
+  </TextString>
+  
+  
+  
+  
+  
+  
+ <TextString>
+    <Name>OpenStatsTextID</Name>
+    <String>Ouvrir le panneau des statistiques</String>
+  </TextString>
+  
+ <TextString>
+    <Name>NoTemplateTextID</Name>
+    <String>Sélectionner un modèle</String>
+  </TextString>
+  
+ <TextString>
+    <Name>NoNameTextID</Name>
+    <String>Choisir un nom</String>
+  </TextString>
+  
+ <TextString>
+    <Name>NameAlreadyUsedTextID</Name>
+    <String>Nom déjà utilisé</String>
+  </TextString>
+  
+ <TextString>
+    <Name>StartNewRecipeTextID</Name>
+    <String>Accepter et ouvrir le panneau des ingrédients</String>
+  </TextString>
+  
+ <TextString>
+    <Name>AcceptModificationsTextID</Name>
+    <String>Ouvrir le panneau des ingrédients</String>
+  </TextString>
+  
+ <TextString>
+    <Name>QualitySliderTitle</Name>
+    <String>Ratio de qualité des ingrédients</String>
+  </TextString>
+  
+ <TextString>
+    <Name>QualitySliderDesc</Name>
+    <String>Plus les ingrédients de haute qualité sont utilisés dans la recette, plus le bonus qu'ils apportent à l'évaluation de la recette est élevé.</String>
+  </TextString>
+  
+ <TextString>
+    <Name>SaveStringEditorText</Name>
+    <String>Sauvegarder</String>
+  </TextString>
+  
+ <TextString>
+    <Name>OverwriteStringEditorText</Name>
+    <String>Écraser</String>
+  </TextString>
+  
+ <TextString>
+    <Name>BodyFeatureString</Name>
+    <String>Corps</String>
+  </TextString>
+ 
+ <!-- Keys options -->
+ 
+ <TextString>
+    <Name>CAMERA_MOVE_LEFT_String</Name>
+    <String>Déplacement de caméra : vers la gauche</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CAMERA_MOVE_RIGHT_String</Name>
+    <String>Déplacement de caméra : vers la droite</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CAMERA_MOVE_FWD_String</Name>
+    <String>Déplacement de caméra : vers le haut</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CAMERA_MOVE_BACK_String</Name>
+    <String>Déplacement de caméra : vers le bas</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CAMERA_ROTATE_CW_String</Name>
+    <String>Rotation de la caméra : Dans le sens horaire</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CAMERA_ROTATE_CCW_String</Name>
+    <String>Rotation de la caméra : Dans le sens anti-horaire</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CAMERA_ZOOM_IN_String</Name>
+    <String>Zoom de la caméra</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CAMERA_ZOOM_OUT_String</Name>
+    <String>Zoom arrière de la caméra</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>PLACEMENT_GRID_SNAP_String</Name>
+    <String>Positionnement précis de l'ameublement</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>PLACEMENT_ROTATE_CW_String</Name>
+    <String>Placement Rotation dans le sens horairee</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>PLACEMENT_ROTATE_CCW_String</Name>
+    <String>Placement Rotation dans le sens anti-horaire</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>PREVIEW_ROTATE_CW_String</Name>
+    <String>Aperçu de l'ameublement Rotation dans le sens horaire</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>PREVIEW_ROTATE_CCW_String</Name>
+    <String>Aperçu de l'ameublement Rotation dans le sens anti-horaire</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_CLOSE_String</Name>
+    <String>Fermer le sous-panneau</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_SKILLS_String</Name>
+    <String>Ouvrir le panneau personnage</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_MENU_String</Name>
+    <String>Ouvrir le menu du restaurant</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_STAFF_String</Name>
+    <String>Ouvrir le panneau du personnel</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_RECIPE_String</Name>
+    <String>Ouvrir l'éditeur de recette</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_RESTAURANT_String</Name>
+    <String>Ouvrir le panneau d'ameublement</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_INGREDIENTS_String</Name>
+    <String>Ouvrir le panneau ingrédients</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_CHEF_ADVISOR_String</Name>
+    <String>Ouvrir ChefAdvisor</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_SLIDERS_String</Name>
+    <String>Ouvrir le panneau politiques et décisions</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_STATS_String</Name>
+    <String>Ouvrir le panneau statistiques</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>SUBPANEL_OPEN_RESTAURANTS_String</Name>
+    <String>Ouvrir la carte de la ville</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>PAUSE_TOGGLE_String</Name>
+    <String>Basculer Pause/Jouer</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>GAME_SPEED_INCREASE_String</Name>
+    <String>Augmenter la vitesse du jeu</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>GAME_SPEED_DECREASE_String</Name>
+    <String>Diminuer la vitesse du jeu</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CancelUIString</Name>
+    <String>Annuler</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CycleQualityString</Name>
+    <String>Cycle Qualité des ingrédients</String>
+  </TextString>
+ 
+ <TextString>
+    <Name>CycleQualityDesc</Name>
+    <String>Cliquez ici pour modifier la qualité de tous les ingrédients actuellement utilisés dans la recette.</String>
+  </TextString>
+ 
+ 
+</TextStrings>

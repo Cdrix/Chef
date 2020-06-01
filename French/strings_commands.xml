@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+  <TextString>
+    <Name>AddMoneyPolicyDescription</Name>
+    <String>Coût journalier :&lt;b&gt; {PARAM:0 int}$&lt;/b&gt;</String>
+  </TextString>
+  <TextString>
+    <Name>AddMoneyHourlyDescription</Name>
+    <String>Coût horaire :&lt;b&gt; {PARAM:0 int}$&lt;/b&gt;</String>
+  </TextString>
+  <TextString>
+    <Name>AddCityPointsPolicyDescription</Name>
+    <String>Gain quotidien de points d'influence :&lt;b&gt; {PARAM:0 int}&lt;/b&gt;</String>
+  </TextString>
+  <TextString>
+    <Name>AddMoralePolicyDescription</Name>
+    <String>Gain quotidien de points de moral :&lt;b&gt; {PARAM:0 int}&lt;/b&gt;</String>
+  </TextString>
+  <TextString>
+    <Name>AddEnergyCommandDescription</Name>
+    <String>Toute l'énergie sera récupérée à la fin de la journée.</String>
+  </TextString>
+  
+</TextStrings>

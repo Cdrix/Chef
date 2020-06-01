@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+  <TextString>
+    <Name>MeatDescriptionString2</Name>
+    <String>L'étiquette Viande sera ajoutée à la recette si au moins 25 % de son poids est constitué d'ingrédients étiquetés Viande.</String>
+  </TextString>
+  <TextString>
+    <Name>CarbsDescriptionString2</Name>
+    <String>L'étiquette Glucides sera ajoutée à la recette si au moins 25 % de son poids est constitué d'ingrédients étiquetés Glucides.</String>
+  </TextString>
+  <TextString>
+    <Name>FruitDescriptionString2</Name>
+    <String>L'étiquette Fruit sera ajoutée à la recette si au moins 15 % de son poids est constitué d'ingrédients étiquetés Fruit.</String>
+  </TextString>
+  <TextString>
+    <Name>NutDescriptionString2</Name>
+    <String>L'étiquette Noix sera ajoutée à la recette si au moins 15 % de son poids est constitué d'ingrédients étiquetés Noix.</String>
+  </TextString>
+  <TextString>
+    <Name>LegumeDescriptionString2</Name>
+    <String>L'étiquette Légume sera ajoutée à la recette si au moins 15 % de son poids est constitué d'ingrédients étiquetés Légume.</String>
+  </TextString>
+  <TextString>
+    <Name>SpiceDescriptionString2</Name>
+    <String>L'étiquette Epice sera ajoutée à la recette si au moins 15 % de son poids est constitué d'ingrédients étiquetés Epice.</String>
+  </TextString>
+  <TextString>
+    <Name>AlcoholDescriptionString2</Name>
+    <String>L'étiquette Alcool sera ajoutée à la recette si au moins 15 % de son poids est constitué d'ingrédients étiquetés Alcool.</String>
+  </TextString>
+  <TextString>
+    <Name>DairyDescriptionString2</Name>
+    <String>L'étiquette Produits laitiers sera ajoutée à la recette si au moins 15 % de son poids est constitué d'ingrédients étiquetés Produits laitiers.</String>
+  </TextString>
+  <TextString>
+    <Name>OtherDescriptionString2</Name>
+    <String>L'autre étiquette n'est pas une véritable étiquette, elle ne devrait même pas exister, donc vous ne pouvez pas l'ajouter aux recettes. Blâmez les développeurs, c'est leur faute !</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>VegetablesDescriptiveNameString</Name>
+    <String>Légumes</String>
+  </TextString>
+  <TextString>
+    <Name>VegetablesTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Légumes. Les légumes sont bon marché et sains. Ils sont utilisés dans de nombreuses recettes.</String>
+  </TextString>
+  <TextString>
+    <Name>VegetablesDescriptionString2</Name>
+    <String>L'étiquette Légumes sera ajoutée à la recette si au moins 25 % de son poids est constitué d'ingrédients étiquetés Légumes.</String>
+  </TextString>
+  <TextString>
+    <Name>MeatDescriptiveNameString</Name>
+    <String>Viande</String>
+  </TextString>
+  <TextString>
+    <Name>MeatTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Viande. La viande est relativement chère, mais elle est appréciée par de nombreux consommateurs..</String>
+  </TextString>
+  <TextString>
+    <Name>SeafoodDescriptiveNameString</Name>
+    <String>Fruit de mer</String>
+  </TextString>
+  <TextString>
+    <Name>SeafoodDescriptionString2</Name>
+    <String>L'étiquette Fruits de mer sera ajoutée à la recette si au moins 25 % de son poids est constitué d'ingrédients étiquetés Fruits de mer.</String>
+  </TextString>
+  <TextString>
+    <Name>SeafoodTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Fruits de mer. Les fruits de mer sont chers et souvent considérés comme des aliments de haute qualité</String>
+  </TextString>
+  <TextString>
+    <Name>VegetarianDescriptiveNameString</Name>
+    <String>Végétarian</String>
+  </TextString>
+  <TextString>
+    <Name>VegetarianTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Végétarien. L'utilisation d'ingrédients étiquetés Fruits de mer ou Viande permet d'enlever cette étiquette d'une recette.</String>
+  </TextString>
+  <TextString>
+    <Name>VeganDescriptiveNameString</Name>
+    <String>Végétalien</String>
+  </TextString>
+  <TextString>
+    <Name>VeganTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Végétalien. L'utilisation d'ingrédients étiquetés Fruits de mer ou Viande permet d'enlever cette étiquette d'une recette.</String>
+  </TextString>
+  <TextString>
+    <Name>DessertDescriptiveNameString</Name>
+    <String>Dessert</String>
+  </TextString>
+  <TextString>
+    <Name>DessertTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Dessert. Seules les recettes créées à l'aide d'un modèle de dessert porteront cette étiquette.</String>
+  </TextString>
+  <TextString>
+    <Name>SpicyDescriptiveNameString</Name>
+    <String>Epice</String>
+  </TextString>
+  <TextString>
+    <Name>SpicyTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Épice. Les épices sont largement utilisées dans le monde entier et certaines d'entre elles sont utilisées de manière intensive pour la cuisine.</String>
+  </TextString>
+  <TextString>
+    <Name>HealthyDescriptiveNameString</Name>
+    <String>Sain</String>
+  </TextString>
+  <TextString>
+    <Name>HealthyTagDescriptionString</Name>
+    <String>Cette recette porte l'étiquette Sain. Seules les recettes contenant 400 calories ou moins peuvent porter cette étiquette.</String>
+  </TextString>
+  <TextString>
+    <Name>FruitDescriptiveNameString</Name>
+    <String>Fruit</String>
+  </TextString>
+  <TextString>
+    <Name>FruitTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Fruit.</String>
+  </TextString>
+  <TextString>
+    <Name>NutDescriptiveNameString</Name>
+    <String>Noix</String>
+  </TextString>
+  <TextString>
+    <Name>NutTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Noix. Les noix de toutes sortes sont souvent considérées comme saines.</String>
+  </TextString>
+  <TextString>
+    <Name>LegumeDescriptiveNameString</Name>
+    <String>Légume</String>
+  </TextString>
+  <TextString>
+    <Name>LegumeTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Légumes. Les légumes sont la base de l'alimentation de nombreuses personnes.</String>
+  </TextString>
+  <TextString>
+    <Name>SpiceDescriptiveNameString</Name>
+    <String>Epice</String>
+  </TextString>
+  <TextString>
+    <Name>SpiceTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Épice. Les épices sont largement utilisées dans le monde entier et certaines d'entre elles sont utilisées de manière intensive pour la cuisine.</String>
+  </TextString>
+  <TextString>
+    <Name>AlcoholDescriptiveNameString</Name>
+    <String>Alcool</String>
+  </TextString>
+  <TextString>
+    <Name>AlcoholTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Alcool. Les boissons alcoolisées peuvent être utilisées dans de nombreuses recettes.</String>
+  </TextString>
+  <TextString>
+    <Name>DairyDescriptiveNameString</Name>
+    <String>Produits laitiers</String>
+  </TextString>
+  <TextString>
+    <Name>DairyTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Produits laitiers. Les produits laitiers sont assez courants dans certaines cultures.</String>
+  </TextString>
+
+  <TextString>
+    <Name>CarbsDescriptiveNameString</Name>
+    <String>Glucides</String>
+  </TextString>
+  <TextString>
+    <Name>CarbsTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Glucides. Les glucides sont largement utilisés dans le monde entier, souvent au quotidien.</String>
+  </TextString>
+
+  <TextString>
+    <Name>OtherDescriptiveNameString</Name>
+    <String>Autre</String>
+  </TextString>
+  <TextString>
+    <Name>OtherTagDescriptionString</Name>
+    <String>Cet ingrédient a une étiquette Autre. Les ingrédients sans catégorie unique sont regroupés sous cette étiquette, qui ne peut pas être héritée par la recettes.</String>
+  </TextString>
+
+  <TextString>
+    <Name>BeerDescriptiveNameString</Name>
+    <String>Bière</String>
+  </TextString>
+  <TextString>
+    <Name>BeerTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Bière.</String>
+  </TextString>
+
+  <TextString>
+    <Name>WineDescriptiveNameString</Name>
+    <String>Vin</String>
+  </TextString>
+  <TextString>
+    <Name>WineTagDescriptionString</Name>
+    <String>Cet ingrédient ou cette recette porte l'étiquette Vin.</String>
+  </TextString>
+  
+
+  <TextString>
+    <Name>FatDescriptiveNameString</Name>
+    <String>Graisse</String>
+  </TextString>
+  <TextString>
+    <Name>FatTagDescriptionString</Name>
+    <String>Cet ingrédient porte l'étiquette Graisse. Les graisses sont utiles dans de nombreux processus de cuisson, mais cette étiquette ne peut pas être héritée par les recettes.</String>
+  </TextString>
+  
+
+  <TextString>
+    <Name>HeavyweightDescriptiveNameString</Name>
+    <String>Poids lourd</String>
+  </TextString>
+  <TextString>
+    <Name>HeavyweightTagDescriptionString</Name>
+    <String>Cette recette a l'étiquette "Graisse". Seules les recettes contenant 800 calories ou plus peuvent porter cette étiquette.</String>
+  </TextString>
+  
+  
+  <!-- Tag filters -->
+  
+  <TextString>
+    <Name>NoFilterName</Name>
+    <String>Aucun Filtre</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsVeganName</Name>
+    <String>Végétalien</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsVegetarianName</Name>
+    <String>Végétarien</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsGreenName</Name>
+    <String>Légumes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsFruitName</Name>
+    <String>Fruits</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsMeatName</Name>
+    <String>Viande</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsPastaName</Name>
+    <String>Pâtes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsFatName</Name>
+    <String>Graisse</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsSeafoodName</Name>
+    <String>Fruit de mer</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsDairyName</Name>
+    <String>Produits laitiers</String>
+  </TextString>
+
+  <TextString>
+    <Name>IsLegumeName</Name>
+    <String>Légumes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsSpicyName</Name>
+    <String>Epices</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsCarbsName</Name>
+    <String>Glucides</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsOtherName</Name>
+    <String>Autre</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsAlcoholName</Name>
+    <String>Alcool</String>
+  </TextString>
+  
+  <TextString>
+    <Name>IsNutName</Name>
+    <String>Noix</String>
+  </TextString>
+  
+</TextStrings>

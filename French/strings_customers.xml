@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+  <TextString>
+    <Name>CustomerEntityName</Name>
+    <String>Famille de classe moyenne</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>FamilyLowCustomerName</Name>
+    <String>Famille de classe moyenne</String>
+  </TextString>
+  
+   <TextString>
+    <Name>FamilyHighCustomerName</Name>
+    <String>Famille de classe supérieure</String>
+  </TextString>
+  
+  <TextString>
+    <Name>BlueCollarCustomerName</Name>
+    <String>Ouvrier</String>
+  </TextString>
+  
+  <TextString>
+    <Name>WhiteCollarCustomerName</Name>
+    <String>Bureaucrate</String>
+  </TextString>
+  
+  <TextString>
+    <Name>FoodEnthusiastCustomerName</Name>
+    <String>Passionné d'alimentation</String>
+  </TextString>
+  
+  <TextString>
+    <Name>GourmetCustomerName</Name>
+    <String>Gourmet</String>
+  </TextString>
+  
+   <TextString>
+    <Name>StudentCustomerName</Name>
+    <String>Etudiant</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TouristLowCustomerName</Name>
+    <String>Touriste de classe moyenne</String>
+  </TextString>
+  
+   <TextString>
+    <Name>TouristHighCustomerName</Name>
+    <String>Tourise de classe supérieure</String>
+  </TextString>
+  
+  <TextString>
+    <Name>CheapskateCustomerName</Name>
+    <String>Cheapskate</String>
+  </TextString>
+  
+  <TextString>
+    <Name>BigEaterCustomerName</Name>
+    <String>Grand Mangeur</String>
+  </TextString>
+  
+  <TextString>
+    <Name>VeganCustomerName</Name>
+    <String>Végétalien</String>
+  </TextString>
+  
+  <TextString>
+    <Name>VegetarianCustomerName</Name>
+    <String>Végétarien</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MeatLoverCustomerName</Name>
+    <String>Amateur de viandes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SeafoodLoverCustomerName</Name>
+    <String>Amateur de fruits de mer</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PastaLoverCustomerName</Name>
+    <String>Amateur de pâtes</String>
+  </TextString>
+  
+  <TextString>
+    <Name>SpicesLoverCustomerName</Name>
+    <String>Amateur d'épices</String>
+  </TextString>
+  
+  <TextString>
+    <Name>HealthFanaticCustomerName</Name>
+    <String>Fanatique de la santé</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AlcoholLoverCustomerName</Name>
+    <String>Amateur d'alcools</String>
+  </TextString>
+  
+  <TextString>
+    <Name>RefinedCustomerName</Name>
+    <String>Raffiné</String>
+  </TextString>
+  
+  <TextString>
+    <Name>DessertLoverCustomerName</Name>
+    <String>Amateur des desserts</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PartyAnimalCustomerName</Name>
+    <String>Party Animal</String>
+  </TextString>
+  
+  
+</TextStrings>

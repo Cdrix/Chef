@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>PerkFurnishingStyleCleaningName</Name>
+		<String>Améliorer l'ambiance : Général</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFurnishingStyleCleaningDescription</Name>
+		<String>{MODIFIER}</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFurnishingStyleCountryDescription</Name>
+		<String>{MODIFIER}</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFurnishingStyleCountryName</Name>
+		<String>Améliorer l'ambiance : Rustique</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFurnishingStyleModernDescription</Name>
+		<String>{MODIFIER}</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFurnishingStyleModernName</Name>
+		<String>Améliorer l'ambiance : moderne</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkFurnishingStyleElegantName</Name>
+		<String>Améliorer l'ambiance : élégant</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFurnishingStyleElegantDescription</Name>
+		<String>{MODIFIER}</String>
+	</TextString>
+	
+	
+	
+	
+</TextStrings>

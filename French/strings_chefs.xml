@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+	<TextString>
+		<Name>RordonGamsayName</Name>
+		<String>Rordon Gamsay</String>
+	</TextString>
+	
+	<TextString>
+		<Name>KimberleWilliamsName</Name>
+		<String>Kimberlè Williams</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BassimoMotturaName</Name>
+		<String>Bassimo Mottura</String>
+	</TextString>
+	
+	<TextString>
+		<Name>NathanName</Name>
+		<String>Nathan Piperno</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GarloGraccoName</Name>
+		<String>Garlo Gracco</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chef09Name</Name>
+		<String>Jerome Duffin</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef10Name</Name>
+		<String>Chen Lin</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ArielName</Name>
+		<String>Ariel Vittori</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef22Name</Name>
+		<String>Josè Marquez</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MaurizioName</Name>
+		<String>Maurizio Tatafiore</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chef20Name</Name>
+		<String>Mark Markinson</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef25Name</Name>
+		<String>Francois Devoule</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FabioName</Name>
+		<String>Fabio Distefano</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef01Name</Name>
+		<String>Talita Thompson</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef12Name</Name>
+		<String>Laura Dupont</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chef19Name</Name>
+		<String>Jessica Still</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GigiName</Name>
+		<String>Gianluigi Cerchio</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MaciejName</Name>
+		<String>Maciej Bogucki</String>
+	</TextString>
+	
+	<TextString>
+		<Name>JekName</Name>
+		<String>Giacomo Caneschi</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef29Name</Name>
+		<String>Tanya Bondarenko</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chef18Name</Name>
+		<String>Jack Elbow</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FelixName</Name>
+		<String>Felix Ostwald</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef15Name</Name>
+		<String>Clara Stimpacchi</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef03Name</Name>
+		<String>Chef Tony</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AgneseName</Name>
+		<String>Agnese Venturi</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chef07Name</Name>
+		<String>Mary Olafdottir</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef26Name</Name>
+		<String>Violet Velvet</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DiegoName</Name>
+		<String>Diego Grisogani</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef13Name</Name>
+		<String>Anastasia Terry</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef23Name</Name>
+		<String>Igor Petrov</String>
+	</TextString>
+
+	<TextString>
+		<Name>AngeloName</Name>
+		<String>Angelo La Farina</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef08Name</Name>
+		<String>Eveline Strange</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MassimilianoName</Name>
+		<String>Massimiliano Palloni</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef16Name</Name>
+		<String>Astrid Star</String>
+	</TextString>
+	
+	<TextString>
+		<Name>LuigiName</Name>
+		<String>Luigi Di Guida</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chef17Name</Name>
+		<String>Marco "Mimmetto" Okaka</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef27Name</Name>
+		<String>Melissa Moore</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DefaultName</Name>
+		<String>Tina Defaultina</String>
+	</TextString>
+	
+	<TextString>
+		<Name>OmarName</Name>
+		<String>Omar Busoli</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef05Name</Name>
+		<String>Fatima Thawil</String>
+	</TextString>
+
+	<TextString>
+		<Name>GuglielmoName</Name>
+		<String>Guglielmo Segantini</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef28Name</Name>
+		<String>Suzanne Tronn</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MirkoName</Name>
+		<String>Mirko Failoni</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef02Name</Name>
+		<String>Francis Frand</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef04Name</Name>
+		<String>Abdul Sadik</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chef06Name</Name>
+		<String>Claire Storm</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef11Name</Name>
+		<String>James Mark Frank</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef14Name</Name>
+		<String>Peter Abramovic</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef21Name</Name>
+		<String>Amalia Miranda</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Chef24Name</Name>
+		<String>Marta Stuarda</String>
+	</TextString>
+
+</TextStrings>

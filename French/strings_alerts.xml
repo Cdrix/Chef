@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+  <TextString>
+    <Name>NewReviewAlertName</Name>
+    <String>Nouvelles Critiques</String>
+  </TextString>
+  <TextString>
+    <Name>NewReviewAlertDescription</Name>
+    <String>Vous avez reçu une ou plusieurs critiques de ChefAdvisor !</String>
+  </TextString>
+  <TextString>
+    <Name>MoreTablesAlertName</Name>
+    <String>Ajouter plus de Tables</String>
+  </TextString>
+  <TextString>
+    <Name>MoreTablesAlertDescription</Name>
+    <String>Vous devez ajouter d'autres tables pour que cet endroit devienne un Restaurant.</String>
+  </TextString>
+	<TextString>
+    <Name>MoreRecipesAlertName</Name>
+    <String>Ajouter plus de Recettes</String>
+  </TextString>
+  <TextString>
+    <Name>MoreRecipesAlertDescription</Name>
+    <String>Vous devez ajouter plus de recettes pour que cet endroit devienne un Restaurant.</String>
+  </TextString>
+ <TextString>
+    <Name>MoreWaitersAlertName</Name>
+    <String>Embaucher un Serveur</String>
+  </TextString>
+  <TextString>
+    <Name>MoreWaitersAlertDescription</Name>
+    <String>Vous avez besoin d'au moins un Serveur pour servir les clients.</String>
+  </TextString>
+  <TextString>
+    <Name>LowPricesAlertName</Name>
+    <String>Bas Prix</String>
+  </TextString>
+  <TextString>
+    <Name>LowPricesAlertDescription</Name>
+    <String>En général, vous ne faites pas payer vos clients suffisamment pour vos plats, vous ne réalisez probablement aucun bénéfice.</String>
+  </TextString>
+  <TextString>
+    <Name>StartingTablesAlertName</Name>
+    <String>Acheter quelques Tables</String>
+  </TextString>
+  <TextString>
+    <Name>StartingTablesAlertDescription</Name>
+    <String>Vous avez besoin de quelques tables pour ouvrir le restaurant. Cliquez ici pour ouvrir le panneau d'ameublement.</String>
+  </TextString>
+  <TextString>
+    <Name>StartingToolAlertName</Name>
+    <String>Acheter un outil de cuisine</String>
+  </TextString>
+  <TextString>
+    <Name>StartingToolAlertDescription</Name>
+    <String>Il faut au moins un outil de cuisine pour préparer les aliments et ajouter des recettes au menu. Cliquez ici pour ouvrir le panneau d'ameublement.</String>
+  </TextString>
+  <TextString>
+    <Name>StartingCounterAlertName</Name>
+    <String>Acheter un comptoir</String>
+  </TextString>
+  <TextString>
+    <Name>StartingCounterAlertDescription</Name>
+    <String>La plupart des préparations ont besoin d'un comptoir de cuisine. Cliquez ici pour ouvrir le panneau d'ameublement.</String>
+  </TextString>
+  <TextString>
+    <Name>StartingRecipesAlertName</Name>
+    <String>Ajouter quelques Recettes</String>
+  </TextString>
+  <TextString>
+    <Name>StartingRecipesAlertDescription</Name>
+    <String>Vous devez ajouter quelques recettes au menu. N'oubliez pas que vous ne pouvez ajouter des recettes que si vous disposez des outils nécessaires.</String>
+  </TextString>
+  <TextString>
+    <Name>StartingWaitersAlertName</Name>
+    <String>Embaucher un Serveur</String>
+  </TextString>
+  <TextString>
+    <Name>StartingWaitersAlertDescription</Name>
+    <String>Sans serveur, vous ne pourrez pas servir les clients. Il vous en faut au moins un, mais plus vous en avez, meilleur sera le service.</String>
+  </TextString>
+  <TextString>
+    <Name>OpenPlaceAlertAlertName</Name>
+    <String>Ouvrir le restaurant</String>
+  </TextString>
+  <TextString>
+    <Name>OpenPlaceAlertAlertDescription</Name>
+    <String>Vous pouvez enfin ouvrir le restaurant ! Rendez-vous dans le panneau des décisions et cliquez sur la décision correspondante !</String>
+  </TextString>
+  <TextString>
+    <Name>IngredientPointsAlertName</Name>
+    <String>Points d'ingrédients non dépensés</String>
+  </TextString>
+  <TextString>
+    <Name>IngredientPointsAlertDescription</Name>
+    <String>Vous avez des points d'ingrédients non dépensés. Cliquez ici pour ouvrir le panneau des ingrédients.</String>
+  </TextString>
+  <TextString>
+    <Name>ExperiencePointsAlertName</Name>
+    <String>Points d'expérience non dépensés</String>
+  </TextString>
+  <TextString>
+    <Name>ExperiencePointsAlertDescription</Name>
+    <String>Vous avez des points d'expérience non dépensés, qui peuvent être utilisés pour augmenter les compétences de votre avatar. Cliquez ici pour ouvrir le panneau des compétences.</String>
+  </TextString>
+  <TextString>
+    <Name>NewDecisionAlertName</Name>
+    <String>Décisions disponibles</String>
+  </TextString>
+  <TextString>
+    <Name>NewDecisionAlertDescription</Name>
+    <String>Vous avez des décisions qui peuvent être activées. Cliquez ici pour ouvrir le panneau sur les politiques, et allez à l'écran des décisions pour les activer</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>TutorialBeginningAlertName</Name>
+    <String>Ouvrir le panneau d'ameublement</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialBeginningAlertDescription</Name>
+    <String>Il y a plusieurs boutons rouges et blancs dans la partie inférieure gauche de l'écran. Cliquez sur celui qui s'appelle "Ameublement".</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TutorialCounterAlertName</Name>
+    <String>Placer un comptoir</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialCounterAlertDescription</Name>
+    <String>En utilisant le panneau d'ameublement, achetez et placez un comptoir dans votre cuisine.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TutorialCookerAlertName</Name>
+    <String>Placer une cuisinière</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialCookerAlertDescription</Name>
+    <String>En utilisant le panneau d'ameublement, achetez et placez une cuisinière dans votre cuisine.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TutorialTablesAlertName</Name>
+    <String>Placer 6 Tables</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialTablesAlertDescription</Name>
+    <String>En utilisant le panneau d'ameublement, achetez et placez six tables dans votre hall.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TutorialTablesPlacedAlertName</Name>
+    <String>Ouvrer le menu</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialTablesPlacedAlertDescription</Name>
+    <String>Il y a plusieurs boutons rouges et blancs dans la partie inférieure gauche de l'écran. Cliquez sur celui qui s'appelle "Menu".</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>TutorialMenuOpenAlertName</Name>
+    <String>Ajouter 10 recettes</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialMenuOpenAlertDescription</Name>
+    <String>En utilisant le panneau de menu, ajoutez 10 recettes à votre menu.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TutorialStaffAlertName</Name>
+    <String>Ouvrer le panneau du personnel</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialStaffAlertDescription</Name>
+    <String>Il y a plusieurs boutons rouges et blancs dans la partie inférieure gauche de l'écran. Cliquez sur celui qui s'appelle "Personnel".</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TutorialWaiterAlertName</Name>
+    <String>Embaucher 2 serveurs</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialWaiterAlertDescription</Name>
+    <String>En utilisant le panneau du personnel, embauchez deux serveurs.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TutorialCustomRecipeAlertName</Name>
+    <String>Créer une recette personnalisée</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialCustomRecipeAlertDescription</Name>
+    <String>Sélectionnez un modèle pour la création d'une recette personnalisée.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TutorialEditorAlertName</Name>
+    <String>Ouvrir l'éditeur de recettes</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialEditorAlertDescription</Name>
+    <String>Il y a plusieurs boutons rouges et blancs dans la partie inférieure gauche de l'écran. Cliquez sur celui qui s'appelle "Éditeur de recettes".</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>TutorialPoliciesAlertName</Name>
+    <String>Ouvrir le panneau des politiques</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialPoliciesAlertDescription</Name>
+    <String>Lorsque vous avez terminé les recettes personnalisées, cherchez le bouton rouge intitulé "Politiques et décisions" pour ouvrir le panneau des politiques.</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>TutorialDecisionsAlertName</Name>
+    <String>Ouvrir le panneau des décisions</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialDecisionsAlertDescription</Name>
+    <String>Dans la partie supérieure du panneau des politiques, il y a un bouton appelé "Décisions", utilisez-le pour ouvrir le panneau des décisions. Une fois que vous l'avez ouvert, activez la décision vous permettant d'ouvrir votre restaurant.</String>
+  </TextString>
+  
+  
+  
+  
+  <TextString>
+    <Name>TutorialChefAdvisorAlertName</Name>
+    <String>Ouvrir le panneau ChefAdvisor</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialChefAdvisorAlertDescription</Name>
+    <String>Il y a plusieurs boutons rouges et blancs dans la partie inférieure gauche de l'écran. Cliquez sur celui qui s'appelle "ChefAdvisor".</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>TutorialOpenSummaryAlertName</Name>
+    <String>Ouvrir le panneau des statistiques</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialOpenSummaryAlertDescription</Name>
+    <String>Il y a plusieurs boutons rouges et blancs dans la partie inférieure gauche de l'écran. Cliquez sur celui qui s'appelle "Statistiques".</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>TutorialOpenCustomersAlertName</Name>
+    <String>Ouvrir l'onglet clients</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialOpenCustomersAlertDescription</Name>
+    <String>Utilisez les boutons du panneau de statistiques pour ouvrir l'onglet Clients.</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>TutorialOpenSkillsAlertName</Name>
+    <String>Ouvrir le panneau personnage</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialOpenSkillsAlertDescription</Name>
+    <String>Cliquez sur le premier des boutons rouges dans la partie inférieure gauche de l'écran.</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>TutorialSpendSkillsAlertName</Name>
+    <String>Dépenser quelques points de compétences</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialSpendSkillsAlertDescription</Name>
+    <String>Cliquez sur les différentes compétences que vous souhaitez avoir, puis sur le bouton "Confirmer" pour les acquérir.</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>TutorialIngredientsOpenAlertName</Name>
+    <String>Ouvrir le panneau ingrédients</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialIngredientsOpenAlertDescription</Name>
+    <String>Il y a plusieurs boutons rouges et blancs dans la partie inférieure gauche de l'écran. Cliquez sur celui qui s'appelle "Ingrédients".</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>TutorialIngredientPointsAlertName</Name>
+    <String>Dépenser quelques points d'ingrédients</String>
+  </TextString>
+  <TextString>
+    <Name>TutorialIngredientPointsAlertDescription</Name>
+    <String>Cliquez sur les différents ingrédients que vous souhaitez avoir, puis sur le bouton "Confirmer" pour les acquérir. N'oubliez pas que des ingrédients de haute qualité coûteront plus cher lors de la création de recettes !</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>FinishTutorialAlertName</Name>
+    <String>Terminer le tutoriel</String>
+  </TextString>
+  <TextString>
+    <Name>FinishTutorialAlertDescription</Name>
+    <String>Suivez les instructions pour compléter la phase initiale du tutoriel.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>EmptyPoolAlertName</Name>
+    <String>Aucun client</String>
+  </TextString>
+  <TextString>
+    <Name>EmptyPoolAlertDescription</Name>
+    <String>On dirait que même un seul client n'est pas prêt à venir chez vous. Vous avez peut-être des prix élevés, un menu qui fait fuir les clients potentiels, ou vous devriez peut-être dépenser plus pour le mobilier et la décoration.</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>MissingToolAlertName</Name>
+    <String>Outil manquant</String>
+  </TextString>
+  <TextString>
+    <Name>MissingToolAlertDescription</Name>
+    <String>Il manque à votre cuisine un des outils nécessaires à la préparation des recettes du menu. Sans lui, vos cuisiniers ne peuvent pas servir les clients !</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>MissingChefStanceAlertName</Name>
+    <String>Posture Cuisinier Manquante</String>
+  </TextString>
+  <TextString>
+    <Name>MissingChefStanceAlertDescription</Name>
+    <String>Certaines sections du menu ne sont pas couvertes par les postures des cuisiniers respectifs ! Ouvrez le panneau postures du personnel sur la droite et assurez-vous que toutes les sections du menu ont au moins un cuisinier qui peut les préparer !</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>MissingWaiterStanceAlertName</Name>
+    <String>Posture Serveur Manquante</String>
+  </TextString>
+  <TextString>
+    <Name>MissingWaiterStanceAlertDescription</Name>
+    <String>Certaines activités des serveurs ne sont pas couvertes par les postures respectives des serveurs ! Ouvrez le panneau postures du personnel sur la droite et assurez-vous qu'il y a au moins un serveur qui s'occupe de l'accueil, du service et du règlement de l'addition..</String>
+  </TextString>
+</TextStrings>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+	<TextString>
+		<Name>SkillPointReward</Name>
+		<String>Un point de compétence</String>
+	</TextString>
+
+	<TextString>
+		<Name>IngredientPointReward</Name>
+		<String>Un point d'ingrédient</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CyclicQuestServeCheapskatesName</Name>
+		<String>Clients : Cheapskates</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeCheapskatesDescription</Name>
+		<String>Have more Cheapskate Customers</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeBlueCollarName</Name>
+		<String>Clients : Travailleurs</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeBlueCollarDescription</Name>
+		<String>Avoir plus de clients travailleurs</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeWhiteCollarName</Name>
+		<String>Clients : Bureaucrate</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeWhiteCollarDescription</Name>
+		<String>Avoir plus de clients bureaucrates</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeFamilyHighName</Name>
+		<String>Clients : Familles à gros budget</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeFamilyHighDescription</Name>
+		<String>Avoir plus de familles à gros budget</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeFamilyLowName</Name>
+		<String>Clients : Familles à faible budget</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeFamilyLowDescription</Name>
+		<String>Avoir plus de familles à faible budget</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeTouristHighName</Name>
+		<String>Clients : Touristes à gros budget</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeTouristHighDescription</Name>
+		<String>Avoir plus de touristes à gros budget</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeTouristLowName</Name>
+		<String>Clients : Touristes à faible budget</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeTouristLowDescription</Name>
+		<String>Avoir plus de touristes à faible budget</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeVegetarianName</Name>
+		<String>Clients : Vegetarians</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeVegetarianDescription</Name>
+		<String>Avoir plus de clients végétariens</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeVeganName</Name>
+		<String>Clients : Végétaliens</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeVeganDescription</Name>
+		<String>Avoir plus de clients végétaliens</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeFoodEnthusiastName</Name>
+		<String>Clients : Passionnés d'alimentation</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeFoodEnthusiastDescription</Name>
+		<String>Avoir plus de clients passionnés d'alimentation</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestServeGourmetName</Name>
+		<String>Customers: Gourmet</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeGourmetDescription</Name>
+		<String>Avoir plus de clients gourmet</String>
+	</TextString>
+	
+	
+	
+	
+	
+	<TextString>
+		<Name>CyclicQuestPrepareVegetarianName</Name>
+		<String>Etiquette : Végétarien</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareVegetarianDescription</Name>
+		<String>Préparer des recettes étiquettées Végétarien</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestPrepareVeganName</Name>
+		<String>Etiquette : Végétalien</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareVeganDescription</Name>
+		<String>Préparer des recettes étiquettées Végétalien</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestPrepareMeatName</Name>
+		<String>Etiquette : Viande</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareMeatDescription</Name>
+		<String>Préparer des recettes étiquettées Viande</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestPrepareSeafoodName</Name>
+		<String>Etiquette : Fruits de mer</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareSeafoodDescription</Name>
+		<String>Préparer des recettes étiquettées Fruit de mer</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestPrepareCarbsName</Name>
+		<String>Etiquette : Glucide</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareCarbsDescription</Name>
+		<String>Préparer des recettes étiquettées Glucide</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestPrepareHealthyName</Name>
+		<String>Etiquette : Sain</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareHealthyDescription</Name>
+		<String>Préparer des recettes étiquettées Sain</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CyclicQuestPrepareFruitName</Name>
+		<String>Etiquette : Fruit</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareFruitDescription</Name>
+		<String>Préparer des recettes étiquettées Fruit</String>
+	</TextString>
+	
+	
+	
+	
+	
+	<TextString>
+		<Name>ImportRecipesButtonString</Name>
+		<String>Importer des recettes</String>
+	</TextString>
+	<TextString>
+		<Name>ImportButtonString</Name>
+		<String>Importer</String>
+	</TextString>
+	<TextString>
+		<Name>ImportCancelButtonString</Name>
+		<String>Annuler</String>
+	</TextString>
+	<TextString>
+		<Name>ImportExplainString</Name>
+		<String>Sélectionner une sauvegarde à gauche et cliquer sur Importer pour copier toutes les recettes personnalisées dans la partie en cours.</String>
+	</TextString>
+	<TextString>
+		<Name>SavedGamesImportString</Name>
+		<String>Parties sauvegardées</String>
+	</TextString>
+	<TextString>
+		<Name>AvailableRecipesImportString</Name>
+		<String>Recettes disponibles</String>
+	</TextString>
+	<TextString>
+		<Name>UnavailableRecipesImportString</Name>
+		<String>Recettes non disponibles - Vous devrez peut-être déverrouiller d'autres modèles ou ingrédients pour pouvoir ajouter ces recettes à votre menu</String>
+	</TextString>
+	<TextString>
+		<Name>ImportedUnavRecipesString</Name>
+		<String>Recettes importées non disponibles</String>
+	</TextString>
+	
+	
+	
+	
+	<TextString>
+		<Name>TablesFourAlertName</Name>
+		<String>Des tables plus grandes sont nécessaires</String>
+	</TextString>
+	<TextString>
+		<Name>TablesFourAlertDescription</Name>
+		<String>Vous n'avez pas de tables à quatre places, donc les groupes de trois et quatre clients n'entreront pas dans votre restaurant. Achetez des tables de 4 places pour éviter de perdre des clients.</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>QuestTutorialOpenTaskPanelName</Name>
+		<String>Open the Tasks Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenTaskPanelDescription</Name>
+		<String>Click on the respective red button on the lower left area of the screen to open the panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenTaskPanelCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+
+</TextStrings>

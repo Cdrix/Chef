@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TextStrings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TextString>
+		<Name>FunnyReviewTitle_0_0</Name>
+		<String>FERMEZ LA SVP</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_0</Name>
+		<String>PAR OÙ DOIS-JE COMMENCER ? CET ENDROIT EST HORRIBLE ! N'Y ALLEZ PAS ! J'AI FAILLI MOURIR DEUX FOIS APRÈS AVOIR MANGÉ LEUR POISON !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_1</Name>
+		<String>SAINTE MÈRE DES GÂTEAUX !!!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_1</Name>
+		<String>JAMAIS PLUS ! J'ai eu l'impression qu'on me volait mon argent ! Ce n'est pas juste ! !! LE PIRE RESTAURANT DE LA VILLE !!!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_2</Name>
+		<String>NOOOON !!!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_2</Name>
+		<String>Je n'ai jamais fumé une cigarette de ma vie, mais ce restaurant m'a quand même donné le cancer.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_3</Name>
+		<String>Oh mon Dieu !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_3</Name>
+		<String>Manger dans cet endroit m'a rappelé mon enfance, lorsque je mangeais mes crottes de nez.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_4</Name>
+		<String>POURQUOI ???</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_4</Name>
+		<String>Le seul endroit au monde qui peut ramener les athées à Dieu !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_5</Name>
+		<String>Non</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_5</Name>
+		<String>Git Gud Pls</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_6</Name>
+		<String>Que diable se passe-t-il ????</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_6</Name>
+		<String>[Cette critique a été qualifiée d"hostile, impolie et pleine de grossièretés" par le personnel de ChefAdvisor]</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_7</Name>
+		<String>EN COLERE !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_7</Name>
+		<String>JE PEUX À PEINE CONTENIR LA RAGE DES MILLIERS DE SOLEILS QUI BRÛLENT EN MOI APRÈS AVOIR MANGÉ DANS UN ÉTABLISSEMENT AUSSI ÉPOUVANTABLE!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_8</Name>
+		<String>Indécent !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_8</Name>
+		<String>Non seulement le serveur m'a envoyé des photos de son bébé carotte, mais il a eu l'audace de l'appeler zucchini !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_9</Name>
+		<String>Attention !!!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_9</Name>
+		<String>La salmonelle est garantie ! Le goût non.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_10</Name>
+		<String>Tout simplement mauvais...</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_10</Name>
+		<String>J'ai passé toute la soirée à me plaindre de tout ce qui se passait dans le restaurant. Je ne pense pas que mes amis m'inviteront à nouveau à dîner…</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_0_11</Name>
+		<String>Comment NE PAS gérer un restaurant</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_0_11</Name>
+		<String>Ce n'est pas comme ça qu'on gère un restaurant ! Toute la soirée, j'ai eu un service désastreux, de la nourriture infecte, et l'ODEUR quand vous passez la porte est tellement dégoûtante !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_0</Name>
+		<String>Selfies non autorisés !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_0</Name>
+		<String>Non, ce n'était pas si grave, mais je m'attendais à plus. Mes amis et moi voulions prendre des photos pour nos profils Foodstagram, mais l'esthétique des aliments laissait à désirer…</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_1</Name>
+		<String>Parents abusifs...</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_1</Name>
+		<String>L'endroit me semblait bien, mais je ne pouvais pas choisir ce que je voulais manger car mes parents avaient choisi pour moi. Je reviendrai pour revisiter l'endroit.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_2</Name>
+		<String>Un jour, ce sera bien !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_2</Name>
+		<String>Je viens du futur. Faire cette critique est une violation intentionnelle de nos protocoles, mais j'ai ressenti le besoin de dire à tout le monde que cet endroit n'est pas si bien que ça pour l'instant, mais qu'il deviendra bien meilleur dans un futur proche. Ne perdez pas espoir.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_3</Name>
+		<String>Mon ELO diminue !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_3</Name>
+		<String>Je ne voulais pas venir ici. Je voulais passer toute la journée à jouer à des jeux vidéo…</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_4</Name>
+		<String>J'obéis...</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_4</Name>
+		<String>Mon mari m'a dit de revisiter cet endroit. Alors je l'ai fait. J'espère qu'il apprécie…</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_5</Name>
+		<String>J'obéis...</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_5</Name>
+		<String>Ma femme m'a dit de revisiter cet endroit. Alors je l'ai fait. J'espère qu'elle apprécie…</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_6</Name>
+		<String>Pas mal</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_6</Name>
+		<String>Puis-je dire que nous avons bien dîné ? Je suppose que oui, c'est un pays libre. (Cette critique a été signalée et non, ce n'est pas un pays libre)</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_7</Name>
+		<String>Je reviendrai</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_7</Name>
+		<String>Ma grand-mère et moi avons bien dîné et elle a beaucoup aimé l'endroit. Grand-mère paie toujours pour le dîner, donc nous reviendrons.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_8</Name>
+		<String>Okay</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_8</Name>
+		<String>Ils sont capables de cuisiner, de servir, l'endroit est meublé. 7/10.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_9</Name>
+		<String>Mon ange gardien a dit oui !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_9</Name>
+		<String>Quand je suis arrivé ici, mon ange gardien m'a dit qu'une présence maléfique contrôlait tous les gens qui s'y trouvaient depuis une autre dimension. Mais c'était bien, alors nous reviendrons.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_10</Name>
+		<String>Faites-le, tout simplement !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_10</Name>
+		<String>J'ai apprécié l'endroit, même si j'ai l'impression qu'ils pourraient faire encore mieux. Nous pourrions tous faire mieux et rendre le monde meilleur !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_11</Name>
+		<String>Je le revisite !!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_11</Name>
+		<String>C'est ma première critique sur ChefAdvisor, je voulais donc faire les choses de la bonne manière ! Le restaurant nous a offert une expérience agréable, à commencer par le beau voyage que nous avons fait pour y arriver et… [La critique a été automatiquement coupée parce qu'elle contenait plus de 10 000 mots.]</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_12</Name>
+		<String>Note : Bien.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_12</Name>
+		<String>Je suis un REVIEW-A-TRON 4000! Voici mon pouvoir de critique ! L'endroit était : bien. [REVIEW-A-TRON 400 est encore en développement, rejoignez l'accès anticipé pour nous aider à l'améliorer !]</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_1_13</Name>
+		<String>NE JAMAIS ABANDONNER !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_1_13</Name>
+		<String>Etait-ce bien ? C'était bon ! Mais cela ne nous sauvera pas des Illuminati ! Ils veulent nous empoisonner avec des mensonges comme "La Terre est ronde" et "Le Soleil est une étoile !". Ne faites pas partie du système!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_0</Name>
+		<String>L'excellence !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_0</Name>
+		<String>C'était si bon ! J'ai senti tout mon corps trembler d'excitation et de joie ! Chaque molécule de mon corps s'est alignée avec les étoiles.!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_1</Name>
+		<String>Qui suis-je ???</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_1</Name>
+		<String>Heeeeeeeey! Je laisse une critique pour le restaurant dans lequel vous travaillez !!!! Hehehehehehe!!! Devinez qui je suis ! Hihihihihi!!! JE VOUS AIMEEEEEEEEEE ! &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_2</Name>
+		<String>Remarquable !!!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_2</Name>
+		<String>Une expérience vraiment remarquable ! Chaque fois que mes amis et moi devrons décider où manger, je proposerai cet endroit avec une détermination inébranlable jusqu'à ce qu'il ne me reste plus d'amis, à l'exception du personnel du restaurant!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_3</Name>
+		<String>Désolé pour lui</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_3</Name>
+		<String>Je suis désolé si mon ami a laissé une critique décevante. Je voulais juste vous faire savoir que j'ai vraiment apprécié l'endroit!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_4</Name>
+		<String>TELLEMENT BIEN OH MON DIEU</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_4</Name>
+		<String>CET ENDROIT EST SI BIEN QU'IL A CHANGÉ MA VIE ! JE SUIS DÉSOLÉ SI J'AI L'AIR DE CRIER MAIS JE NE SAIS PAS POURQUOI MON CLAVIER FAIT ÇA ! !! QUELQU'UN PEUT-IL M'AIDER ??!?!?!?</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_5</Name>
+		<String>Très bon !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_5</Name>
+		<String>J'ai un nouvel endroit préféré ! Les gars, je vous aime ! J'ai déjà aimé et suivi toutes vos pages de médias sociaux disponibles, j'ai fait quelques vidéos Youtube et j'ai dit à tous mes amis de venir le visiter!</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_6</Name>
+		<String>Incroyable !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_6</Name>
+		<String>Je veux faire savoir à TOUS que j'aime cet endroit ! Je viens de signer pour un travail ennuyeux mais bien payé, juste pour pouvoir manger ici autant que possible !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_7</Name>
+		<String>Wowowow !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_7</Name>
+		<String>Tellement bon !!!!!!!!! MAINTENEEEEEZZZ LA CADENCEEEE !!!!11</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_8</Name>
+		<String>Note : IMPRESSIONNANT.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_8</Name>
+		<String>Je suis un REVIEW-A-TRON 4000! Voici mon pouvoir de critique ! L'endroit était : IMPRESSIONNANT. [REVIEW-A-TRON 400 est toujours en développement, rejoingez l'accès anticipé pour nous aider à l'améliorer !]</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_9</Name>
+		<String>Mon ange gardien a dit oui !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_9</Name>
+		<String>Quand je suis arrivé ici, mon ange gardien m'a dit qu'une présence maléfique contrôlait tous les gens qui s'y trouvaient depuis une autre dimension. Mais c'était bien, alors nous reviendrons.</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewTitle_2_10</Name>
+		<String>Voici comment on procède !</String>
+	</TextString>
+	<TextString>
+		<Name>FunnyReviewBody_2_10</Name>
+		<String>J'ai passé toute la soirée en extase, en m'extasiant sur tout, du service incroyable à la nourriture extraordinaire ! Le responsable ici fait ce qu'il faut !</String>
+	</TextString>
+</TextStrings>
