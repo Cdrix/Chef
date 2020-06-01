@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>TestSkillDescriptiveNameString</Name>
+		<String>Testami</String>
+	</TextString>
+
+	<TextString>
+		<Name>TestSkillDescriptionString</Name>
+		<String>Oh sì! Testami tutta!</String>
+	</TextString>
+
+	<!-- Categories -->
+	<TextString>
+		<Name>SkillCategoryCarbsName</Name>
+		<String>Carbs</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryCarbsDescription</Name>
+		<String>Pasta and Rice are the foundation of many meals across many different cultures.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryCarbsAlternateDescription</Name>
+		<String>Pasta and Rice focused Skills - Applied to the entire Restaurant</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryMeatName</Name>
+		<String>Meat</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryMeatDescription</Name>
+		<String>Meat of any kind has been part of the human diet for thousands years.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryMeatAlternateDescription</Name>
+		<String>Meat focused Skills - Applied to the entire Restaurant</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategorySeafoodName</Name>
+		<String>Seafood</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategorySeafoodDescription</Name>
+		<String>While often considered refined, Seafood is also popular in many poor recipes.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategorySeafoodAlternateDescription</Name>
+		<String>Seafood focused Skills - Applied to the entire Restaurant</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryVeggiesName</Name>
+		<String>Vegetables And Fruits</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryVeggiesDescription</Name>
+		<String>Nutritious and healhty, both Vegetables and Fruits are the foundation of many different cooking traditions</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryVeggiesAlternateDescription</Name>
+		<String>Vegetables and Fruits focused Skills - Applied to the entire Restaurant</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryDessertsName</Name>
+		<String>Desserts</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryDessertsDescription</Name>
+		<String>Making Desserts is both an art and a science, it must not be underestimated.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryDessertsAlternateDescription</Name>
+		<String>Dessert focused Skills - Applied to the entire Restaurant</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryChefName</Name>
+		<String>Cooking</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryChefDescription</Name>
+		<String>Chefs need to train their cooking skills to improve both the kitchen efficiency and the quality of what they prepare..</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryChefAlternateDescription</Name>
+		<String>Chef Skills - Applied to this Chef and the Recipes he/she cooks.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryWaiterName</Name>
+		<String>Hosting</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryWaiterDescription</Name>
+		<String>Waiters need to train their hosting skills to increase the service quality, especially when dealing with demanding customers.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryWaiterAlternateDescription</Name>
+		<String>Waiter Skills - Applied to this Waiter and the tasks he/she does.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryActiveName</Name>
+		<String>Executive Chef</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryActiveDescription</Name>
+		<String>A real Executive Chef is a king and his/her kingdom is the restaurant. With proper skills, the kingdom can be brought to eternal glory.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SkillCategoryActiveAlternateDescription</Name>
+		<String>Active Skills - Once unlocked can be added to the main UI and used in real time.</String>
+	</TextString>
+
+
+	<!-- Carbs -->
+
+	<TextString>
+		<Name>AlDenteSkillName</Name>
+		<String>Al Dente Cooking</String>
+	</TextString>
+
+	<TextString>
+		<Name>AlDenteSkillDescription</Name>
+		<String>To preserve the texture of Pasta and Rice, they must be cooked Al Dente.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SaucesDosingSkillName</Name>
+		<String>Sauces Micro-dosing</String>
+	</TextString>
+
+	<TextString>
+		<Name>SaucesDosingSkillDescription</Name>
+		<String>Sauces can be costly, but using them in a perfect amount can cut the expenses.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TacticalChoiceSkillName</Name>
+		<String>Tactical Choice</String>
+	</TextString>
+
+	<TextString>
+		<Name>TacticalChoiceSkillDescription</Name>
+		<String>Not all kinds of Rice are the same, and knowing to pick the right one it's a good way to save some money
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>StrategicalPreparationSkillName</Name>
+		<String>Strategical Preparation</String>
+	</TextString>
+
+	<TextString>
+		<Name>StrategicalPreparationSkillDescription</Name>
+		<String>Having all ingredients at disposal can really help when making a sauce.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerfectDoughSkillName</Name>
+		<String>Perfect Dough</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerfectDoughSkillDescription</Name>
+		<String>Making the perfect dough for Fresh Pasta can lead to better results, but also less wasted materials.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>StarchesMasterySkillName</Name>
+		<String>Starches Mastery</String>
+	</TextString>
+
+	<TextString>
+		<Name>StarchesMasterySkillDescription</Name>
+		<String>The secret of a creamy sauce reside in pasta's spontaneous release of starch.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>RollingByTheBookSkillName</Name>
+		<String>Rolling by the book</String>
+	</TextString>
+
+	<TextString>
+		<Name>RollingByTheBookSkillDescription</Name>
+		<String>Knowing how to roll a dough means to be able to easily use the resulting pasta later.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ThousandsLayerCreativitySkillName</Name>
+		<String>Thousand Layers Creativity</String>
+	</TextString>
+
+	<TextString>
+		<Name>ThousandsLayerCreativitySkillDescription</Name>
+		<String>Assembling some good Lasagna is not only a matter of impiling stuff, all ingredients must be added with a purpose.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QualitySortingSkillName</Name>
+		<String>Quality Sorting</String>
+	</TextString>
+
+	<TextString>
+		<Name>QualitySortingSkillDescription</Name>
+		<String>There are dozens of different rice variants, knowing the best ones for every recipe can dramatically increase the final result.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SelectiveSoakingSkillName</Name>
+		<String>Selective Soaking</String>
+	</TextString>
+
+	<TextString>
+		<Name>SelectiveSoakingSkillDescription</Name>
+		<String>Soaking the Rice can be fundamental in every Rice preparation, but it must be made differently for each one of them.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SpecialDoughSkillName</Name>
+		<String>Special Dough</String>
+	</TextString>
+
+	<TextString>
+		<Name>SpecialDoughSkillDescription</Name>
+		<String>Who likes colored fresh pasta? Anyone does, so you better learn ho to make pasta dough with special ingredients.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CreamingSkillName</Name>
+		<String>Creaming</String>
+	</TextString>
+
+	<TextString>
+		<Name>CreamingSkillDescription</Name>
+		<String>Ask any chef and they will all tell you the same: the secret for an awesome risotto is in the process of creaming.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerfectCrustSkillName</Name>
+		<String>Perfect Crust</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerfectCrustSkillDescription</Name>
+		<String>When cooking Rice in a oven there's only one objective: to make a perfect crust while keeping soft the inside.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FlavorMixtureSkillName</Name>
+		<String>Flavor Mixture</String>
+	</TextString>
+
+	<TextString>
+		<Name>FlavorMixtureSkillDescription</Name>
+		<String>Creating a good Paella means to mix several ingredients to get a flavor explosion.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PanOverheatingSkillName</Name>
+		<String>Pan Overheating</String>
+	</TextString>
+
+	<TextString>
+		<Name>PanOverheatingSkillDescription</Name>
+		<String>Cooking a Paella is hard, there's always the risk of burning it, but the best cooks know how to speed up the process.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PotatoWhisperingSkillName</Name>
+		<String>Potato Whispering</String>
+	</TextString>
+
+	<TextString>
+		<Name>PotatoWhisperingSkillDescription</Name>
+		<String>Knowing how to perfectly integrate potatoes with flour allows the creation of better Gnocchi.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ItalianLanguageLessonsSkillName</Name>
+		<String>Italian Language Lessons</String>
+	</TextString>
+
+	<TextString>
+		<Name>ItalianLanguageLessonsSkillDescription</Name>
+		<String>You better learn some Italian if you want to browse the web in search of pasta related tips.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MassiveLasagnaSkillName</Name>
+		<String>Massive Lasagna</String>
+	</TextString>
+
+	<TextString>
+		<Name>MassiveLasagnaSkillDescription</Name>
+		<String>When creating some good Lasagne you may desire to fill them with dozens ingredients, then you better start thinking vertically.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AccurateCreamingProtocolSkillName</Name>
+		<String>Rice Temperature Management</String>
+	</TextString>
+
+	<TextString>
+		<Name>AccurateCreamingProtocolSkillDescription</Name>
+		<String>Having temperatures under control is the best way to perfectly cook rice.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AncientPastaDoughSkillName</Name>
+		<String>Ancient Pasta Dough</String>
+	</TextString>
+
+	<TextString>
+		<Name>AncientPastaDoughSkillDescription</Name>
+		<String>Translating those ancient scrolls may reveal the secrets of a perfect pasta dough.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>StuffingMaximizationSkillName</Name>
+		<String>Stuffing Maximization</String>
+	</TextString>
+
+	<TextString>
+		<Name>StuffingMaximizationSkillDescription</Name>
+		<String>Making Stuffed Pasta is not easy at all, but with pratice a Chef can manage to maximize the stuffing contained in each single pasta piece.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PreventiveCookingSkillName</Name>
+		<String>Preventive Cooking</String>
+	</TextString>
+
+	<TextString>
+		<Name>PreventiveCookingSkillDescription</Name>
+		<String>Partially cooking dried pasta in advance will make its preparation dramatically faster.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GrandmasSecretsSkillName</Name>
+		<String>Grandmas' Secrets</String>
+	</TextString>
+
+	<TextString>
+		<Name>GrandmasSecretsSkillDescription</Name>
+		<String>Using modern technology to intercept grandmas' phone calls will allow you to learn their secrets.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AncientPastaLoreSkillName</Name>
+		<String>Ancient Pasta Lore</String>
+	</TextString>
+
+	<TextString>
+		<Name>AncientPastaLoreSkillDescription</Name>
+		<String>By getting a Master Degree in Ancient Italian Pasta Lore you will learn all pasta-related secrets. They say the degree is 100% legit!
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>RiceFlavorSequentiatingSkillName</Name>
+		<String>Rice Flavor Sequentiating</String>
+	</TextString>
+
+	<TextString>
+		<Name>RiceFlavorSequentiatingSkillDescription</Name>
+		<String>Rice has a distinct flavor, studying all its variants will allow a chef to unlock limited flavor combinations.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PaddiesExplorationSkillName</Name>
+		<String>Paddies Exploration</String>
+	</TextString>
+
+	<TextString>
+		<Name>PaddiesExplorationSkillDescription</Name>
+		<String>To fully understand Rice a Chef must travel to the places where it is made.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<!-- Meat -->
+	
+	<TextString>
+		<Name>BrowningControlSkillName</Name>
+		<String>Browning Control</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BrowningControlDescription</Name>
+		<String>No one likes grey-ish meat, a proper cooking is the key to flavor.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TimingsStudySkillName</Name>
+		<String>Timings Study</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TimingsStudySkillDescription</Name>
+		<String>With study and focus the cooking time of meat can be reduced without affecting the overall quality.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExpertCutSkillName</Name>
+		<String>Expert Cut</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExpertCutSkillDescription</Name>
+		<String>Cutting meat is not easy, an expert butcher can rapidly deploy ready-to-cook meat pieces.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MaillardAdeptSkillName</Name>
+		<String>Maillard Adept</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MaillardAdeptSkillDescription</Name>
+		<String>Learning about maillard reactions is the key to unlock the full flavor of meat.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MarinadeSkillName</Name>
+		<String>Marinade</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MarinadeSkillDescription</Name>
+		<String>Marinading meat with different compounds is a key process to create better recipes.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TemperatureCheckSkillName</Name>
+		<String>Temperature Check</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TemperatureCheckSkillDescription</Name>
+		<String>Cooking without knowing the temperature is for cooks, using a thermometer is for Chefs.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BoilingPointSkillName</Name>
+		<String>Boiling Point</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BoilingPointSkillDescription</Name>
+		<String>There's science behind the creation of a good boiled meat, you can't just drop stuff into how water.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>RoundAndMoistCreativitySkillName</Name>
+		<String>Round and Moist</String>
+	</TextString>
+	
+	<TextString>
+		<Name>RoundAndMoistCreativitySkillDescription</Name>
+		<String>No one like shapeless, dry meatballs that require hours of chewing.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GrillControlSkillName</Name>
+		<String>Grill Control</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GrillControlSkillDescription</Name>
+		<String>While cooking on a grill one must always pay attention to the temperature: if it's too low or too high, the meat will be ruined.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PreciseCutSkillName</Name>
+		<String>Precise cut</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PreciseCutSkillDescription</Name>
+		<String>While working with meat it is mandatory to do precise cuts and waste nothing.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GrillOverdriveSkillName</Name>
+		<String>Grill Overdrive</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GrillOverdriveSkillDescription</Name>
+		<String>Each meat cut requires a different cooking, being able to tune the grill heat according to such principle can reduce cooking times.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TheCubeningSkillName</Name>
+		<String>The Cubening</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TheCubeningSkillDescription</Name>
+		<String>Precise, geometrical cuts can dramatically increase the final quality of a Tartare, and allow the chef to quickly prepare it.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HumidCookingProcessSkillName</Name>
+		<String>Humid Cooking Process</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HumidCookingProcessSkillDescription</Name>
+		<String>Some meat recipes require a strict control of liquids to prevent both the risk of overcooking and the risk of having a bowl of meat flavored water.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DryCookingProcessSkillName</Name>
+		<String>Dry Cooking Process</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DryCookingProcessSkillDescription</Name>
+		<String>Some meat recipes requires no liquids while cooking and the whole process must be carefully planned to delivery high quality dishes.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FryingProtocolSkillName</Name>
+		<String>Frying Protocol</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FryingProtocolSkillDescription</Name>
+		<String>Frying is always a delicate process, mastering it with discipline and study is the way to perform.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BoilingMasterySkillName</Name>
+		<String>Boling Mastery</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BoilingMasterySkillDescription</Name>
+		<String>Only with a full, scientific understanding of the boiling process one can achieve the Boiling Mastery.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExplosiveFlavorSkillName</Name>
+		<String>Explosive Flavor</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExplosiveFlavorSkillDescription</Name>
+		<String>Some preparations benefit when using multiple ingredients in perfect balance.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AccurateChoiceSkillName</Name>
+		<String>Accurate Choice</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AccurateChoiceSkillDescription</Name>
+		<String>Some preparations only need a few secondary ingredients to preserve the unique flavor of meat.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ConstantTemperatureDataSkillName</Name>
+		<String>Constant Temperature Data</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ConstantTemperatureDataSkillDescription</Name>
+		<String>Frying is a delicate process and high quality can only be achieved when the Chef is in full control of temperatures.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ProteinKingSkillName</Name>
+		<String>Protein King</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ProteinKingSkillDescription</Name>
+		<String>Only the ones that prepared countless meat based dishes can wear the crown of Protein King.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AnatomicalEncyclopediaSkillName</Name>
+		<String>Anatomical Encyclopedia</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AnatomicalEncyclopediaSkillDescription</Name>
+		<String>Fillets and T-bones are not the only edible part of an animal, using everything is both cheaper and more ethical.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<!-- Seafood -->
+	
+	<TextString>
+		<Name>BonesRemovalSkillName</Name>
+		<String>Bones Removal</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BonesRemovalSkillDescription</Name>
+		<String>To ensure the lowest possible choking ratio among customers, an accurate and complete fish bones removel is necessary.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DelicateTreatmentSkillName</Name>
+		<String>Delicate Treatment</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DelicateTreatmentSkillDescription</Name>
+		<String>Cooking fish is not as easy as cooking meat, it is much easier to spoil it.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FilletingTechniquesSkillName</Name>
+		<String>Filleting Techniques</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FilletingTechniquesSkillDescription</Name>
+		<String>All you need to properly take care of fish is a firm grip, a sharp blade, and a lot of practice.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HighTemperatureCookingSkillName</Name>
+		<String>High Temperature Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HighTemperatureCookingSkillDescription</Name>
+		<String>Grilling or roasting Seafood is not an easy task, you don't really want to serve raw or burned food to your customers.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>WaterAssistedCookingSkillName</Name>
+		<String>Water Assisted Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>WaterAssistedCookingSkillDescription</Name>
+		<String>Using liquids while cooking Seafood can allow a chef to deliver a moist and tasty dish.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CloudAssistedCookingSkillName</Name>
+		<String>Cloud Assisted Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CloudAssistedCookingSkillDescription</Name>
+		<String>With the delicate touch of Steam, Seafood can really express all its taste and flavor
+
+{MODIFIERS}.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>StrictSteamControlSkillName</Name>
+		<String>Strict Steam Control</String>
+	</TextString>
+	
+	<TextString>
+		<Name>StrictSteamControlSkillDescription</Name>
+		<String>Why waste time and risk to overcook everything when you can just use modern Steam technologies to have the same result in a matter of a few minutes?
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AdaptiveMethodsSkillName</Name>
+		<String>Adaptive Methods</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AdaptiveMethodsSkillDescription</Name>
+		<String>Choosing the most expensive Seafood will allow you to create high quality recipes. 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>EfficientProcessSkillName</Name>
+		<String>Efficient Process</String>
+	</TextString>
+	
+	<TextString>
+		<Name>EfficientProcessSkillDescription</Name>
+		<String>With some preliminary preparation it is easier to deliver good recipes spending less times on them.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DocumentariesBingeWatchingSkillName</Name>
+		<String>Documentaries BingeWatching</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DocumentariesBingeWatchingSkillDescription</Name>
+		<String>There's a lot of different Seafood and it kinda look all the same, that's why all the time spent watching documentaries like "Sea Creatures" and "Edible Things in the Sea" is time well spent.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FasterAndBetterSkillName</Name>
+		<String>Faster and Better</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FasterAndBetterSkillDescription</Name>
+		<String>Why spending time on cooking Seafood when you can serve it raw? Just remember to freeze it properly.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BatterAssemblyLineSkillName</Name>
+		<String>Batter Assembly Line</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BatterAssemblyLineSkillDescription</Name>
+		<String>Frying Seafood is not that easy with all that batter sticking to hands, things, customers. With some practice, you can master the process and quickly deploy Fried Seafood dishes.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ConcentratedFlavorSkillName</Name>
+		<String>Concentrated Flavors</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ConcentratedFlavorSkillDescription</Name>
+		<String>While cooking Seafood in water, it is mandatory to learn how to concentrate the flavor of all ingredients.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>LowTemperatureReactionsSkillName</Name>
+		<String>Low Temperature Reactions</String>
+	</TextString>
+	
+	<TextString>
+		<Name>LowTemperatureReactionsSkillDescription</Name>
+		<String>The temperature needed for Maillard reactions in Seafood is lower compared to meat or vegetables, to increase the final quality some study may be necessary.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CrunchySurfaceTastyInsideSkillName</Name>
+		<String>Crunchy Surface Tasty</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CrunchySurfaceTastyInsideSkillDescription</Name>
+		<String>To further increase salivation in customers, a careful control of temperature is necessary while frying different kind of Seafood.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SeasoningDosingSkillName</Name>
+		<String>Seasoning Dosing</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SeasoningDosingSkillDescription</Name>
+		<String>A Seafood Tartare is a quite delicate dish, properly dosing any kind of seasoning and secondary ingredient is important to preserve the flavor of the main ingredient.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AncientMarinerSkillName</Name>
+		<String>Ancient Mariner</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AncientMarinerSkillDescription</Name>
+		<String>You need to find an Ancient Mariner and use his/her knowledge about Seafood to finally master it. Quick, head for the nearest port!
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SecretsFromTheDeepSkillName</Name>
+		<String>Secrets from the Deep</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SecretsFromTheDeepSkillDescription</Name>
+		<String>"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<!-- Veggies -->
+	
+	<TextString>
+		<Name>GiftsFromTheLandSkillName</Name>
+		<String>Gifts from the Land</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GiftsFromTheLandSkillDescription</Name>
+		<String>There's so many different vegetables, learning about their taste and flavor is the key to properly use them.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GiftsFromTheTreesSkillName</Name>
+		<String>Gifts from the Trees</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GiftsFromTheTreesSkillDescription</Name>
+		<String>There are also so many fruits, some are perfect for desserts, other for salads, why don't you try them with Meat or Seafood?
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GiftsFromThePodsSkillName</Name>
+		<String>Gifts from the Pods</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GiftsFromThePodsSkillDescription</Name>
+		<String>Legumes are not only tasty, but also nutritious to the point of being a key element of many cultures' diet.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GreenrocerWisdomSkillName</Name>
+		<String>Greenrocer's Wisdom</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GreenrocerWisdomSkillDescription</Name>
+		<String>Choosing the right veggies for a certain recipe, knowing how to cook them, is an ancient wisdom.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SideDishesProcessingSkillName</Name>
+		<String>Side Dishes Processing</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SideDishesProcessingSkillDescription</Name>
+		<String>The easiest and cheapest way to provide a Side Dish is to quickly cook some vegetables in a pan.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SaladAssemblyLineSkillName</Name>
+		<String>Salad Assembly Line</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SaladAssemblyLineSkillDescription</Name>
+		<String>Salads must be assembled right before they are served to preserve all ingredients' quality, but that doesn't prevent a wise Chef to prepare in advance.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CrunchyAndNutritiousSkillName</Name>
+		<String>Crunchy and Nutritious</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CrunchyAndNutritiousSkillDescription</Name>
+		<String>One of the best ways to cook vegetables is to cover them with Steam, making them crunchy and preserving all their vitamins.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SmokedAromaSkillName</Name>
+		<String>Smoked Aroma</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SmokedAromaSkillDescription</Name>
+		<String>Why not use that beautiful grill with some Veggies instead of always covering it with meat pieces? Everyone loves grilled Veggies.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MasterlyMixturesSkillName</Name>
+		<String>Masterly Mixtures</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MasterlyMixturesSkillDescription</Name>
+		<String>When mixing Veggies in a Soup or a Velvety, all flavors must be balanced to let each ingredient express itself.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GreenStockSkillName</Name>
+		<String>Green Stock</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GreenStockSkillDescription</Name>
+		<String>Stock is a fundamental ingredient in many recipes, learning the role of different Vegetables in it may be the key to add a unique flavor to all your recipes.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>UglyButTastySkillName</Name>
+		<String>Ugly but Tasty</String>
+	</TextString>
+	
+	<TextString>
+		<Name>UglyButTastySkillDescription</Name>
+		<String>Vegetables and Fruits are often discarded for minor flaws, but using such ingredients is not only cheaper but also environmental friendly.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MassivePotsSkillName</Name>
+		<String>Massive Pots</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MassivePotsSkillDescription</Name>
+		<String>With massive pots made of unknown metal, you can easily cook an incredible amount of Soups and Velveties.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BatterCloakingSkillName</Name>
+		<String>Batter Cloaking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BatterCloakingSkillDescription</Name>
+		<String>Fried food is always good, even the most annoying people can't resist the aroma of Fried Vegetables.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>OilTemperatureManagementSkillName</Name>
+		<String>Oil Temperature Management</String>
+	</TextString>
+	
+	<TextString>
+		<Name>OilTemperatureManagementSkillDescription</Name>
+		<String>Each Vegetable needs a different oil temperature while frying, mastering the perfect temperature for each of them is a key knowledge.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FruitSaladsSkillName</Name>
+		<String>Fruit Salads</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FruitSaladsSkillDescription</Name>
+		<String>Have you ever tried adding different kind of fruits to your salads? The result can be both original and delicious.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HealthyProtocolSkillName</Name>
+		<String>Healthy Protocol</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HealthyProtocolSkillDescription</Name>
+		<String>Many people in the world eat too much, but a wise use of vegetables to provide flavor and taste can reduce the need of additional (and caloric) seasonings.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AThousandVeggiesSkillName</Name>
+		<String>A Thousand Veggies</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AThousandVeggiesSkillDescription</Name>
+		<String>Mixing several ingredients in Soups ans Velveties is the path leading to unique and original dishes.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FlavorPreservationSkillName</Name>
+		<String>Flavor Preservation</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FlavorPreservationSkillDescription</Name>
+		<String>Certain cooking processes require the main ingredients' flavor to be preserved, in those cases the lesser is better.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GreenestStockSkillName</Name>
+		<String>Greenest Stock</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GreenestStockSkillDescription</Name>
+		<String>With study and practice you can create stocks with incredible aroma, allowing you to use them to provide additional quality to your recipes.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GreenTongueSkillName</Name>
+		<String>Green Tongue</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GreenTongueSkillDescription</Name>
+		<String>You ate so many green stuff that your tongue is turning green. While you hope the rest of your body won't change, that further improved your creativity with Vegetables.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AdeptOfGaiaSkillName</Name>
+		<String>Adept of Gaia</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AdeptOfGaiaSkillDescription</Name>
+		<String>Getting in complete symbiosis with nature will allow you to see how food wasting is a serious issue.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>VForVeganSkillName</Name>
+		<String>V For Vegan (and Vegetarian)</String>
+	</TextString>
+	
+	<TextString>
+		<Name>VForVeganSkillDescription</Name>
+		<String>Who said that Vegan and Vegetarian food is tasteless? Lots of people, so you better prove them how wrong they are!
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	<!-- Dessert -->
+	
+	
+	<TextString>
+		<Name>PreparationPipelineSkillName</Name>
+		<String>Preparation Pipeline</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PreparationPipelineSkillDescription</Name>
+		<String>A wise preparation can lead to a smoother service when the restaurant is full of customers.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SweetnessBalancingSkillName</Name>
+		<String>Sweetness Balancing</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SweetnessBalancingSkillDescription</Name>
+		<String>Modern desserts are made not be too sweet and offer a more complex Taste profile.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>FlavorsDosingSkillName</Name>
+		<String>Flavors Dosing</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FlavorsDosingSkillDescription</Name>
+		<String>Flavors must be dosed properly, especially to decrease expenses.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>CookieChipsAssemblingSkillName</Name>
+		<String>Cookie Chips Assembling</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CookieChipsAssemblingSkillDescription</Name>
+		<String>Cookies need propers chips but their creation is anything but simple.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>GrandmasHandbookSkillName</Name>
+		<String>Grandma's Handbook</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GrandmasHandbookSkillDescription</Name>
+		<String>You just stole your Grandma's most treasured possssion and you are not even ashamed.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>SmallDessertsAssemblingSkillName</Name>
+		<String>Small Desserts Assembling</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SmallDessertsAssemblingSkillDescription</Name>
+		<String>Assembling tiny pastries makes them more tempting to the eye.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>PerfectTextureSkillName</Name>
+		<String>Perfect Texture</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerfectTextureSkillDescription</Name>
+		<String>Ice cream shouldn't be too icy, despite its name, otherwise it won't satisfy most customers.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>FriedSweetnessSkillName</Name>
+		<String>Fried Sweetness</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FriedSweetnessSkillDescription</Name>
+		<String>Anything is good when fried, Desserts in particular. But the cooking process must be done in order not to negatively affect the flavor.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>HighTemperatureOilSkillName</Name>
+		<String>High Temperature Oil</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HighTemperatureOilSkillDescription</Name>
+		<String>Buying a good frying oil and keeping its temperature High, you can more easily create fried Desserts.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>SmallPortionsBigDecorationsSkillName</Name>
+		<String>Small Portions, Big Decorations</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SmallPortionsBigDecorationsSkillDescription</Name>
+		<String>Confusing your customers with beautiful and colored decorations is perfect to hide the fact that you delivered small portions.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>SugarReductionProtocolSkillName</Name>
+		<String>Sugar Reduction Protocol</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SugarReductionProtocolSkillDescription</Name>
+		<String>Properly dosing the sugar in all desserts is mandatory to make them as healthy as possible.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>BakingSchoolSkillName</Name>
+		<String>Baking School</String>
+	</TextString>
+	
+	<TextString>
+		<Name>BakingSchoolSkillDescription</Name>
+		<String>Watching online tutorials on the baking process can dramatically increase your skill with some Desserts.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>OneMoreLayerSkillName</Name>
+		<String>One More Layer...</String>
+	</TextString>
+	
+	<TextString>
+		<Name>OneMoreLayerSkillDescription</Name>
+		<String>We all know it is called "A Thousand Sheets" but it shouldn't be taken literally.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>AppliedMarketingSkillName</Name>
+		<String>Applied Marketing</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AppliedMarketingSkillDescription</Name>
+		<String>Your customers are obsessed with healthy food and refuse to order desserts? Nothing better than some old school marketing to shatter their noble ideals.
+
+{MODIFIERS}</String>
+	</TextString>
+
+	
+	
+	<TextString>
+		<Name>UndergroundGrandmasCagesSkillName</Name>
+		<String>Underground Grandmas' Cages</String>
+	</TextString>
+	
+	<TextString>
+		<Name>UndergroundGrandmasCagesSkillDescription</Name>
+		<String>No one knows why so many senior people started to disappear, but suddenly your dessert baking pipeline became much faster.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>SweetestPersonWorldSkillName</Name>
+		<String>Sweetest Person in the World</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SweetestPersonWorldSkillDescription</Name>
+		<String>That doesn't mean you are a nice person, but that you worked so much with desserts that everything you touch becomes sweeter.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>GeneticallyModifiedSugarsSkillName</Name>
+		<String>Genetically Modified Sugars</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GeneticallyModifiedSugarsSkillDescription</Name>
+		<String>Genetically modifying sugars to make them less caloric may solve you a lot of problems.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>UnconventionalDessertsSkillName</Name>
+		<String>Unconventional Desserts</String>
+	</TextString>
+	
+	<TextString>
+		<Name>UnconventionalDessertsSkillDescription</Name>
+		<String>By focusing on desserts that can't be done easily at home, you can offer more quality products to your customers.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>GloriousNutsSkillName</Name>
+		<String>Glorious Nuts</String>
+	</TextString>
+	
+	<TextString>
+		<Name>GloriousNutsSkillDescription</Name>
+		<String>Kneel before the glory of Nuts, and be rewarded with the secret knowledge you need to properly use all their power.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+</TextStrings>

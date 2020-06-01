@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+  <TextString>
+    <Name>MultiplyModelAmountDescriptionString</Name>
+    <String>{PARAM:1 percent} &lt;b&gt;{PARAM:0 customermodel}&lt;/b&gt; customers</String>
+  </TextString>
+  
+
+
+  <TextString>
+    <Name>AddAttractivenessCheapskatesDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Cheapskate&lt;/b&gt; customers</String>
+  </TextString>
+
+  <TextString>
+    <Name>AddAttractivenessBlueCollarDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Blue Collar&lt;/b&gt; customers</String>
+  </TextString>
+
+  <TextString>
+    <Name>AddAttractivenessWhiteCollarDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;White Collar&lt;/b&gt; customers</String>
+  </TextString>
+
+  <TextString>
+    <Name>AddAttractivenessFamilyLowDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Family Low&lt;/b&gt; customers</String>
+  </TextString>
+
+  <TextString>
+    <Name>AddAttractivenessFamilyHighDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Family High&lt;/b&gt; customers</String>
+  </TextString>
+
+  <TextString>
+    <Name>AddAttractivenessTouristLowDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Tourist Low&lt;/b&gt; customers</String>
+  </TextString>
+
+  <TextString>
+    <Name>AddAttractivenessTouristHighDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Tourist High&lt;/b&gt; customers</String>
+  </TextString>
+
+  <TextString>
+    <Name>AddAttractivenessGourmetDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Gourmet&lt;/b&gt; customers</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddAttractivenessFoodEnthusiastDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Food Enthusiast&lt;/b&gt; customers</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddAttractivenessVegetarianDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Vegetarian&lt;/b&gt; customers</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddAttractivenessVeganDescription</Name>
+    <String>{PARAM:0 addpercent} Attractiveness for &lt;b&gt;Vegan&lt;/b&gt; customers</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>MultiplyModelAmountEveryoneString</Name>
+    <String>{PARAM:0 percent} all customers</String>
+  </TextString>
+  
+    <TextString>
+    <Name>AddEnvironmentString</Name>
+    <String>{PARAM:0 int} Restaurant's Environment Quality</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyUnitCostString</Name>
+    <String>{PARAM:1 percent upnegative} All Ingredients Cost</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyPreparationTimeString</Name>
+    <String>{PARAM:0 percent upnegative} Recipes Preparation Time</String>
+  </TextString>
+  
+  
+   <TextString>
+    <Name>ModifyQualityPositiveTag</Name>
+    <String>{PARAM:0 bonus} &lt;b&gt;{QUERY_TAGFILTER}&lt;/b&gt; Recipes Quality</String>
+  </TextString>
+  
+   <TextString>
+    <Name>ModifyQualityPositiveBeverages</Name>
+    <String>{PARAM:0 bonus} non-alcoholic Beverages Quality</String>
+  </TextString>
+   
+  <TextString>
+    <Name>MultiplyUnitCostTagString</Name>
+    <String>{PARAM:1 percent upnegative} &lt;b&gt;{QUERY_TAGFILTER}&lt;/b&gt; Ingredients Cost</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyPreparationTimeTag</Name>
+    <String>{PARAM:0 percent upnegative} &lt;b&gt;{QUERY_TAGFILTER}&lt;/b&gt; Recipes Preparation Time</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyCookingTimeTag</Name>
+    <String>{PARAM:0 percent upnegative} &lt;b&gt;{QUERY_TAGFILTER}&lt;/b&gt; Recipes Cooking Time</String>
+  </TextString>
+  
+   <TextString>
+    <Name>ModifyQualityPositiveTemplate</Name>
+    <String>{PARAM:0 bonus} &lt;b&gt;{QUERY_TEMPLATE}&lt;/b&gt; Recipes Quality</String>
+  </TextString>
+  
+   <TextString>
+    <Name>ModifyCookingTimeTemplate</Name>
+    <String>{PARAM:0 percent upnegative} &lt;b&gt;{QUERY_TEMPLATE}&lt;/b&gt; Recipes Cooking Time</String>
+  </TextString>
+  
+   <TextString>
+    <Name>ModifyPreparationTimeTemplate</Name>
+    <String>{PARAM:0 percent upnegative} &lt;b&gt;{QUERY_TEMPLATE}&lt;/b&gt; Recipes Preparation Time</String>
+  </TextString>
+  
+  
+  
+   <TextString>
+    <Name>ModifierTakeOrdersTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Take Orders</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifierDeliverOrdersTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Deliver Orders</String>
+  </TextString>
+  
+    <TextString>
+    <Name>ModifierTakeBillFromBenchTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Prepare the Bill</String>
+  </TextString>
+  
+    <TextString>
+    <Name>ModifierCheckOutTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Check Customers Out</String>
+  </TextString>
+  
+  
+  
+    <TextString>
+    <Name>ModifierDeliverMoneyToBenchTimeSpeedString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Deliver Money to the Counter</String>
+  </TextString>
+  
+  
+    <TextString>
+    <Name>ModifierCustomersAskForTableTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Welcome Customers</String>
+  </TextString>
+  
+  
+    <TextString>
+    <Name>ModifierReceiveCustomersTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Welcome Customers</String>
+  </TextString>
+  
+  
+    <TextString>
+    <Name>ModifierAccomodateCustomersTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Accomodate Customers</String>
+  </TextString>
+  
+  
+    <TextString>
+    <Name>ModifierTakeOrdersFromBenchTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Take Orders from the Bench</String>
+  </TextString>
+  
+  
+    <TextString>
+    <Name>ModifierServeOrdersTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Serve Orders</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ModifierCleanTableTimeString</Name>
+    <String>{PARAM:1 percent upnegative} time needed for this Waiter to Clean the Table</String>
+  </TextString>
+  
+    <TextString>
+    <Name>ModifierPerkMovementSpeedString</Name>
+    <String>{PARAM:0 bonus} Walking Speed</String>
+  </TextString>
+  
+    <TextString>
+    <Name>MultiplyCookingTimeChefString</Name>
+    <String>{PARAM:0 percent upnegative} time required for any Preparation or Cooking Process</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifierEditorAddQualityString</Name>
+    <String>{PARAM:0 bonus} Recipe Final Quality</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ModifyCostTemplate</Name>
+    <String>{PARAM:0 percent upnegative} &lt;b&gt;{QUERY_TEMPLATE}&lt;/b&gt; Recipe Final Cost</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCaloriesTemplate</Name>
+    <String>{PARAM:0 percent upnegative} &lt;b&gt;{QUERY_TEMPLATE}&lt;/b&gt; Recipe Calories</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCaloriesTag</Name>
+    <String>{PARAM:0 percent upnegative} &lt;b&gt;{QUERY_TAGFILTER}&lt;/b&gt; Recipe Calories</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyMenuSectionDescription</Name>
+    <String>{PARAM:1 percent} Customer Chance of ordering &lt;b&gt;{PARAM:0 string} Recipes&lt;/b&gt;</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddModelAmountDescriptionString</Name>
+    <String>&lt;b&gt;{PARAM:0 string}&lt;/b&gt; Customer Pool &lt;b&gt;{PARAM:1 bonus}&lt;/b&gt;</String>
+  </TextString>
+  
+  <TextString>
+    <Name>BasicModelAmountDescriptionString</Name>
+    <String>&lt;b&gt;{PARAM:0 string}&lt;/b&gt; Customer Pool &lt;b&gt;{PARAM:1 bonus}&lt;/b&gt;</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>TrashAdditionModelAmountDescriptionString</Name>
+    <String>Increased Overall Customers</String>
+  </TextString>
+  
+  <TextString>
+    <Name>TrashSubtractionModelAmountDescriptionString</Name>
+    <String>Reduced Overall Customers</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyRentString</Name>
+    <String>{PARAM:0 percent upnegative} Restaurant Rent</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>MultiplyFrequencyAmountDescriptionString</Name>
+    <String>{PARAM:0 percent} Customers</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplySalaryString</Name>
+    <String>{PARAM:0 percent upnegative} salary for all staff members.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyMaintenanceCostString</Name>
+    <String>{PARAM:0 percent upnegative} maintenance cost for all Tools.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyGroupSizeProbabilityString</Name>
+    <String>{PARAM:1 percent} chance of spawning groups of {PARAM:0} people.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyQualityRecipeSelf</Name>
+    <String>{PARAM:0 bonus} Quality to all recipes of this Menu Section cooked by this Chef.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCostRecipeSelf</Name>
+    <String>{PARAM:0 percent upnegative} Ingredient Cost to all recipes of this Menu Section cooked by this Chef.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyFilteredPreparationTimeDescription</Name>
+    <String>{PARAM:0 percent upnegative} Preparation Time all recipes of this Menu Section cooked by this Chef.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyFilteredCookingTimeDescription</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time all recipes of this Menu Section cooked by this Chef.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddEnergyString</Name>
+    <String>{PARAM:0 bonus} Energy.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyCustomerPoolString</Name>
+    <String>{PARAM:1 percent} Customers.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddMaxOrdersCustomerString</Name>
+    <String>{PARAM:1 bonus} Max Orders.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyCostExpectationString</Name>
+    <String>{PARAM:0 percent} Customers budget.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifierIncreaseServiceRatingString</Name>
+    <String>{PARAM:0 bonus} score to Service Rating in reviews.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifierIncreaseEnvironmentRatingString</Name>
+    <String>{PARAM:0 bonus} score to Environment Rating in reviews.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyQualityPositiveRecipeAllString</Name>
+    <String>{PARAM:0 bonus} Quality to all Recipes.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyWaitInLineTimeString</Name>
+    <String>{PARAM:0 percent} Customers patience when waiting outside.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyWaitToOrderTimeString</Name>
+    <String>{PARAM:0 percent} Customers patience when waiting to order.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyWaitToEatTimeString</Name>
+    <String>{PARAM:0 percent} time spent by Customers eating.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyWaitToServeTimeString</Name>
+    <String>{PARAM:0 percent} Customers patience when waiting to receive their meal.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyWaitToChekOutTimeString</Name>
+    <String>{PARAM:0 percent} Customers patience when waiting to receive the bill.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifierMultiplySalaryString</Name>
+    <String>{PARAM:0 percent upnegative} Salary for the entire Staff.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifierPerkMovementSpeedAllString</Name>
+    <String>{PARAM:0 bonus} Movement Speed for the entire Staff.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCookingTimeAll</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Chefs.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCounterTimeAll</Name>
+    <String>{PARAM:0 percent upnegative} Preparation Time for all Chefs.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyEnergyDrainAllTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Energy loss for the entire Staff.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyQualityPositiveMeatAllTemplate</Name>
+    <String>{PARAM:0 bonus} Quality for all Meat Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyQualityPositiveVeggiesAllTemplate</Name>
+    <String>{PARAM:0 bonus} Quality for all Vegetables Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyQualityPositiveSeafoodAllTemplate</Name>
+    <String>{PARAM:0 bonus} Quality for all Seafood Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyQualityPositiveDessertAllTemplate</Name>
+    <String>{PARAM:0 bonus} Quality for all Dessert Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyQualityPositiveSandwichAllTemplate</Name>
+    <String>{PARAM:0 bonus} Quality for all Sandwiches and Burgers Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyPreparationTimeAllMeatTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Preparation Time for all Meat Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyPreparationTimeAllVeggiesTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Preparation Time for all Vegetables Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyPreparationTimeAllSeafoodTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Preparation Time for all Seafood Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyPreparationTimeAllDessertTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Preparation Time for all Dessert Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyPreparationTimeAllSandwichTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Preparation Time for all Sandwiches and Burgers Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCookingTimeAllMeatTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Meat Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCookingTimeAllVeggiesTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Vegetables Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCookingTimeAllSeafoodTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Seafood Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCookingTimeAllDessertTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Dessert Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCookingTimeAllSandwichTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Sandwiches and Burgers Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCostAllMeatTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Meat Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCostAllVeggiesTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Vegetables Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCostAllSeafoodTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Seafood Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCostAllDessertTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Dessert Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCostAllSandwichTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Sandwiches and Burgers Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCaloriesAllMeatTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Meat Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCaloriesAllVeggiesTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Vegetables Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCaloriesAllSeafoodTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Seafood Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ModifyCaloriesAllDessertTemplate</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Dessert Templates</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyFilteredCookingTimeStringGeneric</Name>
+    <String>{PARAM:0 percent upnegative} Cooking Time for all Recipes of this Menu Section</String>
+  </TextString>
+  
+  <TextString>
+    <Name>MultiplyFilteredCounterTimeStringGeneric</Name>
+    <String>{PARAM:0 percent upnegative} Preparation Time for all Recipes of this Menu Section</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddStyleValueCleaningString</Name>
+    <String>{PARAM:1 bonus} to Ambience: General &lt;sprite="emoticonsatlas" index=9&gt;</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddStyleValueCountryString</Name>
+    <String>{PARAM:1 bonus} to Ambience: Rustic &lt;sprite="emoticonsatlas" index=3&gt;</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddStyleValueModernString</Name>
+    <String>{PARAM:1 bonus} to Ambience: Modern &lt;sprite="emoticonsatlas" index=5&gt;</String>
+  </TextString>
+  
+  <TextString>
+    <Name>AddStyleValueElegantString</Name>
+    <String>{PARAM:1 bonus} to Ambience: Elegant &lt;sprite="emoticonsatlas" index=4&gt;</String>
+  </TextString>
+  
+  
+</TextStrings>

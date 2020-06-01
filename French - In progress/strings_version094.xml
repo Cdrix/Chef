@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+	<TextString>
+		<Name>FreePoolString</Name>
+		<String>Do you want to remove all spent Influence Points from this Area? 
+It will make this Area available for one of your other Restaurants.</String>
+	</TextString>
+
+	<TextString>
+		<Name>FreePoolDesc</Name>
+		<String>This button will allow you to remove all Influence Points spent on this area, removing the customers from the pool and making this Neighborhood available for other Restaurants.</String>
+	</TextString>
+	<TextString>
+		<Name>FreePoolName</Name>
+		<String>Remove Influence</String>
+	</TextString>
+
+	<TextString>
+		<Name>DuplicateRecipeMenuButtonString</Name>
+		<String>Duplicate Recipe</String>
+	</TextString>
+	<TextString>
+		<Name>DuplicateRecipeMenuButtonDesc</Name>
+		<String>Click to create a copy of this Custom Recipe.</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SkillCategorySandwichName</Name>
+		<String>Sandwiches and Burgers</String>
+	</TextString>
+	<TextString>
+		<Name>SkillCategorySandwichDescription</Name>
+		<String>Cutting some kind of bread in half and putting food in it is a common and popular way to create tasty meals.</String>
+	</TextString>
+	<TextString>
+		<Name>SkillCategorySandwichAlternateDescription</Name>
+		<String>Sandwiches and Burgers focused Skills - Applied to the entire Restaurant</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateHamburgerName</Name>
+		<String>Hamburger</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateHamburgerDescription</Name>
+		<String>Hamburgers are very popular sandwiches made with a sliced bun and a patty of ground meat.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateHamburgerSkillDescription</Name>
+		<String>Hamburgers are very popular sandwiches made with a sliced bun and a patty of ground meat.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateFishBurgerName</Name>
+		<String>Fish Burger</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishBurgerDescription</Name>
+		<String>Fish Burgers are burgers made with a Seafood patty instead of a Meat one.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishBurgerSkillDescription</Name>
+		<String>Fish Burgers are burgers made with a Seafood patty instead of a Meat one.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateVeggieBurgerName</Name>
+		<String>Veggie Burger</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVeggieBurgerDescription</Name>
+		<String>Veggie Burgers are burgers made with a vegetable-based patty.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVeggieBurgerSkillDescription</Name>
+		<String>Veggie Burgers are burgers made with a vegetable-based patty.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateSandwichName</Name>
+		<String>Sandwich</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSandwichDescription</Name>
+		<String>Any recipe consisting of food placed between two slices of bread can be considered a sandwich.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSandwichSkillDescription</Name>
+		<String>Any recipe consisting of food placed between two slices of bread can be considered a sandwich.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateGrilledSandwichName</Name>
+		<String>Grilled Sandwich</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledSandwichDescription</Name>
+		<String>Improving a Sandwich is as easy as putting it on a grill.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledSandwichSkillDescription</Name>
+		<String>Improving a Sandwich is as easy as putting it on a grill.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+
+
+
+	<TextString>
+		<Name>TemplateGrilledSandwichPerkName</Name>
+		<String>Grilled Sandwich Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledSandwichPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Bread in High Quantity (100g or more).</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateSandwichPerkName</Name>
+		<String>Sandwich Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSandwichPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Bread in High Quantity (100g or more).</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateVeggieBurgerPerkName</Name>
+		<String>Veggie Burger Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVeggieBurgerPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Bread in High Quantity (100g or more);
+► Use a Vegetables Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateFishBurgerPerkName</Name>
+		<String>Fish Burger Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishBurgerPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Bread in High Quantity (100g or more);
+► Use a Seafood Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+
+
+	<TextString>
+		<Name>TemplateHamburgerPerkName</Name>
+		<String>Fish Burger Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateHamburgerPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Bread in High Quantity (100g or more);
+► Use a Meat Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+
+
+
+
+
+
+
+
+
+
+	<TextString>
+		<Name>PattiesCookingSkillName</Name>
+		<String>Patties Cooking</String>
+	</TextString>
+
+	<TextString>
+		<Name>PattiesCookingSkillDescription</Name>
+		<String>Everyone can turn a juicy patty into a crappy, dry chunk of inedible matter. Properly cooking patties require love and care.
+
+{MODIFIERS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>GrillWisdomSkillName</Name>
+		<String>Grill Wisdom</String>
+	</TextString>
+
+	<TextString>
+		<Name>GrillWisdomSkillDescription</Name>
+		<String>Oh Mighty Grill, whisper your secrets to me. May I cook quickly and without burning food...
+
+{MODIFIERS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>StuffingRatioSkillName</Name>
+		<String>Scientific Stuffing Ratio</String>
+	</TextString>
+
+	<TextString>
+		<Name>StuffingRatioSkillDescription</Name>
+		<String>Hiring a team of scientists to do advanced research about Sandwiches stuffing may be an overkill. Or maybe not...
+
+{MODIFIERS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>AirStuffingSkillName</Name>
+		<String>The Legendary Trick of the Air Stuffing</String>
+	</TextString>
+
+	<TextString>
+		<Name>AirStuffingSkillDescription</Name>
+		<String>This supposedly legendary trick will allow you to position stuffing in your Sandwiches and Burgers in a way that allows you to use less ingredients, and use the air to fill the gaps.
+
+{MODIFIERS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>HighQualityStuffingSkillName</Name>
+		<String>High Quality Stuffing</String>
+	</TextString>
+
+	<TextString>
+		<Name>HighQualityStuffingDescription</Name>
+		<String>Don't waste your time on cheap ingredients, if you want to impress your customers you need to choose the best food for your stuffings!
+
+{MODIFIERS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>BurgerRoyaltySkillName</Name>
+		<String>Burger Royalty</String>
+	</TextString>
+
+	<TextString>
+		<Name>BurgerRoyaltySkillDescription</Name>
+		<String>It's finally time to reveal your ancestry to everyone and claim the title of Burger Royalty. Yes, Royalty, we don't want to be sued!
+
+{MODIFIERS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>DoubleSlicesMasterSkillName</Name>
+		<String>Master of the Two Slices</String>
+	</TextString>
+
+	<TextString>
+		<Name>DoubleSlicesMasterSkillDescription</Name>
+		<String>You learned the ancient tricks of Sandwich-making, now you are a true master of the art.
+
+{MODIFIERS}</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>GamingHandEyeCoordinationSkillName</Name>
+		<String>Hand-Eye Coordination Gaming Training Program</String>
+	</TextString>
+
+	<TextString>
+		<Name>GamingHandEyeCoordinationSkillDescription</Name>
+		<String>You started playing at some of the hardest videogames on the market and eventually got good at them. Now your hands are fast like the wind.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	<TextString>
+		<Name>PassClickName</Name>
+		<String>Kitchen Pass</String>
+	</TextString>
+	<TextString>
+		<Name>PassClickDesc</Name>
+		<String>Orders ready to be delivered</String>
+	</TextString>
+
+
+</TextStrings>

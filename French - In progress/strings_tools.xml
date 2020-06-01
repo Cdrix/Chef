@@ -1,0 +1,1703 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+	<!--Tool categories-->
+	<TextString>
+		<Name>KitchenBigDescriptiveName</Name>
+		<String>Ustensiles de cuisine principaux</String>
+	</TextString>
+	<TextString>
+		<Name>KitchenBigDescription</Name>
+		<String>Vous aurez peut-être besoin de plusieurs outils de cuisine pour préparer les recettes de votre menu.</String>
+	</TextString>
+	<TextString>
+		<Name>KitchenSmallDescriptiveName</Name>
+		<String>Petits ustensiles de cuisine</String>
+	</TextString>
+	<TextString>
+		<Name>KitchenSmallDescription</Name>
+		<String>Les petits ustensiles de cuisine offrent des bonus mineurs à votre restaurant.</String>
+	</TextString>
+	<TextString>
+		<Name>TablesDescriptiveName</Name>
+		<String>Tables</String>
+	</TextString>
+	<TextString>
+		<Name>TablesDescription</Name>
+		<String>Les clients ont besoin d'une table pour manger dans votre restaurant.</String>
+	</TextString>
+	<TextString>
+		<Name>FloorDecorationDescriptiveName</Name>
+		<String>Décorations de sol</String>
+	</TextString>
+	<TextString>
+		<Name>FloorDecorationDescription</Name>
+		<String>Les décorations augmenteront votre note d'ambiance.</String>
+	</TextString>
+	<TextString>
+		<Name>RoomDecorationDescriptiveName</Name>
+		<String>Décorations de la salle</String>
+	</TextString>
+	<TextString>
+		<Name>RoomDecorationDescription</Name>
+		<String>Les décorations augmenteront votre note d'ambiance.</String>
+	</TextString>
+	<TextString>
+		<Name>WallDecorationDescriptiveName</Name>
+		<String>Décorations murales</String>
+	</TextString>
+	<TextString>
+		<Name>WallDecorationDescription</Name>
+		<String>Les décorations augmenteront votre note d'ambiance.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PaintingsDescriptiveName</Name>
+		<String>Peintures</String>
+	</TextString>
+	<TextString>
+		<Name>PaintingsDescription</Name>
+		<String>Les décorations augmenteront votre note d'ambiance.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>OvenTypeName</Name>
+		<String>Four</String>
+	</TextString>
+	<TextString>
+		<Name>OvenTypeDescription</Name>
+		<String>Cette recette nécessite un four pour être cuisinée</String>
+	</TextString>
+
+	<TextString>
+		<Name>BurnerTypeName</Name>
+		<String>Cuisinière</String>
+	</TextString>
+	<TextString>
+		<Name>BurnerTypeDescription</Name>
+		<String>Cette recette nécessite une cuisinière</String>
+	</TextString>
+
+	<TextString>
+		<Name>FryerTypeName</Name>
+		<String>Friteuse</String>
+	</TextString>
+	<TextString>
+		<Name>FryerTypeDescription</Name>
+		<String>Cette recette nécessite une friteuse pour être cuisinée</String>
+	</TextString>
+
+	<TextString>
+		<Name>SteamTypeName</Name>
+		<String>Cuiseur vapeur</String>
+	</TextString>
+	<TextString>
+		<Name>SteamTypeDescription</Name>
+		<String>Cette recette nécessite un cuiseur vapeur pour être cuisinée</String>
+	</TextString>
+
+	<TextString>
+		<Name>GrillTypeName</Name>
+		<String>Grill</String>
+	</TextString>
+	<TextString>
+		<Name>GrillTypeDescription</Name>
+		<String>Cette recette nécessite un grill pour être cuisinée</String>
+	</TextString>
+
+	<TextString>
+		<Name>CounterTypeName</Name>
+		<String>Comptoir</String>
+	</TextString>
+	<TextString>
+		<Name>CounterTypeDescription</Name>
+		<String>Cette recette nécessite un comptoir pour être cuisinée</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TableTypeName</Name>
+		<String>Table</String>
+	</TextString>
+	<TextString>
+		<Name>WallDecTypeName</Name>
+		<String>Décoration murale</String>
+	</TextString>
+	<TextString>
+		<Name>FloorDecTypeName</Name>
+		<String>Décoration de sol</String>
+	</TextString>
+	<TextString>
+		<Name>RoomDecTypeName</Name>
+		<String>Décoration de salle</String>
+	</TextString>
+	<TextString>
+		<Name>CountTypeName</Name>
+		<String>Count</String>
+	</TextString>
+
+	<!--Tools-->
+	<TextString>
+		<Name>Oven01OvenName</Name>
+		<String>Four à flammes x55</String>
+	</TextString>
+	<TextString>
+		<Name>Oven01Description</Name>
+		<String>Ce four de haute qualité est si grand qu'il pourrait cuire un buffle entier, ses flammes sont si puissantes que le buffle pourrait être transformé en cendres en quelques heures.
+
+&lt;b&gt;Category: Oven&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Oven02Name</Name>
+		<String>Four à flammes vive 100</String>
+	</TextString>
+	<TextString>
+		<Name>Oven02Description</Name>
+		<String>Ni coûteux ni bon marché, ce four est le parfait compromis entre qualité et coût.
+
+&lt;b&gt;Category: Oven&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker01Name</Name>
+		<String>Cooker CheapBrothers 707</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker01Description</Name>
+		<String>While this cooker barely emits any form of heat, you can bring it home for a ridicolously cheap price. 
+		
+&lt;b&gt;Category: Cooker&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker02Name</Name>
+		<String>Cooker Grandma's Choice 1990</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker02Description</Name>
+		<String>If you ever wondered what cooker your grandmother would buy, then you now have the answer. 
+		
+&lt;b&gt;Category: Cooker&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker03Name</Name>
+		<String>Cooker Modern Taste 40</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker03Description</Name>
+		<String>Why should a cooking professional settle for an ugly kitchen? Modern Taste provides you the aesthetically pleasing workplace you always dreamed of!
+		
+&lt;b&gt;Category: Cooker&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+		</String>
+	</TextString>
+
+	<TextString>
+		<Name>Cooker04Name</Name>
+		<String>Cooker Infinity 4X</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker04Description</Name>
+		<String>With this immense cooker you will be able to cook food for a whole army without ever suffering for the lack of space.
+		
+&lt;b&gt;Category: Cooker&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker05Name</Name>
+		<String>Cooker Grandma's Choice 2100</String>
+	</TextString>
+	<TextString>
+		<Name>Cooker05Description</Name>
+		<String>Still thinking your grandma knows nothing about the modern world? Well, think again! The Cooker Grandma's Choice 2100 was made by grandmas for grandmas, without forgetting about top notch technology!
+		
+&lt;b&gt;Category: Cooker&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Fridge01Name</Name>
+		<String>Fridge CoolBreeze v2
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Fridge01Description</Name>
+		<String>Let a CoolBreeze™ keep your food fresh and tasty! Fridges bonuses stack up to three times.
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Fridge02Name</Name>
+		<String>Fridge CoolBreeze v7</String>
+	</TextString>
+	<TextString>
+		<Name>Fridge02Description</Name>
+		<String>Let a premium CoolBreeze™ keep your food even fresher and tastier! Fridges bonuses stack up to three times.
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Fridge03Name</Name>
+		<String>Fridge TotalPenguin Y4</String>
+	</TextString>
+	<TextString>
+		<Name>Fridge03Description</Name>
+		<String>TotalPenguin promises you that this fridge is going to replicate the artic environment in your kitchen. Fridges bonuses stack up to three times.
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Counter01Name</Name>
+		<String>Counter SimpleStuff™</String>
+	</TextString>
+	<TextString>
+		<Name>Counter01Description</Name>
+		<String>The simplest counter on the market: not particularly pleasing for the eye, but it works.
+		
+&lt;b&gt;Category: Counter&lt;/b&gt;
+&lt;b&gt;Preparation Areas: One&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Counter02Name</Name>
+		<String>Counter Grandma's Choice 2000</String>
+	</TextString>
+	<TextString>
+		<Name>Counter02Description</Name>
+		<String>This counter was designed by grandmas, for grandmas.
+		
+&lt;b&gt;Category: Counter&lt;/b&gt;
+&lt;b&gt;Preparation Areas: Two&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Counter03Name</Name>
+		<String>Counter Grandma's Choice 2100</String>
+	</TextString>
+	<TextString>
+		<Name>Counter03Description</Name>
+		<String>This counter was created using a complex neural AI to simulate the thought patterns of future grandmas.
+		
+&lt;b&gt;Category: Counter&lt;/b&gt;
+&lt;b&gt;Preparation Areas: Two&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer01Name</Name>
+		<String>Fryer CrispyChoice v1.1</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer01Description</Name>
+		<String>CryspyChoice offers you a decade long experience in assembling the nicest fryers on the market!
+		
+&lt;b&gt;Category: Fryer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer02Name</Name>
+		<String>Fryer CrispyChoice v3.0</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer02Description</Name>
+		<String>The best Fryer in the world, brought to you by CrispyChoice!
+		
+&lt;b&gt;Category: Fryer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer03Name</Name>
+		<String>Fryer CheapBrothers 303</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer03Description</Name>
+		<String>Why pay a lot for a fryer when the Cheap Brothers are here with this awesome model?
+		
+&lt;b&gt;Category: Fryer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer04Name</Name>
+		<String>Fryer Cylinder 500</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer04Description</Name>
+		<String>Why have ugly edges in your kitchen? The only edge you need is on your knife, your appliances should be soothing for the eyes!  
+		
+&lt;b&gt;Category: Fryer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer05Name</Name>
+		<String>Fryer OilTsunami</String>
+	</TextString>
+	<TextString>
+		<Name>Fryer05Description</Name>
+		<String>Have you ever stared at your crappy, small kitchen in complete disappointment because you couldn't fry the entire Polish production of potatoes? Now you can, with the massive Fryer OilTsunami!
+		
+&lt;b&gt;Category: Fryer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Mixer01Name</Name>
+		<String>Mixeur CheapBrothers 505</String>
+	</TextString>
+	<TextString>
+		<Name>Mixer01Description</Name>
+		<String>Ce mixeur ne durera pas longtemps, mais il est quasiment gratuit ! Soyez patient car il faut du temps pour moudre les choses.
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Mixer02Name</Name>
+		<String>Mixeur Générique TX500</String>
+	</TextString>
+	<TextString>
+		<Name>Mixer02Description</Name>
+		<String>Pourquoi dépenser autant pour de belles choses quand on peut dépenser pour des choses qui fonctionnent bien ?
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Mixer03Name</Name>
+		<String>Mixeur TORNADOBLADES 9999</String>
+	</TextString>
+	<TextString>
+		<Name>Mixer03Description</Name>
+		<String>LE TORNADOBLADE 9999 PEUT TOUT TRANSFORMER EN BOUILLIE ! LE MIXEUR LE PLUS PUISSANT DU MARCHÉ ! POURQUOI JE CRIE ?
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Blender01Name</Name>
+		<String>Blender CheapBrothers 101</String>
+	</TextString>
+	<TextString>
+		<Name>Blender01Description</Name>
+		<String>Le modèle le plus classique du marché, mais n'appuyez pas trop longtemps sur ce bouton, sous peine de le faire exploser.
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Blender02Name</Name>
+		<String>Blender Choix de Grand-mère 2000</String>
+	</TextString>
+	<TextString>
+		<Name>Blender02Description</Name>
+		<String>Si même votre grand-mère n'est plus disposée à couper des choses avec un couteau, à quoi bon ?
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>Blender03Name</Name>
+		<String>Blender TORNADOBLADES 999</String>
+	</TextString>
+	<TextString>
+		<Name>Blender03Description</Name>
+		<String>SEUL LE VERROUILLAGE DES BOUCHONS PEUT EXPRIMER PLEINEMENT LA VÉRITABLE PUISSANCE DE CE BLENDER ! IL PEUT TRANSFORMER UN ROCHER EN SABLE!
+
+{PERKS}
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>Coffeemachine01Name</Name>
+		<String>Machine à café Thispresso</String>
+	</TextString>
+	<TextString>
+		<Name>Coffeemachine01Description</Name>
+		<String>Thispresso est là pour vous apporter le meilleur café du monde, mais cette merveille peut aussi faire toutes sortes de boissons chaudes!
+
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;		
+{PERKS}
+</String>
+	</TextString>
+
+	<TextString>
+		<Name>Microwave01Name</Name>
+		<String>Micro-ondes Puissance Quantique 4</String>
+	</TextString>
+	<TextString>
+		<Name>Microwave01Description</Name>
+		<String>Cuisiner avec des ondes électromagnétiques n'a jamais été aussi facile !
+		
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;	
+{PERKS}</String>
+
+
+</TextString>
+
+	<TextString>
+		<Name>Dishwasher01Name</Name>
+		<String>Lave-vaisselle Choix de Grand-mère 1995</String>
+	</TextString>
+	<TextString>
+		<Name>Dishwasher01Description</Name>
+		<String>Bien qu'il soit un peu vieux, ce lave-vaisselle peut être d'une grande aide dans la cuisine.
+		
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Dishwasher02Name</Name>
+		<String>Lave-vaisselle Choix de Grand-mère 2020</String>
+	</TextString>
+	<TextString>
+		<Name>Dishwasher02Description</Name>
+		<String>Qui a dit que la cuisine traditionnelle ne pouvait pas être transposée dans le futur ? Beaucoup de gens, donc entre-temps nous avons modernisé le lavage traditionnel.
+		
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Dishwasher03Name</Name>
+		<String>Lave-vaisselle CleanNow Modèle 6</String>
+	</TextString>
+	<TextString>
+		<Name>Dishwasher03Description</Name>
+		<String>Vous est-il arrivé de vous arrêter un instant pour penser à l'ennui d'attendre ? NON ! Parce que vous êtes un gagnant et que l'attente est pour les perdants. Et ce lave-vaisselle ne vous fera pas attendre !
+		
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Grill01Name</Name>
+		<String>Grill Oncle Bob</String>
+	</TextString>
+	<TextString>
+		<Name>Grill01Description</Name>
+		<String>Depuis 1900, Oncle Bob produit le même gril ennuyeux. Mais vous ne pouvez pas ignorer cent ans d'histoire!
+		
+&lt;b&gt;Category: Grill&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>TestGrill02Name</Name>
+		<String>Grill Générique GX700</String>
+	</TextString>
+	<TextString>
+		<Name>TestGrill02Description</Name>
+		<String>Initialement destiné à fournir un gril de plusieurs siècles aux fanatiques de l'apocalypse pendant la guerre froide, ce gril revient aujourd'hui sur le marché
+		
+&lt;b&gt;Category: Grill&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>TestGrill03Name</Name>
+		<String>Grill Hellflame x34</String>
+	</TextString>
+	<TextString>
+		<Name>TestGrill03Description</Name>
+		<String>Croyez-vous au changement climatique ? Nous ne croyons pas non plus à Hellflame, alors qui se soucie de savoir si cette beauté a le même rendement thermique qu'une ville entière ?
+		
+&lt;b&gt;Category: Grill&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>TestGrill04Name</Name>
+		<String>Grill Smokehouse TY-50</String>
+	</TextString>
+	<TextString>
+		<Name>TestGrill04Description</Name>
+		<String>Avec son design unique, le TY-50 est là pour vous offrir une expérience de grillade de premier choix agrémentée d'un délicieux arôme fumé !
+		
+&lt;b&gt;Category: Grill&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+		</String>
+	</TextString>
+
+	<TextString>
+		<Name>TestGrill05Name</Name>
+		<String>Grill TechnoCook 999</String>
+	</TextString>
+	<TextString>
+		<Name>TestGrill05Description</Name>
+		<String>La technologie fait tout, même dans la cuisine ! Faites-vous une faveur et achetez le meilleur grill jamais créé, vos clients remarqueront la différence !
+		
+&lt;b&gt;Category: Grill&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Steam01Name</Name>
+		<String>Cuiseur vapeur CloudMaker</String>
+	</TextString>
+	<TextString>
+		<Name>Steam01Description</Name>
+		<String>Le CloudMaker devait à l'origine être une arme capable de contrôler le temps, mais lorsqu'ils ont réalisé que les nuages ne sont pas si effrayants que ça, ils ont dû improviser.
+		
+&lt;b&gt;Category: Steamer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Steam02Name</Name>
+		<String>Cuiseur vapeur Générique GS890</String>
+	</TextString>
+	<TextString>
+		<Name>Steam02Description</Name>
+		<String>Certains diront que les aliments cuits à la vapeur n'ont pas de goût, mais la saveur chimique unique que procure cette merveille leur fermera la bouche.
+		
+&lt;b&gt;Category: Steamer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Steam03Name</Name>
+		<String>Cuiseur vapeur Tasteless 11</String>
+	</TextString>
+	<TextString>
+		<Name>Steam03Description</Name>
+		<String>La première étape d'une alimentation saine consiste à éliminer toute sorte de saveur de ce que vous mangez, et ce merveilleux Steamer est là pour vous.
+		
+&lt;b&gt;Category: Steamer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Steam04Name</Name>
+		<String>Cuiseur vapeur Caracalla 66</String>
+	</TextString>
+	<TextString>
+		<Name>Steam04Description</Name>
+		<String>Profitez d'un soin de sauna de niveau SPA pour vos plats.
+		
+&lt;b&gt;Category: Steamer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Steam05Name</Name>
+		<String>Cuiseur vapeur Geyser en bouteilles</String>
+	</TextString>
+	<TextString>
+		<Name>Steam05Description</Name>
+		<String>D'après la publicité, on y met de vrais geysers, mais attention à l'utilisation de ce cuiseur vapeur !
+		
+&lt;b&gt;Category: Steamer&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<!--Tables-->
+
+	<TextString>
+		<Name>Table01_4seatsName</Name>
+		<String>Table en bois (4) </String>
+	</TextString>
+	<TextString>
+		<Name>Table01_4seatsDescription</Name>
+		<String>Une table en bois simple mais élégante, avec des échardes mortelles.</String>
+	</TextString>
+
+	<TextString>
+		<Name>Table01Colorable0</Name>
+		<String> Couleurs </String>
+	</TextString>
+	<TextString>
+		<Name>Table01Colorable1</Name>
+		<String> Couleurs </String>
+	</TextString>
+
+
+	<TextString>
+		<Name>Table02_4seatsName</Name>
+		<String>Table moderne (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table02_4seatsDescription</Name>
+		<String>Rien de tel que des tables modernes pour dire "Mon restaurant est cool et branché"</String>
+	</TextString>
+
+	<TextString>
+		<Name>Table03_4seatsName</Name>
+		<String>Table en bois design (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table03_4seatsDescription</Name>
+		<String>Selon les rumeurs, cette table est basée sur un ancien dessin extraterrestre trouvé dans un donjon secret sous les Pyramides.</String>
+	</TextString>
+
+	<TextString>
+		<Name>Table01_2seatsName</Name>
+		<String>Table en bois (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table01_2seatsDescription</Name>
+		<String>Une table en bois simple mais élégante, avec des échardes mortelles</String>
+	</TextString>
+
+	<TextString>
+		<Name>Table02_2seatsName</Name>
+		<String>Table moderne (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table02_2seatsDescription</Name>
+		<String>Rien de tel que des tables modernes pour dire "Mon restaurant est cool et branché"</String>
+	</TextString>
+
+	<TextString>
+		<Name>Table03_2seatsName</Name>
+		<String>Table en bois design (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table03_2seatsDescription</Name>
+		<String>Selon les rumeurs, cette table est basée sur un ancien dessin extraterrestre trouvé dans un donjon secret sous les Pyramides</String>
+	</TextString>
+	<TextString>
+		<Name>Table04_2seatsName</Name>
+		<String>Table à l'ancienne (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table04_2seatsDescription</Name>
+		<String>Tout droit sorti des années 70, la table que l'on n'aimait pas quand on était plus jeune mais que l'on apprécie tout à coup en vieillissant !</String>
+	</TextString>
+	<TextString>
+		<Name>Table04_4seatsName</Name>
+		<String>Table à l'ancienne (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table04_4seatsDescription</Name>
+		<String>Tout droit sorti des années 70, la table que l'on n'aimait pas quand on était plus jeune mais que l'on apprécie tout à coup en vieillissant !</String>
+	</TextString>
+	<TextString>
+		<Name>Table05_2seatsName</Name>
+		<String>Minimal Table (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table05_2seatsDescription</Name>
+		<String>Are you a fanatic of simple design? The simple but refined shapes of this table will bring you physical pleasure!</String>
+	</TextString>
+	<TextString>
+		<Name>Table05_4seatsName</Name>
+		<String>Minimal Table (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table05_4seatsDescription</Name>
+		<String>Are you a fanatic of simple design? The simple but refined shapes of this table will bring you physical pleasure!</String>
+	</TextString>
+	<TextString>
+		<Name>Table06_2seatsName</Name>
+		<String>Antique Table (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table06_2seatsDescription</Name>
+		<String>Straight from the collection of decadent European nobles, a fine and characteristic table with antiquarian value</String>
+	</TextString>
+	<TextString>
+		<Name>Table06_4seatsName</Name>
+		<String>Antique Table (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table06_4seatsDescription</Name>
+		<String>Straight from the collection of decadent European nobles, a fine and characteristic table with antiquarian value</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_2seatsCheapName</Name>
+		<String>Plastic Table (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_2seatsCheapDescription</Name>
+		<String>Why spend money on wooden tables when plastic is cheap and eternal?</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_4seatsCheapName</Name>
+		<String>Plastic Table (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_4seatsCheapDescription</Name>
+		<String>Why spend money on wooden tables when plastic is cheap and eternal?</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_2seatsLuxName</Name>
+		<String>Luxury Table (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_2seatsLuxDescription</Name>
+		<String>Silk cloth, comfortable chairs, infinite prestige. This is the table you need for your restaurant.</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_4seatsLuxName</Name>
+		<String>Luxury Table (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_4seatsLuxDescription</Name>
+		<String>Silk cloth, comfortable chairs, infinite prestige. This is the table you need for your restaurant.</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_2seatsMidName</Name>
+		<String>Classic Table (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_2seatsMidDescription</Name>
+		<String>Wooden table, wooden seats, a cloth: everything you need to give a touch of beauty to your place.</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_4seatsMidName</Name>
+		<String>Classic Table (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_4seatsMidDescription</Name>
+		<String>Wooden table, wooden seats, a cloth: everything you need to give a touch of beauty to your place.</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_2seatsPoorName</Name>
+		<String>Chipboard Table (2)</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_2seatsPoorDescription</Name>
+		<String>Can't afford real wood? You can always buy tables made from sawdust glued together!</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_4seatsPoorName</Name>
+		<String>Chipboard Table (4)</String>
+	</TextString>
+	<TextString>
+		<Name>Table07_4seatsPoorDescription</Name>
+		<String>Can't afford real wood? You can always buy tables made from sawdust glued together!</String>
+	</TextString>
+	<!-- Paintings -->
+
+	<TextString>
+		<Name>Painting00_Scomposto_City_Name</Name>
+		<String>City Landscapes</String>
+	</TextString>
+	<TextString>
+		<Name>Painting00_Scomposto_City_Description</Name>
+		<String>A nice collection of city landscapes, including some of the most iconical landscapes but arbitrarily ignoring others.
+
+{PERKS}</String>
+	</TextString>
+
+
+
+	<TextString>
+		<Name>Painting00_Scomposto_Paintings1_Name</Name>
+		<String>Paintings Panel</String>
+	</TextString>
+	<TextString>
+		<Name>Painting00_Scomposto_Paintings1_Description</Name>
+		<String>A nice collection of paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting00_Scomposto_Paintings2_Name</Name>
+		<String>Paintings Panel</String>
+	</TextString>
+	<TextString>
+		<Name>Painting00_Scomposto_Paintings2_Description</Name>
+		<String>A nice collection of paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting00_Scomposto_FoodName</Name>
+		<String>Food Photos</String>
+	</TextString>
+	<TextString>
+		<Name>Painting00_Scomposto_FoodDescription</Name>
+		<String>With this awesome collection, you'll be able to turn your restaurant (a food-themed place) into a food-themed restaurant (a food-themed food-themed place? What?)
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting00_Scomposto_NatureBlueName</Name>
+		<String>Blue Nature</String>
+	</TextString>
+	<TextString>
+		<Name>Painting00_Scomposto_NatureBlueDescription</Name>
+		<String>A collection of blue photos about nature. You can bet half of them are skies and the other half water.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting00_Scomposto_NatureGreenName</Name>
+		<String>Green Nature</String>
+	</TextString>
+	<TextString>
+		<Name>Painting00_Scomposto_NatureGreenDescription</Name>
+		<String>A collection of green photos about nature. Basically a lot of trees.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting00_Scomposto_NatureYellowName</Name>
+		<String>Yellow Nature</String>
+	</TextString>
+	<TextString>
+		<Name>Painting00_Scomposto_NatureYellowDescription</Name>
+		<String>A collection of yellow photos about nature.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting01_ExpressionismName</Name>
+		<String>Painting - Expressionism</String>
+	</TextString>
+	<TextString>
+		<Name>Painting01_ExpressionismDescription</Name>
+		<String>Some classic expressionist paintings
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting01_PostImpressionismName</Name>
+		<String>Painting - Post-Impressionism</String>
+	</TextString>
+	<TextString>
+		<Name>Painting01_PostImpressionismDescription</Name>
+		<String>Some classic Post-Impressionism paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting01_VariousName</Name>
+		<String>Painting - Various</String>
+	</TextString>
+	<TextString>
+		<Name>Painting01_VariousDescription</Name>
+		<String>Some Various paintings.
+
+{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>Painting01_RomanticismName</Name>
+		<String>Painting - Romanticism</String>
+	</TextString>
+	<TextString>
+		<Name>Painting01_RomanticismDescription</Name>
+		<String>Some classic Romanticism paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting01_RenaissanceName</Name>
+		<String>Painting - Reinassance</String>
+	</TextString>
+	<TextString>
+		<Name>Painting01_RenaissanceDescription</Name>
+		<String>Some classic reinassance paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting02_ImpressionismName</Name>
+		<String>Painting - Impressionism</String>
+	</TextString>
+	<TextString>
+		<Name>Painting02_ImpressionismDescription</Name>
+		<String>Some classic impressionism paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting02_RenaissanceName</Name>
+		<String>Painting - Reinassance</String>
+	</TextString>
+	<TextString>
+		<Name>Painting02_RenaissanceDescription</Name>
+		<String>Some classic reinassance paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting02_RomanticismName</Name>
+		<String>Painting - Romanticism</String>
+	</TextString>
+	<TextString>
+		<Name>Painting02_RomanticismDescription</Name>
+		<String>Some classic romanticism paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting02_SurrealismName</Name>
+		<String>Painting - Surrealism</String>
+	</TextString>
+	<TextString>
+		<Name>Painting02_SurrealismDescription</Name>
+		<String>Some classic surrealism paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Painting02_VariousName</Name>
+		<String>Painting - Various</String>
+	</TextString>
+	<TextString>
+		<Name>Painting02_VariousDescription</Name>
+		<String>Some random nice looking paintings.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chalkboard_BigName</Name>
+		<String>Big Chalkboard</String>
+	</TextString>
+	<TextString>
+		<Name>Chalkboard_BigDescription</Name>
+		<String>There's nothing better than a massive chalkboard to write the day's menu and draw ambiguous figures.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Chalkboard_SmallName</Name>
+		<String>Chalkboard</String>
+	</TextString>
+	<TextString>
+		<Name>Chalkboard_SmallDescription</Name>
+		<String>This chalkboard is perfect to write the daily offer and to tactically adjust the prices right before the customers ask for the bill.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Clock_ClassicName</Name>
+		<String>Classic Clock</String>
+	</TextString>
+	<TextString>
+		<Name>Clock_ClassicDescription</Name>
+		<String>This cheap clock will remind to all customers what time is it, so they can pay and get out without indulging into silly chats.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Clock_CutleryName</Name>
+		<String>Cutlery Clock</String>
+	</TextString>
+	<TextString>
+		<Name>Clock_CutleryDescription</Name>
+		<String>Cutlery on a restaurant clock. Truly brilliant. So funny.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Clock_VintageName</Name>
+		<String>Vintage Clock</String>
+	</TextString>
+	<TextString>
+		<Name>Clock_VintageDescription</Name>
+		<String>What once was the only ugly choice on the market in terms of clocks, is now a wonderful vintage decoration.
+
+{PERKS}</String>
+	</TextString>
+	<!-- tappeti -->
+	<TextString>
+		<Name>Carpet_SquareName</Name>
+		<String>Square Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_SquareDescription</Name>
+		<String>Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Carpet_Modern1Name</Name>
+		<String>Modern Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern1Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern2Name</Name>
+		<String>Modern Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern2Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Carpet_Modern3Name</Name>
+		<String>Modern Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern3Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern4Name</Name>
+		<String>Modern Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern4Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern5Name</Name>
+		<String>Modern Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern5Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+
+	<TextString>
+		<Name>Carpet_Modern6Name</Name>
+		<String>Modern Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern6Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern7Name</Name>
+		<String>Modern Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Modern7Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+
+	<TextString>
+		<Name>Carpet_Persian1Name</Name>
+		<String>Persian Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Persian1Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Persian2Name</Name>
+		<String>Persian Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Persian2Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Persian3Name</Name>
+		<String>Persian Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Persian3Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Persian4Name</Name>
+		<String>Persian Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_Persian4Description</Name>
+		<String>
+      Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+      {PERKS}
+		</String>
+	</TextString>
+
+	<TextString>
+		<Name>Colonna_name</Name>
+		<String>Column</String>
+	</TextString>
+	<TextString>
+		<Name>Colonna_Description</Name>
+		<String>Fashionable structural stabilizer.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Mensola_viniName</Name>
+		<String>Wine Shelf</String>
+	</TextString>
+	<TextString>
+		<Name>Mensola_viniDescription</Name>
+		<String>Too bad the bottles are fake, but it's still a nice decoration for your hall!
+
+{PERKS}</String>
+	</TextString>
+
+
+
+	<TextString>
+		<Name>Carpet_CircleName</Name>
+		<String>Circular Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_CircleDescription</Name>
+		<String>Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Carpet_RectangularName</Name>
+		<String>Rectangular Carpet</String>
+	</TextString>
+	<TextString>
+		<Name>Carpet_RectangularDescription</Name>
+		<String>Placing carpets in a restaurant means to permanently turn them into colonies of bacteria living on ancient food remains.
+
+{PERKS}</String>
+	</TextString>
+
+
+
+	<!-- decorazioni grasse e grosse -->
+	<TextString>
+		<Name>Credenza_NoceName</Name>
+		<String>Classic Sideboard</String>
+	</TextString>
+	<TextString>
+		<Name>Credenza_NoceDescription</Name>
+		<String>100% walnut wood, not even a tornado could destroy it.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Credenza_bassaName</Name>
+		<String>Small Sideboard</String>
+	</TextString>
+	<TextString>
+		<Name>Credenza_bassaDescription</Name>
+		<String>100% walnut wood, not even a tornado could destroy it.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Credenza_vetroName</Name>
+		<String>Sideboard with Glass</String>
+	</TextString>
+	<TextString>
+		<Name>Credenza_vetroDescription</Name>
+		<String>100% walnut wood, not even a tornado could destroy it.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Credenza_bassa_vetroName</Name>
+		<String>Small Sideboard with Glass</String>
+	</TextString>
+	<TextString>
+		<Name>Credenza_bassa_vetroDescription</Name>
+		<String>100% walnut wood, not even a tornado could destroy it.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Vase_BambooName</Name>
+		<String>Bamboo Vase</String>
+	</TextString>
+	<TextString>
+		<Name>Vase_BambooDescription</Name>
+		<String>This Bamboo decorative vase is made by pandas that got tired of sleeping in their zoo ans started their own company.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Vase_CeramicaName</Name>
+		<String>Ceramic Vase</String>
+	</TextString>
+	<TextString>
+		<Name>Vase_CeramicaDescription</Name>
+		<String>They told you this is an original Ping Dynasty vase, but you googled that and there's no Ping Dynasty.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Vase_PlantName</Name>
+		<String>Simple Plant</String>
+	</TextString>
+	<TextString>
+		<Name>Vase_PlantDescription</Name>
+		<String>This 100% plastic plant decorates the hall without letting your carelessness kill it.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Vase_Plant2Name</Name>
+		<String>Another Simple Plant</String>
+	</TextString>
+	<TextString>
+		<Name>Vase_Plant2Description</Name>
+		<String>This 100% plastic plant decorates the hall without letting your carelessness kill it.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>BarrelName</Name>
+		<String>Barrel</String>
+	</TextString>
+	<TextString>
+		<Name>BarrelDescription</Name>
+		<String>It's a wooden barrel that was once a proud object used for doing stuff, but now is nothing more than a decoration.
+
+      {PERKS}
+		</String>
+	</TextString>
+
+	<TextString>
+		<Name>Barrel_wBottlesName</Name>
+		<String>Barrel with bottles</String>
+	</TextString>
+	<TextString>
+		<Name>Barrel_wBottlesDescription</Name>
+		<String>A wooden barrel with a few empty wine bottles on it. Just why?
+
+      {PERKS}
+		</String>
+	</TextString>
+
+	<TextString>
+		<Name>Barrel_wTableName</Name>
+		<String>Barrel With table</String>
+	</TextString>
+	<TextString>
+		<Name>Barrel_wTableDescription</Name>
+		<String>Purely decorative, this barrel placed on a solid table can lure alcoholic customers.
+
+      {PERKS}
+		</String>
+	</TextString>
+
+	<TextString>
+		<Name>Mensole_EsagonaliName</Name>
+		<String>HexaShelf</String>
+	</TextString>
+	<TextString>
+		<Name>Mensole_EsagonaliDescription</Name>
+		<String>Let you customers be astonished by your geometrical taste in modern furnishing design!
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>MirrorName</Name>
+		<String>Luxury Mirror</String>
+	</TextString>
+	<TextString>
+		<Name>MirrorDescription</Name>
+		<String>While you may expect a mirror to actually reflect stuff, the developers of this game were worried it could hinder the game's performances. How thoughtful of them!
+
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Mirror02Name</Name>
+		<String>Modern Mirror</String>
+	</TextString>
+	<TextString>
+		<Name>Mirror02Description</Name>
+		<String>While you may expect a mirror to actually reflect stuff, the developers of this game were worried it could hinder the game's performances. How thoughtful of them!
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Mirror03Name</Name>
+		<String>Rustic Mirror</String>
+	</TextString>
+	<TextString>
+		<Name>Mirror03Description</Name>
+		<String>While you may expect a mirror to actually reflect stuff, the developers of this game were worried it could hinder the game's performances. How thoughtful of them!
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>Mirror04Name</Name>
+		<String>Luxury Venetian Mirror</String>
+	</TextString>
+	<TextString>
+		<Name>Mirror04Description</Name>
+		<String>While you may expect a mirror to actually reflect stuff, the developers of this game were worried it could hinder the game's performances. How thoughtful of them!
+
+      {PERKS}
+		</String>
+	</TextString>
+	<TextString>
+		<Name>MensolibreriaName</Name>
+		<String>Bookshelf</String>
+	</TextString>
+	<TextString>
+		<Name>MensolibreriaDescription</Name>
+		<String>Let your customers judge your reading tastes with an unmotivated sense of superiority with this practical bookshelf.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Pianta_DepressaName</Name>
+		<String>Sad Plant</String>
+	</TextString>
+	<TextString>
+		<Name>Pianta_DepressaDescription</Name>
+		<String>This plant looks a little sad, but that's fine. We still love and accept you, sad plant.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Tris_Mensole</Name>
+		<String>Shelves Trio</String>
+	</TextString>
+	<TextString>
+		<Name>Tris_MensoleName</Name>
+		<String>Not one, not two, but three shelves to furnish your place!
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Tris_Piatti_name</Name>
+		<String>Plates Trio</String>
+	</TextString>
+	<TextString>
+		<Name>Tris_Piatti_Description</Name>
+		<String>Three is always the right answer *wink wink*
+
+
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Cart_WheelName</Name>
+		<String>Cart Wheel</String>
+	</TextString>
+	<TextString>
+		<Name>Cart_WheelDescription</Name>
+		<String>Once used for a cart, now a fine decoration piece used by people who never saw a cart.
+
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Counter04Name</Name>
+		<String>Counter 2Fun2Cook</String>
+	</TextString>
+	<TextString>
+		<Name>Counter04Description</Name>
+		<String>Why spend your &lt;b&gt;whole&lt;/b&gt; day complaining about your job when you can have fun with it?
+		
+&lt;b&gt;Category: Counter&lt;/b&gt;
+&lt;b&gt;Preparation Areas: Two&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Counter05Name</Name>
+		<String>Counter Chef Master</String>
+	</TextString>
+	<TextString>
+		<Name>Counter05Description</Name>
+		<String>The counter every Chef Master should use!
+		
+&lt;b&gt;Category: Counter&lt;/b&gt;
+&lt;b&gt;Preparation Areas: Two&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Oven03Name</Name>
+		<String>Oven Rapid-1000</String>
+	</TextString>
+	<TextString>
+		<Name>Oven03Description</Name>
+		<String>The manual says this oven will cook everything faster. Even if that's not possible according to the laws of physics.
+		
+&lt;b&gt;Category: Oven&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Oven04Name</Name>
+		<String>Oven SuperControl</String>
+	</TextString>
+	<TextString>
+		<Name>Oven04Description</Name>
+		<String>Have you ever felt you can't control the cooking process? Or your oven? Or your life? Then the Over SuperControl is here for you!
+		
+&lt;b&gt;Category: Oven&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Oven05Name</Name>
+		<String>Oven Supernova</String>
+	</TextString>
+	<TextString>
+		<Name>Oven05Description</Name>
+		<String>Why pay for both lighting and ovens when a single tool can do both things?
+		
+&lt;b&gt;Category: Oven&lt;/b&gt;
+&lt;b&gt;Cooking Slots: {WORKING_SLOTS}&lt;/b&gt;
+&lt;b&gt;Maintenance Cost: {MAINTENANCE_COST}&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>Urn01Name</Name>
+		<String>Vase</String>
+	</TextString>
+	<TextString>
+		<Name>Urn01Description</Name>
+		<String>You get annoyed with empty spots? Just place a vase on them to fill the space!	
+
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Urn02Name</Name>
+		<String>Vase</String>
+	</TextString>
+	<TextString>
+		<Name>Urn02Description</Name>
+		<String>You get annoyed with empty spots? Just place a vase on them to fill the space!
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>SmallTable01Name</Name>
+		<String>Decorative Table</String>
+	</TextString>
+	<TextString>
+		<Name>SmallTable01Description</Name>
+		<String>A small table which only purpose is to please the eye, and occasionaly used to support ashtrays.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Piano01Name</Name>
+		<String>Harpsichord</String>
+	</TextString>
+	<TextString>
+		<Name>Piano01Description</Name>
+		<String>A majestic instrument, which some of your customers may be tempted to play to annoy everyone else in the room. After that, they'll just say that they're "rusty". Yeah, sure.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Piano02Name</Name>
+		<String>Piano</String>
+	</TextString>
+	<TextString>
+		<Name>Piano02Description</Name>
+		<String>A majestic instrument, which some of your customers may be tempted to play to annoy everyone else in the room. After that, they'll just say that they're "rusty". Yeah, sure.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Credenza_CupboardLuxName</Name>
+		<String>Refined Cupboard</String>
+	</TextString>
+	<TextString>
+		<Name>Credenza_CupboardLuxDescription</Name>
+		<String>So elegant, so beautiful, a worthy piece of furniture.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Credenza_CupboardRusticName</Name>
+		<String>Simple Cupboard</String>
+	</TextString>
+	<TextString>
+		<Name>Credenza_CupboardRusticDescription</Name>
+		<String>You don't need fancy cupboards to display a few plates and glasses.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Credenza_CupboardLux2Name</Name>
+		<String>Big Cupboard</String>
+	</TextString>
+	<TextString>
+		<Name>Credenza_CupboardLux2Description</Name>
+		<String>This imposing cupboard alone could fit three people in it. Toilets are not included.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Credenza_CupboardSlimName</Name>
+		<String>Slim Cupboard</String>
+	</TextString>
+	<TextString>
+		<Name>Credenza_CupboardSlimDescription</Name>
+		<String>Are you worried that there is not enough space in your restaurant? This incredibly slim cupboard is what you need to liven the ambience a little.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Wine_FridgeName</Name>
+		<String>Wine Fridge</String>
+	</TextString>
+	<TextString>
+		<Name>Wine_FridgeDescription</Name>
+		<String>A modern and efficient fridge to keep your wine bottles at the ideal serving temperature.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>WineShelves_LuxuryName</Name>
+		<String>Luxury Wine Shelves</String>
+	</TextString>
+	<TextString>
+		<Name>WineShelves_LuxuryDescription</Name>
+		<String>A majestic piece of furniture capable of holding two hundreds bottles. A secure lock is included.
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>WineShelves_ModernName</Name>
+		<String>Modern Wine Shelves</String>
+	</TextString>
+	<TextString>
+		<Name>WineShelves_ModernDescription</Name>
+		<String>If you need some space to store your high quality wine bottles, then you really need this furniture piece. Forget about boxes and storage rooms!
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>Wine_ArcsName</Name>
+		<String>Wine Arc</String>
+	</TextString>
+	<TextString>
+		<Name>Wine_ArcsDescription</Name>
+		<String>When architecture meets alcoholism true wonders of modern design are born. And this piece of furniture is one of them!
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlateHolderName</Name>
+		<String>Plate Holder</String>
+	</TextString>
+	<TextString>
+		<Name>PlateHolderDescription</Name>
+		<String>What's more original than having plates hanged on your wall? Nothing! So feel free to buy this awesome decoration to blow the mind of your customers!
+
+{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>MenuStyleName</Name>
+		<String>Style</String>
+	</TextString>
+</TextStrings>

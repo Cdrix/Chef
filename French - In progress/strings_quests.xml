@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	
+	
+	<TextString>
+		<Name>CyclicQuestServeName</Name>
+		<String>Improve: Customers</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeDescription</Name>
+		<String>Serve customers to increase your skill points. This quest is cyclic: once completed it will reactivate with increased requirements.</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeReward</Name>
+		<String>2 Skill Points</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestServeConditionName</Name>
+		<String>Serve Customers</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>CyclicQuestPrepareRecipesName</Name>
+		<String>Improve: Recipes</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareRecipesDescription</Name>
+		<String>Prepare Recipes to gain Ingredient Points. This quest is cyclic: once completed it will reactivate with increased requirements.</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareRecipesReward</Name>
+		<String>2 Ingredient Point</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestPrepareRecipesConditionName</Name>
+		<String>Prepare Recipes</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>CyclicQuestCustomRecipesName</Name>
+		<String>Improve: Custom Recipes</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestCustomRecipesDescription</Name>
+		<String>Prepare Custom Recipes to gain Ingredient and Skill Points. This quest is cyclic: once completed it will reactivate with increased requirements.</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestCustomRecipesReward</Name>
+		<String>1 Ingredient Point and 2 Skill Point</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestCustomRecipesConditionName</Name>
+		<String>Prepare Custom Recipes</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>CyclicQuestGetReviewsName</Name>
+		<String>Improve: Good Reviews</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestGetReviewsDescription</Name>
+		<String>Gain Reviews scored 4 stars or more to get Skill Points. This quest is cyclic: once completed it will reactivate with increased requirements.</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestGetReviewsReward</Name>
+		<String>3 Skill Point</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestGetReviewsConditionName</Name>
+		<String>Get 4+ Reviews</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>CyclicQuestUseIngredientsName</Name>
+		<String>Improve: Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestUseIngredientsDescription</Name>
+		<String>Use several ingredients in your Recipes to gain Skill Points. This quest is cyclic: once completed it will reactivate with increased requirements.</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestUseIngredientsReward</Name>
+		<String>3 Ingredient Point</String>
+	</TextString>
+	<TextString>
+		<Name>CyclicQuestUseIngredientsConditionName</Name>
+		<String>Use Ingredients</String>
+	</TextString>
+	
+	
+	
+	
+	
+	<!-- TUTORIAL -->
+	
+	
+	<TextString>
+		<Name>QuestTutorialReward</Name>
+		<String>By completing this task you will advance in the tutorial.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenFurnishingName</Name>
+		<String>Open the Furnishing Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenFurnishingDescription</Name>
+		<String>Click on the Furnishing Panel button on the lower left area of the screen to open the Furnishing Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenFurnishingCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialCounterName</Name>
+		<String>Place a Counter</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialCounterDescription</Name>
+		<String>Use the Furnishing Panel to place a Counter in the Kitchen.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialCounterCondition</Name>
+		<String>Have a Counter</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialCookerName</Name>
+		<String>Place a Cooker</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialCookerDescription</Name>
+		<String>Use the Furnishing Panel to place a Cooker in the Kitchen.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialCookerCondition</Name>
+		<String>Have a Cooker</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialTablesName</Name>
+		<String>Place some Tables</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialTablesDescription</Name>
+		<String>Use the Furnishing Panel to place at least 4 Tables in the Hall.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialTablesCondition</Name>
+		<String>Have 6 Tables</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialMenuOpenName</Name>
+		<String>Open the Menu Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialMenuOpenDescription</Name>
+		<String>Click on the Menu Panel button on the lower left area of the screen to open the Menu Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialMenuOpenCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialRecipesName</Name>
+		<String>Add Recipes</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialRecipesDescription</Name>
+		<String>Add at least 10 Recipes on your menu to lure customers to your restaurant.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialRecipesCondition</Name>
+		<String>Have 10 Recipes</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialStaffName</Name>
+		<String>Open the Staff Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialStaffDescription</Name>
+		<String>Click on the Staff Panel button on the lower left area of the screen to open the Staff Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialStaffCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialWaiterName</Name>
+		<String>Hire two Waiters</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialWaiterDescription</Name>
+		<String>Hire at least two Waiters to be able to serve customers</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialWaiterCondition</Name>
+		<String>Have two Waiters</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialPoliciesEndOpenName</Name>
+		<String>Open the Policies Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialPoliciesEndOpenDescription</Name>
+		<String>Click on the Policies and Decisions Panel button on the lower left area of the screen to open the Policies and Decisions Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialPoliciesEndCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialDecisionsName</Name>
+		<String>Open the Decisions Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialDecisionsDescription</Name>
+		<String>Click on the Decisions Button to open the Decisions Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialDecisionsCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialOpenPlaceName</Name>
+		<String>Open your Restaurant</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenPlaceDescription</Name>
+		<String>Click on the respective decision to open your restaurant and start your career in the world of cooking.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenPlaceCondition</Name>
+		<String>Activate Decision</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialOpenChefAdvisorName</Name>
+		<String>Open ChefAdvisor</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenChefAdvisorDescription</Name>
+		<String>Click on the ChefAdvisor Panel button on the lower left area of the screen to open the ChefAdvisor Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenChefAdvisorCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialOpenSummaryName</Name>
+		<String>Open the Stats Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenSummaryDescription</Name>
+		<String>Click on the Stats Panel button on the lower left area of the screen to open the Stats Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenSummaryCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialOpenCustomersName</Name>
+		<String>Open the Peoples Tab</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenCustomersDescription</Name>
+		<String>Click on the button in the Summary Panel to open the Peoples Subpanel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenCustomersCondition</Name>
+		<String>Open Subpanel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialOpenSkillsName</Name>
+		<String>Open the Skills Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenSkillsDescription</Name>
+		<String>Click on the Skills Panel button on the lower left area of the screen to open the Skills Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialOpenSkillsCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialSpendSkillsName</Name>
+		<String>Acquire some Skills</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialSpendSkillsDescription</Name>
+		<String>Choose some Skills for your Chef and then confirm your choice.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialSpendSkillsCondition</Name>
+		<String>Spend Skill Points</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialIngredientsOpenName</Name>
+		<String>Open the Ingredients Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialIngredientsOpenDescription</Name>
+		<String>Click on the Ingredients Panel button on the lower left area of the screen to open the Ingredients Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialIngredientsOpenCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>QuestTutorialIngredientPointsName</Name>
+		<String>Acquire more Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialIngredientPointsDescription</Name>
+		<String>Choose some Ingredients for your restaurant and then confirm your choice.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialIngredientPointsCondition</Name>
+		<String>Spend Ingredient Points</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialInfluenceOpenName</Name>
+		<String>Open the Map Panel</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialInfluenceOpenDescription</Name>
+		<String>Click on the Map Panel button on the lower left area of the screen to open the Map Panel.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialInfluenceCondition</Name>
+		<String>Open Panel</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialSpendInfluenceOpenName</Name>
+		<String>Use your Influence Point</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialSpendInfluenceOpenDescription</Name>
+		<String>Click on a District you like and then on the button in the panel on the right to spend a single Influence Point on that District</String>
+	</TextString>
+	<TextString>
+		<Name>QuestTutorialSpendInfluenceCondition</Name>
+		<String>Spend your Point</String>
+	</TextString>
+	
+	
+	
+	<!-- Star Chef -->
+	
+	
+	<TextString>
+		<Name>QuestStarChefCustomRecipesName</Name>
+		<String>Create a Custom Menu</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefCustomRecipesDescription</Name>
+		<String>You need a proper menu, filled with creation of yours. Open the Recipe Editor and unleash your creativity!</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefCustomRecipesCondition</Name>
+		<String>Have only Custom Recipes</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefCustomRecipesReward</Name>
+		<String>5 Skill Points and 5 Ingredient Points</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>QuestStarChefServeCustomFirstName</Name>
+		<String>Serve your creations</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefServeCustomFirstDescription</Name>
+		<String>Let your customer enjoy your unique recipes.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefServeCustomFirstReward</Name>
+		<String>100 Popularity</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefServeCustomFirstCondition</Name>
+		<String>Serve 1000 Custom Recipes</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>QuestStarChefGoodIngredientsName</Name>
+		<String>Use Good Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGoodIngredientsDescription</Name>
+		<String>You need to improve the quality of your offer, be sure to use Recipes made only with Tier 2 Ingredients.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGoodIngredientsReward</Name>
+		<String>10 Ingredient Points</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGoodIngredientsCondition1</Name>
+		<String>Use Tier 2 Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGoodIngredientsCondition2</Name>
+		<String>Use at least 25 Ingredients</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>QuestStarChefAwesomeRecipeName</Name>
+		<String>Create a remarkable Recipe</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefAwesomeRecipeDescription</Name>
+		<String>Use your talent and your Ingredients to create a Recipe with a rating of at least 150.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefAwesomeRecipeReward</Name>
+		<String>5 Skill Points</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefAwesomeRecipeCondition</Name>
+		<String>Create a 150+ Recipe</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>QuestStarChefServeCustomSecondName</Name>
+		<String>Serve your creations</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefServeCustomSecondDescription</Name>
+		<String>Let your customer enjoy your unique recipes.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefServeCustomSecondReward</Name>
+		<String>250 Popularity</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefServeCustomSecondCondition</Name>
+		<String>Serve 2500 Custom Recipes</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>QuestStarChefGetFirstStarName</Name>
+		<String>Obtain your First Star</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGetFirstStarDescription</Name>
+		<String>To get your the First WebGuide Star you need to satisfy 100 Gourmet customers before the the Task expires.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGetFirstStarReward</Name>
+		<String>A unique Perk increasing the number of Gourmets coming to your place.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGourmetCount25Condition</Name>
+		<String>Serve 25 Gourmet</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGourmetCount50Condition</Name>
+		<String>Serve 50 Gourmet</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGourmetCount75Condition</Name>
+		<String>Serve 75 Gourmet</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGourmetRating1Condition</Name>
+		<String>Average rating 4+</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGourmetRating2Condition</Name>
+		<String>Average rating 4.5+</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGourmetRating3Condition</Name>
+		<String>Average rating 5</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>QuestStarChefPerfectRecipeName</Name>
+		<String>Create an outstanding Recipe</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefPerfectRecipeDescription</Name>
+		<String>Use your talent and your Ingredients to create a Recipe with a rating of at least 200.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefPerfectRecipeReward</Name>
+		<String>10 Ingredient Points</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefPerfectRecipeCondition</Name>
+		<String>Create a 200+ Recipe</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>QuestStarChefGetSecondStarName</Name>
+		<String>Obtain your Second Star</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGetSecondStarDescription</Name>
+		<String>To get your the Second WebGuide Star you need to satisfy 100 Gourmet customers before the the Task expires</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGetSecondStarReward</Name>
+		<String>A unique Perk increasing the number of Gourmets coming to your place.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>QuestStarChefAwesomeIngredientsName</Name>
+		<String>Use Excellent Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefAwesomeIngredientsDescription</Name>
+		<String>You need to improve the quality of your offer, be sure to use Recipes made only with Tier 3 Ingredients.</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefAwesomeIngredientsReward</Name>
+		<String>10 Ingredient Points</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefAwesomeIngredientsCondition</Name>
+		<String>Use only Tier 3 Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefAwesomeIngredientsCondition2</Name>
+		<String>Use at least 25 Ingredients</String>
+	</TextString>
+	
+	
+	
+	
+	
+	<TextString>
+		<Name>QuestStarChefGetThirdStarName</Name>
+		<String>Obtain your Third Star</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGetThirdStarDescription</Name>
+		<String>To get your the Third WebGuide Star you need to satisfy 100 Gourmet customers before the the Task expires</String>
+	</TextString>
+	<TextString>
+		<Name>QuestStarChefGetThirdStarReward</Name>
+		<String>A unique Perk increasing the number of Gourmets coming to your place.</String>
+	</TextString>
+	
+
+</TextStrings>

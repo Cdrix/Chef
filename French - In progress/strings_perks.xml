@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+<!-- STAFF -->
+  <TextString>
+    <Name>FastDescriptiveNameString</Name>
+    <String>Fast</String>
+  </TextString>
+  <TextString>
+    <Name>FastDescriptionString</Name>
+    <String>This character is a born runner and has increased movement speed.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  <TextString>
+    <Name>SlowDescriptiveNameString</Name>
+    <String>Slow</String>
+  </TextString>
+  <TextString>
+    <Name>SlowDescriptionString</Name>
+    <String>This character moves slowly and has decreased movement speed.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  <TextString>
+    <Name>ProfessionalDescriptiveNameString</Name>
+    <String>Professional</String>
+  </TextString>
+  <TextString>
+    <Name>ProfessionalDescriptionString</Name>
+    <String>This character is professional at work and spends less time on all actions.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  <TextString>
+    <Name>GoodMemoryDescriptiveNameString</Name>
+    <String>Good Memory</String>
+  </TextString>
+  <TextString>
+    <Name>GoodMemoryDescriptionString</Name>
+    <String>This character has good memory - taking orders and delivering them is faster.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  <TextString>
+    <Name>BadMemoryDescriptiveNameString</Name>
+    <String>Bad Memory</String>
+  </TextString>
+  <TextString>
+    <Name>BadMemoryDescriptionString</Name>
+    <String>This character can't remember things well - taking orders and delivering them is slower.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  <TextString>
+    <Name>DistractedDescriptiveNameString</Name>
+    <String>Distracted</String>
+  </TextString>
+  <TextString>
+    <Name>DistractedDescriptionString</Name>
+    <String>This character is easily distracted and needs more time to perform all actions.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkBadMathName</Name>
+    <String>Bad with Numbers</String>
+  </TextString>
+  <TextString>
+    <Name>PerkBadMathDescription</Name>
+    <String>This character isn't brilliant when it comes to numbers and maths.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkGoodMathName</Name>
+    <String>Good with Numbers</String>
+  </TextString>
+  <TextString>
+    <Name>PerkGoodMathDescription</Name>
+    <String>This character is quite skilled when it comes to numbers and maths.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkShabbyName</Name>
+    <String>Shabby</String>
+  </TextString>
+  <TextString>
+    <Name>PerkShabbyDescription</Name>
+    <String>This character doesn't care about dress code and personal hygiene.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkElegantName</Name>
+    <String>Elegant</String>
+  </TextString>
+  <TextString>
+    <Name>PerkElegantDescription</Name>
+    <String>This character is always finely dressed and increases the perceived quality of the restaurant.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>PerkWaiterSkillOneName</Name>
+    <String>Skill Level: Low</String>
+  </TextString>
+  <TextString>
+    <Name>PerkWaiterSkillOneDescription</Name>
+    <String>This character is inexperienced as a waiter.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkWaiterSkillTwoName</Name>
+    <String>Skill Level: Mediocre</String>
+  </TextString>
+  <TextString>
+    <Name>PerkWaiterSkillTwoDescription</Name>
+    <String>This character's experience as a waiter is lacking.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkWaiterSkillThreeName</Name>
+    <String>Skill Level: Average</String>
+  </TextString>
+  <TextString>
+    <Name>PerkWaiterSkillThreeDescription</Name>
+    <String>This character is a decent waiter.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkWaiterSkillFourName</Name>
+    <String>Skill Level: Good</String>
+  </TextString>
+  <TextString>
+    <Name>PerkWaiterSkillFourDescription</Name>
+    <String>This character is a reliable waiter.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkWaiterSkillFiveName</Name>
+    <String>Skill Level: Exceptional</String>
+  </TextString>
+  <TextString>
+    <Name>PerkWaiterSkillFiveDescription</Name>
+    <String>This character is a top-tier professional waiter.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+ 
+ 
+  <TextString>
+    <Name>PerkChefSkillOneName</Name>
+    <String>Skill Level: Low</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefSkillOneDescription</Name>
+    <String>This character has no experience with working in a professional kitchen.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkChefSkillTwoName</Name>
+    <String>Skill Level: Mediocre</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefSkillTwoDescription</Name>
+    <String>This character has occasionally worked in professional kitchens.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkChefSkillThreeName</Name>
+    <String>Skill Level: Average</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefSkillThreeDescription</Name>
+    <String>This character is a decent chef.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkChefSkillFourName</Name>
+    <String>Skill Level: Good</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefSkillFourDescription</Name>
+    <String>This character is a reliable and experienced chef.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkChefSkillFiveName</Name>
+    <String>Skill Level: Exceptional</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefSkillFiveDescription</Name>
+    <String>This character is a top-tier professional chef.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+   <TextString>
+    <Name>PerkChefVegetablesGoodName</Name>
+    <String>Vegetable Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefVegetablesGoodDescription</Name>
+    <String>This chef is good at cooking vegetables.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+   <TextString>
+    <Name>PerkChefVegetablesTopName</Name>
+    <String>Vegetable Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefVegetablesTopDescription</Name>
+    <String>This chef is excellent at cooking vegetables.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  
+ <TextString>
+    <Name>PerkChefVegetablesBadName</Name>
+    <String>Vegetable Hater</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefVegetablesBadDescription</Name>
+    <String>This chef is bad at cooking vegetables.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkChefMeatGoodName</Name>
+    <String>Meat Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefMeatGoodDescription</Name>
+    <String>This chef is good at cooking meat.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkChefMeatTopName</Name>
+    <String>Meat Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefMeatTopDescription</Name>
+    <String>This chef is excellent at cooking meat.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+ <TextString>
+    <Name>PerkChefMeatBadName</Name>
+    <String>Meat Hater</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefMeatBadDescription</Name>
+    <String>This chef is bad at cooking meat.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+ <TextString>
+    <Name>PerkChefSeafoodGoodName</Name>
+    <String>Seafood Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefSeafoodGoodDescription</Name>
+    <String>This chef is good at cooking seafood.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+   <TextString>
+    <Name>PerkChefSeafoodTopName</Name>
+    <String>Seafood Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefSeafoodTopDescription</Name>
+    <String>This chef is excellent at cooking seafood.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkChefSeafoodBadName</Name>
+    <String>Seafood Hater</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefSeafoodBadDescription</Name>
+    <String>This chef is bad at cooking seafood.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+ <TextString>
+    <Name>PerkChefPastaGoodName</Name>
+    <String>Pasta Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefPastaGoodDescription</Name>
+    <String>This chef is good at cooking pasta.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkChefPastaTopName</Name>
+    <String>Pasta Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefPastaTopDescription</Name>
+    <String>This chef is excellent at cooking pasta.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkChefPastaBadName</Name>
+    <String>Pasta Hater</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefPastaBadDescription</Name>
+    <String>This chef is bad at cooking pasta.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+ <TextString>
+    <Name>PerkChefFruitGoodName</Name>
+    <String>Fruit Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefFruitGoodDescription</Name>
+    <String>This chef is good at preparing fruits.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkChefFruitTopName</Name>
+    <String>Fruit Expert</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefFruitTopDescription</Name>
+    <String>This chef is excellent at preparing fruits.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>PerkChefFruitBadName</Name>
+    <String>Fruit Hater</String>
+  </TextString>
+  <TextString>
+    <Name>PerkChefFruitBadDescription</Name>
+    <String>This chef is bad at preparing fruits.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <!-- Restaurant -->
+  
+  <TextString>
+    <Name>DynamicPerkRefinedPlaceDescriptiveNameString</Name>
+    <String>Refined Restaurant</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkRefinedPlaceDescriptionString</Name>
+    <String>The menu offers a refined selection of food.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}
+    </String>
+  </TextString>
+  
+  <TextString>
+    <Name>DynamicPerkMeatOfferDescriptiveNameString</Name>
+    <String>Meat Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkMeatOfferDescriptionString</Name>
+    <String>The menu has a wide offer of meat-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkMeatSpecializedDescriptiveNameString</Name>
+    <String>Meat Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkMeatSpecializedDescriptionString</Name>
+    <String>The menu is specialized in meat-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkDessertVarietyDescriptiveNameString</Name>
+    <String>Dessert Variety</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkDessertVarietyDescriptionString</Name>
+    <String>The menu has an interesting offer of desserts.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkDessertSpecializationDescriptiveNameString</Name>
+    <String>Dessert Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkDessertSpecializationDescriptionString</Name>
+    <String>The menu has a wide offer of desserts.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkPastaOfferDescriptiveNameString</Name>
+    <String>Carbs Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkPastaOfferDescriptionString</Name>
+    <String>The menu has a wide offer of carbs.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkPastaSpecializedDescriptiveNameString</Name>
+    <String>Carbs Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkPastaSpecializedDescriptionString</Name>
+    <String>The menu is specialized in carbs.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkSeafoodOfferDescriptiveNameString</Name>
+    <String>Seafood Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkSeafoodOfferDescriptionString</Name>
+    <String>The menu has a wide offer of seafood-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkSeafoodSpecializedDescriptiveNameString</Name>
+    <String>Seafood Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkSeafoodSpecializedDescriptionString</Name>
+    <String>The menu is specialized in seafood-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkBeerSelectionDescriptiveNameString</Name>
+    <String>Beer Selection</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkBeerSelectionDescriptionString</Name>
+    <String>The menu has a wide offer of beers.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkWineSelectionDescriptiveNameString</Name>
+    <String>Wine Selection</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkWineSelectionDescriptionString</Name>
+    <String>The menu has a wide offer of fine wines.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkWineSelectionOfferDescriptiveNameString</Name>
+    <String>Wine Selection</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkSpiceOfferDescriptiveNameString</Name>
+    <String>Spice Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkSpiceOfferDescriptionString</Name>
+    <String>The menu has a wide offer of spice-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkSpiceSpecializedDescriptiveNameString</Name>
+    <String>Spice Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkSpiceSpecializedDescriptionString</Name>
+    <String>The menu is specialized in spice-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkVegetarianDescriptiveNameString</Name>
+    <String>Vegetarian</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkVegetarianDescriptionString</Name>
+    <String>The menu is vegetarian.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkVeganDescriptiveNameString</Name>
+    <String>Vegan</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkVeganDescriptionString</Name>
+    <String>The menu is vegan.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>DynamicPerkVegetarianFriendlyDescriptiveNameString</Name>
+    <String>Vegetarian Friendly</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkVegetarianFriendlyDescriptionString</Name>
+    <String>The menu has a good offer of vegetarian dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>DynamicPerkVeganFriendlyDescriptiveNameString</Name>
+    <String>Vegan Friendly</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkVeganFriendlyDescriptionString</Name>
+    <String>The menu has a good offer of vegan dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>DynamicPerkSmallMenuDescriptiveNameString</Name>
+    <String>Poor Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkSmallMenuDescriptionString</Name>
+    <String>The menu is too small and attracts fewer customers. 
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>DynamicPerkShortMenuDescriptiveNameString</Name>
+    <String>Small Menu</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkShortMenuDescriptionString</Name>
+    <String>The menu has a limited offer.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  
+  
+  
+  <TextString>
+    <Name>DynamicPerkPriceTierVeryLowDescriptiveNameString</Name>
+    <String>Very Low Prices</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkPriceTierVeryLowDescriptionString</Name>
+    <String>The restaurant has very low prices.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>DynamicPerkPriceTierLowDescriptiveNameString</Name>
+    <String>Low Prices</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkPriceTierLowDescriptionString</Name>
+    <String>The restaurant has low prices.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>DynamicPerkPriceTierHighDescriptiveNameString</Name>
+    <String>High Prices</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkPriceTierHighDescriptionString</Name>
+    <String>The restaurant has high prices.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>DynamicPerkPriceTierVeryHighDescriptiveNameString</Name>
+    <String>Preposterous Prices</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkPriceTierVeryHighDescriptionString</Name>
+    <String>The restaurant has very high prices.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkFewIngredientsName</Name>
+    <String>Few Ingredients</String>
+  </TextString>
+  <TextString>
+    <Name>PerkFewIngredientsDescription</Name>
+    <String>This recipe has a limited number of ingredients and can fully express their flavor and taste.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkLotsIngredientsName</Name>
+    <String>Lots of Ingredients</String>
+  </TextString>
+  <TextString>
+    <Name>PerkLotsIngredientsDescription</Name>
+    <String>This recipe has several different ingredients - their flavor and taste is harder to identify.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkLoadIngredientsName</Name>
+    <String>Tons of Ingredients</String>
+  </TextString>
+  <TextString>
+    <Name>PerkLoadIngredientsDescription</Name>
+    <String>This recipe has a preposterous number of ingredients - the flavors are all mixed up. 
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+    <TextString>
+    <Name>DynamicPerkVegetarianNothingName</Name>
+    <String>No Vegetarian Recipes</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkVegetarianNothingDescription</Name>
+    <String>The place doesn't offer a single vegetarian recipe, don't expect vegetarians to come. 
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>DynamicPerkVeganNothingName</Name>
+    <String>No Vegan Recipes</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkVeganNothingDescription</Name>
+    <String>The place doesn't offer a single vegan recipe, don't expect vegans to come. 
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+    <TextString>
+    <Name>DynamicPerkLegumeOfferDescriptiveNameString</Name>
+    <String>Legumes Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkLegumeOfferDescriptionString</Name>
+    <String>The menu has a wide offer of legume-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkLegumeSpecializedDescriptiveNameString</Name>
+    <String>Legumes Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkLegumeSpecializedDescriptionString</Name>
+    <String>The menu is specialized in legume-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  
+  <TextString>
+    <Name>DynamicPerkSeveralTemplatesName</Name>
+    <String>Several Different Preparations</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkSeveralTemplatesDescription</Name>
+    <String>The menu offers several different Templates.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkFewIngredientsName</Name>
+    <String>Few Ingredients</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkFewIngredientsDescription</Name>
+    <String>The menu uses a limited number of Ingredients.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkManyIngredientsName</Name>
+    <String>Many Ingredients</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkManyIngredientsDescription</Name>
+    <String>The menu uses a wide variety of Ingredients.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkManyVegetarianIngredientsName</Name>
+    <String>Many Vegetarian Ingredients</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkManyVegetarianIngredientsDescription</Name>
+    <String>The menu uses a wide variety of Vegetarian Ingredients.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkManyVeganIngredientsName</Name>
+    <String>Many Vegan Ingredients</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkManyVeganIngredientsDescription</Name>
+    <String>The menu uses a wide variety of Vegan Ingredients.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkAllCarbsTemplatesName</Name>
+    <String>Carbs Preparations Variety</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkAllCarbsTemplatesDescription</Name>
+    <String>The menu uses several Carbs Templates.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkAllVeggiesTemplatesName</Name>
+    <String>Vegetables Preparations Variety</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkAllVeggiesTemplatesDescription</Name>
+    <String>The menu uses several Vegetables Templates.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkAllMeatTemplatesName</Name>
+    <String>Meat Preparations Variety</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkAllMeatTemplatesDescription</Name>
+    <String>The menu uses several Meat Templates.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkAllSeafoodTemplatesName</Name>
+    <String>Seafood Preparations Variety</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkAllSeafoodTemplatesDescription</Name>
+    <String>The menu uses several Seafood Templates.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkAllDessertTemplatesName</Name>
+    <String>Desserts Preparations Variety</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkAllDessertTemplatesDescription</Name>
+    <String>The menu uses several Dessert Templates.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkAllSectionTwoName</Name>
+    <String>Well-Structured Menu</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkAllSectionTwoDescription</Name>
+    <String>There are at least two different Recipes for each Menu Section.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>DynamicPerkAllSectionFourName</Name>
+    <String>Complete Menu</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkAllSectionFourDescription</Name>
+    <String>There are at least four different Recipes for each Menu Section.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+
+  <TextString>
+    <Name>DynamicPerkHealthyOfferDescriptiveNameString</Name>
+    <String>Healthy Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkHealthyOfferDescriptionString</Name>
+    <String>The menu has a wide offer of healthy dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkHealthySpecializedDescriptiveNameString</Name>
+    <String>Healthy Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkHealthySpecializedDescriptionString</Name>
+    <String>The menu is specialized in healthy dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+
+  <TextString>
+    <Name>DynamicPerkHeavyOfferDescriptiveNameString</Name>
+    <String>Heavyweight Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkHeavyOfferDescriptionString</Name>
+    <String>The menu has a wide offer of Heavyweight dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkHeavySpecializedDescriptiveNameString</Name>
+    <String>Heavyweight Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkHeavySpecializedDescriptionString</Name>
+    <String>The menu is specialized in Heavyweight dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+
+  <TextString>
+    <Name>DynamicPerkDairyOfferDescriptiveNameString</Name>
+    <String>Dairy Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkDairyOfferDescriptionString</Name>
+    <String>The menu has a wide offer of dairy-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkDairySpecializedDescriptiveNameString</Name>
+    <String>Dairy Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkDairySpecializedDescriptionString</Name>
+    <String>The menu is specialized in dairy-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+
+  <TextString>
+    <Name>DynamicPerkFruitOfferDescriptiveNameString</Name>
+    <String>Fruit Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkFruitOfferDescriptionString</Name>
+    <String>The menu has a wide offer of fruit-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkFruitSpecializedDescriptiveNameString</Name>
+    <String>Fruit Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkFruitSpecializedDescriptionString</Name>
+    <String>The menu is specialized in fruit-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+
+  <TextString>
+    <Name>DynamicPerkNutOfferDescriptiveNameString</Name>
+    <String>Nuts Offer</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkNutOfferDescriptionString</Name>
+    <String>The menu has a wide offer of nuts-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>DynamicPerkNutSpecializedDescriptiveNameString</Name>
+    <String>Nuts Specialization</String>
+  </TextString>
+  <TextString>
+    <Name>DynamicPerkNutSpecializedDescriptionString</Name>
+    <String>The menu is specialized in nuts-based dishes.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+<!-- Tools -->
+  
+	<TextString>
+    <Name>PerkFridgeName</Name>
+    <String>&lt;b&gt;Fridge Effects&lt;/b&gt;</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkFridgeDescription</Name>
+    <String>{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>PerkMixerName</Name>
+    <String>&lt;b&gt;Mixer Effects&lt;/b&gt;</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkMixerDescription</Name>
+    <String>{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkDecorationName</Name>
+    <String>&lt;b&gt;Decoration&lt;/b&gt;</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkDecorationDescription</Name>
+    <String>{MODIFIERS}</String>
+  </TextString>
+
+  
+  <TextString>
+    <Name>PerkPolicyDescription</Name>
+    <String>{MODIFIERS}</String>
+  </TextString>
+  
+  
+  <!-- Perk CA -->
+  
+  <TextString>
+    <Name>ChefAdvisorPerkDescription</Name>
+    <String>{MODIFIERS}</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkAverageDescription</Name>
+    <String>No negative or positive effects.</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ChefAdvisorPerkFood1Name</Name>
+    <String>Low Food Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkFood2Name</Name>
+    <String>Mediocre Food Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkFood3Name</Name>
+    <String>Average Food Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkFood4Name</Name>
+    <String>Good Food Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkFood5Name</Name>
+    <String>Excellent Food Rating</String>
+  </TextString>
+ 
+ 
+<TextString>
+    <Name>ChefAdvisorPerkPrice1Name</Name>
+    <String>Low Prices Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkPrice2Name</Name>
+    <String>Mediocre Prices Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkPrice3Name</Name>
+    <String>Average Prices Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkPrice4Name</Name>
+    <String>Good Prices Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkPrice5Name</Name>
+    <String>Excellent Prices Rating</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ChefAdvisorPerkService1Name</Name>
+    <String>Low Service Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkService2Name</Name>
+    <String>Mediocre Service Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkService3Name</Name>
+    <String>Average Service Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkService4Name</Name>
+    <String>Good Service Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkService5Name</Name>
+    <String>Excellent Service Rating</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>ChefAdvisorPerkAtmosphere1Name</Name>
+    <String>Low Atmosphere Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkAtmosphere2Name</Name>
+    <String>Mediocre Atmosphere Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkAtmosphere3Name</Name>
+    <String>Average Atmosphere Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkAtmosphere4Name</Name>
+    <String>Good Atmosphere Rating</String>
+  </TextString>
+  
+  <TextString>
+    <Name>ChefAdvisorPerkAtmosphere5Name</Name>
+    <String>Excellent Atmosphere Rating</String>
+  </TextString>
+  
+  
+  
+  
+  
+  
+
+  
+  
+  <TextString>
+    <Name>PerkProfessionalName</Name>
+    <String>Professional</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkGoodReceptionName</Name>
+    <String>Welcoming</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>PerkBadReceptionName</Name>
+    <String>Rude</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkUnprofessionalName</Name>
+    <String>Unprofessional</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkGoodServingName</Name>
+    <String>Precise</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkBadServingName</Name>
+    <String>Clumsy</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkGoodCheckOutName</Name>
+    <String>Precise</String>
+  </TextString>
+  
+  <TextString>
+    <Name>PerkBadCheckOutName</Name>
+    <String>Distracted</String>
+  </TextString>
+  
+</TextStrings>

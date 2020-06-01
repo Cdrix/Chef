@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<!--
+	<TextString>
+		<Name>ActiveSkillPayForSpeedName</Name>
+		<String>Active Skill: Extra Pay</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillPayForSpeedDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+
+By spending only 300 bucks you can incite your staff and push them into doing better! When activated this skill increases the performances of the entire staff!</String>
+	</TextString>
+-->
+	<TextString>
+		<Name>PlayerActionsPayForSpeedName</Name>
+		<String>Extra Pay!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsPayForSpeedDescription</Name>
+		<String>By spending &lt;b&gt;$300&lt;/b&gt;  you can incite your staff and push them into doing better!
+
+&lt;b&gt;When activated this skill will increase the performances of your entire staff, and all actions will require half the time to be performed.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsPayForQualityName</Name>
+		<String>I Want Perfection!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsPayForQualityDescription</Name>
+		<String>By spending &lt;b&gt;$800&lt;/b&gt; you can incite your staff with some extra money and increase the quality of your offer!
+
+&lt;b&gt;When activated this skill increases both the quality of your Food and the rating of your Service.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsPayForEnergyName</Name>
+		<String>Extra Money, Extra Willpower!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsPayForEnergyDescription</Name>
+		<String>By spending &lt;b&gt;$1000&lt;/b&gt; you can further push your staff without the risk of a revolt!
+
+&lt;b&gt;When activated this skill reduces the Energy consumption of all Staff members.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsEnergyForWelcomingName</Name>
+		<String>It's Welcoming Time!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsEnergyForWelcomingDescription</Name>
+		<String>When this skill is active your Waiters will welcome and seat people at a tremendous speed! But be careful, they can get really tired!
+
+&lt;b&gt;When activated this skill reduces the the time needed to Welcome and Accomodate Customers, but those actions will have an increased Energy consumption.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsEnergyForOrdersName</Name>
+		<String>I Remember Everything!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsEnergyForOrdersDescription</Name>
+		<String>Thank to some real training your Waiters can now enter in a superhuman state and quickly take orders from tables and then deliver them. Sadly, it's really tiresome to use those ancient techniques.
+
+&lt;b&gt;When activated this skill reduces the the time needed to Take Orders and Deliver them, but those actions will have an increased Energy consumption.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsOrdersQualityName</Name>
+		<String>Fast Service!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsOrdersQualityDescription</Name>
+		<String>By ordering your staff to quickly take orders and deliver the food to tables you can definitely speed up the service, but don't expect good ratings!
+
+&lt;b&gt;When Activated the time needed to Take and Deliver Orders is drastically reduced, but the overall Service Rating will be reduced of two stars.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsEnergyForCheckoutName</Name>
+		<String>Futuristic Brain Implants</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsEnergyForCheckoutDescription</Name>
+		<String>The brain implants increase a waiter math capabilities and spacial awareness, allowing them to quickly check out tables and clean them. Too bad they give tiresome headaches.
+
+&lt;b&gt;When activated this skill reduces the the time needed to Check Out Customers and Clean Tables, but those actions will have an increased Energy consumption.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsCleaningQualityName</Name>
+		<String>Quick Customers Removal Protocol</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsCleaningQualityDescription</Name>
+		<String>This unique protocol allows you to quickly remove most customers from your restaurant once they finished to eat, but they won't exactly appreciate that...
+
+&lt;b&gt;When activated this skill reduces the the time needed to Check Out Customers and Clean Tables, but the service rating will be reduced of two stars&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsEnergyForCookingName</Name>
+		<String>Military Strategies</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsEnergyForCookingDescription</Name>
+		<String>By adopting military strategies and discipline, the kitchen can quickly prepare and cook most orders, but not without a lot of sweating.
+
+&lt;b&gt;When activated this skill reduces the the time needed to Prepare and Cook Recipes, but those actions will have an increased Energy consumption.&lt;/b&gt;</String></TextString>
+
+	<TextString>
+		<Name>PlayerActionsCookingQualityName</Name>
+		<String>Edible is enough</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsCookingQualityDescription</Name>
+		<String>Sometimes you need to just serve as many people as possible, to take their money and send them home! In those cases, "edible" is enough as a quality standard!
+
+&lt;b&gt;When activated this skill reduces the the time needed to Prepare and Cook Recipes, but the quality of all food will be reduced.&lt;/b&gt;</String></TextString>
+
+	<TextString>
+		<Name>PlayerActionsCookingExpenseName</Name>
+		<String>Wasteful Cooking</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsCookingExpenseDescription</Name>
+		<String>Sometimes there is no time to carefully pick ingredients and prepare them, sometimes you just need to speed up the kitchen even if it means wasting food.
+		
+&lt;b&gt;When activated this skill reduces the the time needed to Prepare and Cook Recipes, but the cost of all recipes will increase of 30%.&lt;/b&gt;</String></TextString>
+
+	<TextString>
+		<Name>PlayerActionsAmbienceEnergyName</Name>
+		<String>Make a good impression!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PlayerActionsAmbienceEnergyDescription</Name>
+		<String>Your place is ugly? No problem, just tell your waiters to increase their efforts to be friendly and nice!
+		
+&lt;b&gt;When activated this skill gives you a two star increase to your Service rating, but your waiters will consume more Energy to do their job.&lt;/b&gt;</String></TextString>
+
+
+
+
+
+
+
+
+
+
+	<TextString>
+		<Name>ActiveSkillPayForSpeedName</Name>
+		<String>Extra Pay!</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillPayForSpeedDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+By spending &lt;b&gt;$300&lt;/b&gt;  you can incite your staff and push them into doing better!
+
+&lt;b&gt;When activated this skill will increase the performances of your entire staff, and all actions will require half the time to be performed.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillPayForQualityName</Name>
+		<String>I Want Perfection!</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillPayForQualityDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+By spending &lt;b&gt;$800&lt;/b&gt; you can incite your staff with some extra money and increase the quality of your offer!
+
+&lt;b&gt;When activated this skill increases both the quality of your Food and the rating of your Service.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillPayForEnergyName</Name>
+		<String>Extra Money, Extra Willpower!</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillPayForEnergyDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+By spending &lt;b&gt;$1000&lt;/b&gt; you can further push your staff without the risk of a revolt!
+
+&lt;b&gt;When activated this skill reduces the Energy consumption of all Staff members.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillWelcomingEnergyName</Name>
+		<String>It's Welcoming Time!</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillWelcomingEnergyDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+When this skill is active your Waiters will welcome and seat people at a tremendous speed! But be careful, they can get really tired!
+
+&lt;b&gt;When activated this skill reduces the the time needed to Welcome and Accomodate Customers, but those actions will have an increased Energy consumption.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillOrdersEnergyName</Name>
+		<String>I Remember Everything!</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillOrdersEnergyDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+Thank to some real training your Waiters can now enter in a superhuman state and quickly take orders from tables and then deliver them. Sadly, it's really tiresome to use those ancient techniques.
+
+&lt;b&gt;When activated this skill reduces the the time needed to Take Orders and Deliver them, but those actions will have an increased Energy consumption.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillOrdersQualityName</Name>
+		<String>Fast Service!</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillOrdersQualityDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+By ordering your staff to quickly take orders and deliver the food to tables you can definitely speed up the service, but don't expect good ratings!
+
+&lt;b&gt;When Activated the time needed to Take and Deliver Orders is drastically reduced, but the overall Service Rating will be reduced of two stars.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillCleaningEnergyName</Name>
+		<String>Futuristic Brain Implants</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillCleaningEnergyDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+The brain implants increase a waiter math capabilities and spacial awareness, allowing them to quickly check out tables and clean them. Too bad they give tiresome headaches.
+
+&lt;b&gt;When activated this skill reduces the the time needed to Check Out Customers and Clean Tables, but those actions will have an increased Energy consumption.&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillCleaningQualityName</Name>
+		<String>Quick Customers Removal Protocol</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillCleaningQualityDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+This unique protocol allows you to quickly remove most customers from your restaurant once they finished to eat, but they won't exactly appreciate that...
+
+&lt;b&gt;When activated this skill reduces the the time needed to Check Out Customers and Clean Tables, but the service rating will be reduced of two stars&lt;/b&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillCookingEnergyName</Name>
+		<String>Military Strategies</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillCookingEnergyDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+By adopting military strategies and discipline, the kitchen can quickly prepare and cook most orders, but not without a lot of sweating.
+
+&lt;b&gt;When activated this skill reduces the the time needed to Prepare and Cook Recipes, but those actions will have an increased Energy consumption.&lt;/b&gt;</String></TextString>
+
+	<TextString>
+		<Name>ActiveSkillCookingQualityName</Name>
+		<String>Edible is enough</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillCookingQualityDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+Sometimes you need to just serve as many people as possible, to take their money and send them home! In those cases, "edible" is enough as a quality standard!
+
+&lt;b&gt;When activated this skill reduces the the time needed to Prepare and Cook Recipes, but the quality of all food will be reduced.&lt;/b&gt;</String></TextString>
+
+	<TextString>
+		<Name>ActiveSkillCookingExpenseName</Name>
+		<String>Wasteful Cooking</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillCookingExpenseDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+Sometimes there is no time to carefully pick ingredients and prepare them, sometimes you just need to speed up the kitchen even if it means wasting food.
+		
+&lt;b&gt;When activated this skill reduces the the time needed to Prepare and Cook Recipes, but the cost of all recipes will increase of 30%.&lt;/b&gt;</String></TextString>
+
+	<TextString>
+		<Name>ActiveSkillAmbienceEnergyName</Name>
+		<String>Make a good impression!</String>
+	</TextString>
+
+	<TextString>
+		<Name>ActiveSkillAmbienceEnergyDescription</Name>
+		<String>After acquiring this skill, you can access to the respective Active Skill that has the following effects once activated:
+		
+Your place is ugly? No problem, just tell your waiters to increase their efforts to be friendly and nice!
+		
+&lt;b&gt;When activated this skill gives you a two star increase to your Service rating, but your waiters will consume more Energy to do their job.&lt;/b&gt;</String></TextString>
+
+
+
+
+
+</TextStrings>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>AskAroundStaffRefreshName</Name>
+		<String>Renseignez-vous sur les personnes à embaucher</String>
+	</TextString>
+	<TextString>
+		<Name>AskAroundStaffRefreshDescription</Name>
+		<String>&lt;b&gt;COUT : 100$&lt;/b&gt;
+Si vous avez désespérément besoin de personnel et que vous n'avez pas d'argent, vous pouvez toujours vous renseigner dans l'espoir de trouver quelqu'un de convenable.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>HiringOfferStaffRefreshName</Name>
+		<String>Publier une offre d'emploi dans un journal</String>
+	</TextString>
+	<TextString>
+		<Name>HiringOfferStaffRefreshDescription</Name>
+		<String>&lt;b&gt;COUT : 250$&lt;/b&gt;
+Rechercher des personnes en publiant une offre d'emploi dans certains journaux vous coûtera un peu plus cher, mais il est plus facile de trouver de bons candidats.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>HiringAgencyStaffRefreshName</Name>
+		<String>Payer une agence de recrutement</String>
+	</TextString>
+	<TextString>
+		<Name>HiringAgencyStaffRefreshDescription</Name>
+		<String>&lt;b&gt;COUT : 500$&lt;/b&gt;
+Payer une agence pour qu'elle vous trouve du personnel adéquat est la meilleure chose à faire si vous avez un besoin urgent de serveurs ou de cuisiniers.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockDecorationTier1Name</Name>
+		<String>Contrat d'ameublement IKOA</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockDecorationTier1Description</Name>
+		<String>En contactant la marque suédoise mondialement connue IKOA, vous pourrez leur acheter des meubles pour améliorer l'ambiance.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockDecorationTier2Name</Name>
+		<String>Contrat d'ameublement Eidolon Design</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockDecorationTier2Description</Name>
+		<String>Eidolon Design est heureux de signer un contrat avec vous, permettant à votre restaurant de présenter certains de leurs incroyables meubles provenant du monde entier.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockDecorationTier7Name</Name>
+		<String>Le contrat d'ameublement des grands collectionneurs</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockDecorationTier7Description</Name>
+		<String>Une fois que vous serez assez prestigieux pour signer un contrat avec les grands collectionneurs, vous pourrez acheter les meilleurs meubles du monde.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockMaterialTier3Name</Name>
+		<String>Design de luxe</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockMaterialTier3Description</Name>
+		<String>Design de luxe est maintenant prêt à vous offrir l'expertise de ses architectes d'intérieur, pour rénover complètement vos restaurants et leur donner un aspect plus raffiné et luxueux.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockMaterialTier2Name</Name>
+		<String>Design notoire</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockMaterialTier2Description</Name>
+		<String>Design notoire est la division abordable de Design de luxe. Ils fournissent des logiciels avancés pour redessiner vos intérieurs avec des dalles modernes et des papiers peints agréables.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockMaterialTier1Name</Name>
+		<String>Bricoleurs locaux</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockMaterialTier1Description</Name>
+		<String>En entrant en contact avec des bricoleurs locaux, vous pourrez personnaliser davantage votre lieu ! Ils ont accès à des peintures et des papiers peints de meilleure qualité pour vos murs, et à des dalles de meilleure qualité pour vos sols.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockTablesTier3Name</Name>
+		<String>Tables Unique Design</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockTablesTier3Description</Name>
+		<String>En matière de tables, rien n'est comparable à Unique Design. En signant un contrat avec eux, vous pourrez accéder aux meilleures tables du marché.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockTablesTier2Name</Name>
+		<String>Contrat des restaurants IKOA</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockTablesTier2Description</Name>
+		<String>L'IKOA lance sa division Restaurants, et vous permettra désormais de participer à sa bêta fermée exclusive. Oui, ils organisent une bêta fermée pour les tables.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockTablesTier1Name</Name>
+		<String>Reliable Tables Ltd</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockTablesTier1Description</Name>
+		<String>Une entreprise locale, Reliable Tables Ltd, est prête à signer un contrat avec vous. Vous pourrez ainsi accéder à des tables plus belles et plus solides ! Et elles sont d'origine locale !</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockToolTier4Name</Name>
+		<String>Chef's Choice Contract</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockToolTier4Description</Name>
+		<String>"Created BY Chefs FOR Chefs" Brave, bold, and independent, Chef's Choice is a company providing state-of-the-art kitchen appliances. You couldn't desire anything better for your restaurant.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockToolTier3Name</Name>
+		<String>The Great Cook Contract</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockToolTier3Description</Name>
+		<String>The Great Cook is a world leading company providing high quality kitchen appliances to Chefs all around the world. Signing a contract with them would mean getting your hands on the best tools on the market.</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockToolTier2Name</Name>
+		<String>ProcessingFood Inc</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockToolTier2Description</Name>
+		<String>The global standard of the restaurant industry. By signing a contract with ProcessingFood Inc you will be able to access to some good quality tools for your kitchen</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockToolTier1Name</Name>
+		<String>IKOA Kitchen Furnishing</String>
+	</TextString>
+	<TextString>
+		<Name>UnlockToolTier1Description</Name>
+		<String>IKOA has its own division dedicated to kitchen furnishing, and by signing a contract with them you will be able to buy new cheap but reliable tools for your kitchen. </String>
+	</TextString>
+
+	<TextString>
+		<Name>OpenRestaurantStartingName</Name>
+		<String>Open the restaurant!</String>
+	</TextString>
+	<TextString>
+		<Name>OpenRestaurantStartingDescription</Name>
+		<String>This quick but still painful tutorial is finally over! By continuing you will finally be able to begin your very own endless cycle of bankruptcies!</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>ProposeFirstStarName</Name>
+		<String>Call the WebGuide's Critics</String>
+	</TextString>
+	<TextString>
+		<Name>ProposeFirstStarDescription</Name>
+		<String>Your popularity is rising and your food is considered excellent by many! You can now ask the WebGuide's Critics to evaluate your restaurant. Let's see if you are worthy of your First Star!</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>ProposeSecondStarName</Name>
+		<String>Call the WebGuide's Critics</String>
+	</TextString>
+	<TextString>
+		<Name>ProposeSecondStarDescription</Name>
+		<String>Your skills are always improving and your cuisine is becoming pure art! You can now ask the WebGuide's Critics to evaluate your restaurant again! Let's see if you are good enough for the Second Star!</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>ProposeThirdStarName</Name>
+		<String>Call the WebGuide's Critics</String>
+	</TextString>
+	<TextString>
+		<Name>ProposeThirdStarDescription</Name>
+		<String>Do you think you have what it takes for your restaurant to ascend to the ranks of legends? You can now ask the WebGuide's Critics to evaluate your restaurant for the last time. Let's see if you are truly deserving of your Third Star!</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>SkipTutorialName</Name>
+		<String>Skip Tutorial</String>
+	</TextString>
+	<TextString>
+		<Name>SkipTutorialDescription</Name>
+		<String>Activate this decision to skip the tutorial and play without constraints</String>
+	</TextString>
+
+
+
+
+
+
+	<TextString>
+		<Name>Need250Money</Name>
+		<String>You have to spend 250 to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need500Money</Name>
+		<String>You have to spend 500 to activate this decision.</String>
+	</TextString>
+
+
+
+
+
+
+
+	<TextString>
+		<Name>Need1500Pop</Name>
+		<String>You need 1500 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need300Pop</Name>
+		<String>You need 300 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need800Pop</Name>
+		<String>You need 800 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need900Pop</Name>
+		<String>You need 900 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need450Pop</Name>
+		<String>You need 450 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need50Pop</Name>
+		<String>You need 50 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need1400Pop</Name>
+		<String>You need 1400 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need75Pop</Name>
+		<String>You need 75 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need750Pop</Name>
+		<String>You need 750 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>Need1100Pop</Name>
+		<String>You need 1100 Popularity to activate this decision.</String>
+	</TextString>
+	<TextString>
+		<Name>NoRequirements</Name>
+		<String>There are no particular requirements for this decision.</String>
+	</TextString>		
+	<TextString>
+		<Name>Need250Pop</Name>
+		<String>You need 250 Popularity to activate this decision.</String>
+	</TextString>
+    <TextString>
+		<Name>Need1000Pop</Name>
+		<String>You need 1000 Popularity to activate this decision.</String>
+	</TextString>
+	
+
+
+
+	
+	<TextString>
+		<Name>Need1800Pop</Name>
+		<String>1800 Popularity</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>Need2100Pop</Name>
+		<String>2100 Popularity</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>Need2500Pop</Name>
+		<String>2500 Popularity</String>
+	</TextString>
+
+
+</TextStrings>

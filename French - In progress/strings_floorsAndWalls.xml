@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+  <TextString>
+    <Name>AncientParquetName</Name>
+    <String>Parquet ancien</String>
+  </TextString>
+  <TextString>
+    <Name>AncientParquetDescription</Name>
+    <String>Un parquet à l'ancienne. Il n'y a rien d'intéressant à dire à ce sujet.</String>
+  </TextString>
+
+  <TextString>
+    <Name>AncientParquet_Simple_Name</Name>
+    <String>Parquet ancien simple</String>
+  </TextString>
+  <TextString>
+    <Name>AncientParquet_Simple_Description</Name>
+    <String>Un parquet bon marché à l'ancienne.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Fishbone_Parquet_Name</Name>
+    <String>Parquet en arêtes de poisson</String>
+  </TextString>
+  <TextString>
+    <Name>Fishbone_Parquet_Simple_Description</Name>
+    <String>Quel nom étrange pour un parquet. Ce parquet est-il constitué de véritables arêtes de poisson ?</String>
+  </TextString>
+
+    <TextString>
+    <Name>Rustic_Parquet_Name</Name>
+    <String>Parquet rustique</String>
+  </TextString>
+  <TextString>
+    <Name>Rustic_Parquet_Simple_Description</Name>
+    <String>Le type de sol que vous souhaitez avoir dans votre chalet de campagne. Ou dans votre restaurant de campagne.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>Bamboo_Parquet_Name</Name>
+    <String>Parquet en bambou</String>
+  </TextString>
+  <TextString>
+    <Name>Bamboo_Parquet_Simple_Description</Name>
+    <String>Un parquet en bambou, fabriqué grâce à l'irrésistible penchant de l'homme à détruire la nature pour construire des choses.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Durmast_Parquet_Name</Name>
+    <String>Durmast Parquet</String>
+  </TextString>
+  <TextString>
+    <Name>Durmast_Parquet_Simple_Description</Name>
+    <String>A parquet made of durmast wood. Stern. Solid. Traditional. Proud.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Betonage_Name</Name>
+    <String>Concrete Floor</String>
+  </TextString>
+  <TextString>
+    <Name>Betonage_Simple_Description</Name>
+    <String>Quite the classic tiling for your restaurant, available in several different colors.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Asphalt_Name</Name>
+    <String>Asphalt Floor</String>
+  </TextString>
+  <TextString>
+    <Name>Asphalt_Description</Name>
+    <String>An asphalt surface.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Brick_TileName</Name>
+    <String>Brick Tiles</String>
+  </TextString>
+  <TextString>
+    <Name>Brick_TileDescription</Name>
+    <String>Why spend money on elegant tiling when you can just use cheap bricks and give your place that unique look?</String>
+  </TextString>
+
+  <TextString>
+    <Name>DiamondsTile_Name</Name>
+    <String>Diamond Tiles</String>
+  </TextString>
+  <TextString>
+    <Name>DiamondsTileDescription</Name>
+    <String>No, these are not real diamonds. It wouldn't be cost efficient, despite the high durability.</String>
+  </TextString>
+
+  <TextString>
+    <Name>HerringboneTile_Name</Name>
+    <String>Herringbone Floor</String>
+  </TextString>
+  <TextString>
+    <Name>HerringboneDescription</Name>
+    <String>Why do floor designers have this obsession with fishbones? Could the seafood industry be involved?</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>Bristol_TileName</Name>
+    <String>Bristol Floor</String>
+  </TextString>
+  <TextString>
+    <Name>Bristol_TileDescription</Name>
+    <String>Hexagon tiles, perfect for decorating or drawing old-styled maps for role-playing games.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Mosaic_TileName</Name>
+    <String>Mosaic Floor</String>
+  </TextString>
+  <TextString>
+    <Name>Mosaic_TileDescription</Name>
+    <String>Fine, this is not a real mosaic, but it's the closest you can get for your place. Just deal with it.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Cement_TileName</Name>
+    <String>Cement Floor</String>
+  </TextString>
+  <TextString>
+    <Name>Cement_TileDescription</Name>
+    <String>Just some tiles made of cement, available in different colors. Customers who slip on this floor take double damage.</String>
+  </TextString>
+  <TextString>
+    <Name>FlowersTile_Name</Name>
+    <String>Flower Tiles</String>
+  </TextString>
+  <TextString>
+    <Name>Flowers_TileDescription</Name>
+    <String>Why waste time and money planting real flowers when you can have flower-themed tiling instead?</String>
+  </TextString>
+  <TextString>
+    <Name>MarmyTile_Name</Name>
+    <String>Marble Tiles</String>
+  </TextString>
+  <TextString>
+    <Name>MarmyDescription</Name>
+    <String>Marble is prestigious, just look at how exquisite these tiles are. Only the nobleborn will visit your restaurant.</String>
+  </TextString>
+
+  <TextString>
+    <Name>PavingTile_Name</Name>
+    <String>Pavement Tiles</String>
+  </TextString>
+  <TextString>
+    <Name>PavingDescription</Name>
+    <String>Tiles meant for exteriors can be used inside your restaurant as well. Wake up people, stop supporting the greed of BigTile.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Painted_Panels_Name</Name>
+    <String>Painted Panels</String>
+  </TextString>
+  <TextString>
+    <Name>Painted_Panels_Description</Name>
+    <String>A carpenter spent hours upon hours making these splendid hand-painted panels that your customers will spill any kind of liquid on.</String>
+  </TextString>
+
+  <TextString>
+    <Name>OperaIncertaTile_Name</Name>
+    <String>Opus Incertum</String>
+  </TextString>
+  <TextString>
+    <Name>OperaIncertaDescription</Name>
+    <String>An ancient Roman technique used for walls and pavings that has never lost its appeal.</String>
+  </TextString>
+
+  <TextString>
+    <Name>QuadTile_Name</Name>
+    <String>Quad Tiles</String>
+  </TextString>
+  <TextString>
+    <Name>QuadDescription</Name>
+    <String>These brightly colored tiles will damage your customers' eyesight, so that they won't notice the mistakes you do at cooking.</String>
+  </TextString>
+
+    <TextString>
+    <Name>QuarkTile_Name</Name>
+    <String>Quark Tiles</String>
+  </TextString>
+  <TextString>
+    <Name>QuarkDescription</Name>
+    <String>Classic tiling: robust, reliable and beautiful.</String>
+  </TextString>
+
+    <TextString>
+    <Name>TerracottaTile_Name</Name>
+    <String>Terracotta</String>
+  </TextString>
+  <TextString>
+    <Name>TerracottaDescription</Name>
+    <String>"Terracotta" literally means "cooked soil". And since you're running a restaurant, we could say that it's somewhat fitting.</String>
+  </TextString>
+
+  <TextString>
+    <Name>VogueTile_Name</Name>
+    <String>Vogue Tiles</String>
+  </TextString>
+  <TextString>
+    <Name>VogueDescription</Name>
+    <String>An exclusive and elegant tiling pattern that will drastically increase the appeal of your floors.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Boucle_Moquette_Name</Name>
+    <String>Moquette Boucle</String>
+  </TextString>
+  <TextString>
+    <Name>Boucle_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+    
+  <TextString>
+    <Name>Cubes_Moquette_Name</Name>
+    <String>Cube Moquette</String>
+  </TextString>
+  <TextString>
+    <Name>Cubes_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+
+  <TextString>
+    <Name>Needled_Moquette_Name</Name>
+    <String>Embroidered Moquette</String>
+  </TextString>
+  <TextString>
+    <Name>Needled_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+
+  <TextString>
+    <Name>FeltMosaic_Moquette_Name</Name>
+    <String>Felt Mosaic</String>
+  </TextString>
+  <TextString>
+    <Name>FeltMosaic_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+
+  <TextString>
+    <Name>Petals_Moquette_Name</Name>
+    <String>Petal Moquette</String>
+  </TextString>
+  <TextString>
+    <Name>Petals_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+
+  <TextString>
+    <Name>Squares_Moquette_Name</Name>
+    <String>Square Moquette</String>
+  </TextString>
+  <TextString>
+    <Name>Squares_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+
+  <TextString>
+    <Name>Triangles_Moquette_Name</Name>
+    <String>Triangle Moquette</String>
+  </TextString>
+  <TextString>
+    <Name>Triangles_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+
+  <TextString>
+    <Name>Frames_Moquette_Name</Name>
+    <String>Frame Moquette</String>
+  </TextString>
+  <TextString>
+    <Name>Frames_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+
+  <TextString>
+    <Name>Diamonds_Moquette_Name</Name>
+    <String>Diamond Moquette</String>
+  </TextString>
+  <TextString>
+    <Name>Diamonds_Moquette_Description</Name>
+    <String>Moquettes are perfect for restaurants: every single crumb will be preserved for eternity!</String>
+  </TextString>
+
+  <TextString>
+    <Name>Dark_ParquetName</Name>
+    <String>Dark Parquet</String>
+  </TextString>
+  <TextString>
+    <Name>Dark_ParquetDescription</Name>
+    <String>This parquet is really dark. But nothing else is special about it, so filling this description was very hard.</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>DoubleColor_Black_Name</Name>
+    <String>Double Color</String>
+  </TextString>
+  <TextString>
+    <Name>DoubleColor_Black_Description</Name>
+    <String>Two colors are definitely better than just one.</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>Brick_Wall1_Name</Name>
+    <String>Simple Brick Wall</String>
+  </TextString>
+  <TextString>
+    <Name>Brick_Wall1Description</Name>
+    <String>Perfect for the exterior of your restaurant, but definitely fitting the inner walls as well if you'd like your customers to find dirt and spiders in their meals.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Brick_Wall2_Name</Name>
+    <String>Classic Brick Wall</String>
+  </TextString>
+  <TextString>
+    <Name>Brick_Wall2_Description</Name>
+    <String>Perfect for the exterior of your restaurant, but definitely fitting the inner walls as well if you'd like your customers to find dirt and spiders in their meals.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Brick_Wall3_Name</Name>
+    <String>Rough Brick Wall 3</String>
+  </TextString>
+  <TextString>
+    <Name>Brick_Wall3_Description</Name>
+    <String>This special brick pattern has already been eroded by the wind and worn by time. You won't have to wait to give your place that special "antique" look.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Damask_Wall_Name</Name>
+    <String>Damask Wall</String>
+  </TextString>
+  <TextString>
+    <Name>Damask_Wall_Description</Name>
+    <String>Why limit yourself to simple paint when you can have artistic patterns on your wall?</String>
+  </TextString>
+
+  <TextString>
+    <Name>Damask_WallFrame_Name</Name>
+    <String>Damask Wallframe</String>
+  </TextString>
+  <TextString>
+    <Name>Damask_WallFrame_Description</Name>
+    <String>Why limit yourself to simple paint when you can have artistic patterns on your wall? Now including a lower frame so it can look less boring.</String>
+  </TextString>
+
+    <TextString>
+    <Name>Frame_Wallpaper_Name</Name>
+    <String>Frame Wallpaper</String>
+  </TextString>
+  <TextString>
+    <Name>Frame_Wallpaper_Description</Name>
+    <String>Back in the Ancient Times, you had to use wood to make frames for walls. Now you only need to apply special 3D wallpaper to obtain the exact same look!</String>
+  </TextString>
+  <TextString>
+    <Name>Iris_TileName</Name>
+    <String>Iris Floor</String>
+  </TextString>
+  <TextString>
+    <Name>Iris_TileDescription</Name>
+    <String>Refined tiling, very useful for giving your restaurant that "what a comfy place!" feel.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Lines_Wall_Name</Name>
+    <String>Lined Wall</String>
+  </TextString>
+  <TextString>
+    <Name>Lines_Wall_Description</Name>
+    <String>Ever wanted your walls to resemble an old prison uniform?</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_PlasterGray_Name</Name>
+    <String>Simple Paint (Pink/Yellow)</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_PlasterGray_Description</Name>
+    <String>Sometimes your walls simply need a nice coat of paint.</String>
+  </TextString>
+  <TextString>
+    <Name>Floor_PlasterGreen_Name</Name>
+    <String>Simple Paint (Green/Aquamarine)</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_PlasterGreen_Description</Name>
+    <String>Sometimes your walls simply need a nice coat of paint.</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_PlasterBlue_Name</Name>
+    <String>Simple Paint (Blue/Purple)</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_PlasterBlue_Description</Name>
+    <String>Sometimes your walls simply need a nice coat of paint.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Wall_PlasterRed_Name</Name>
+    <String>Simple Paint (Red/Brown)</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_PlasterRed_Description</Name>
+    <String>Sometimes your walls simply need a nice coat of paint.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Wall_PlasterGreen2_Name</Name>
+    <String>Simple Paint (Brown/Green)</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_PlasterGreen2_Description</Name>
+    <String>Sometimes your walls simply need a nice coat of paint.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Wall_PlasterYellow_Name</Name>
+    <String>Simple Paint (Azure/Purple)</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_Plaster5Description</Name>
+    <String>Sometimes your walls simply need a nice coat of paint.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Wall_PlasterLight_Name</Name>
+    <String>Simple Paint (Light Tones)</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_PlasterLight_Description</Name>
+    <String>Sometimes your walls simply need a nice coat of paint.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Wall_Richwood_Name</Name>
+    <String>Richwood Wall</String>
+  </TextString>
+  <TextString>
+    <Name>Wall_Richwood_Description</Name>
+    <String>Paint is banal, why not cover your walls with prestigious wooden panels?</String>
+  </TextString>
+
+  <TextString>
+    <Name>Rock_Wall_Name</Name>
+    <String>Rock Wall</String>
+  </TextString>
+  <TextString>
+    <Name>Rock_Wall_Description</Name>
+    <String>Nothing says "you are welcome" like a wall made of rock.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Stone_Wall_Name</Name>
+    <String>Stone Wall (Big)</String>
+  </TextString>
+  <TextString>
+    <Name>Stone_Wall_Description</Name>
+    <String>Nothing says "you are welcome" like a wall made of stone.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Stone_Wall2_Name</Name>
+    <String>Stone Wall (Small)</String>
+  </TextString>
+  <TextString>
+    <Name>Stone_Wall2_Description</Name>
+    <String>Nothing says "you are welcome" like a wall made of stone.</String>
+  </TextString>
+
+  <TextString>
+    <Name>Wood_Panels_Name</Name>
+    <String>Wood Panels (Small)</String>
+  </TextString>
+  <TextString>
+    <Name>Wood_Panels_Description</Name>
+    <String>Is using parquet tiles for the walls a good idea? Let's find out!</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>Wood_Panels2_Name</Name>
+    <String>Wood Panels (Big)</String>
+  </TextString>
+  <TextString>
+    <Name>Wood_Panels2_Description</Name>
+    <String>Is using parquet tiles for the walls a good idea? Let's find out!</String>
+  </TextString>
+</TextStrings>

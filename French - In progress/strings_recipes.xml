@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+  <!--Menu sections-->
+
+  <TextString>
+		<Name>AppetizerName</Name>
+		<String>Appetizers</String>
+	</TextString>
+	<TextString>
+		<Name>MainCourseName</Name>
+		<String>Main Courses</String>
+	</TextString>
+	<TextString>
+		<Name>SaladName</Name>
+		<String>Salads</String>
+	</TextString>
+	<TextString>
+		<Name>SoupName</Name>
+		<String>Soups</String>
+	</TextString>
+	<TextString>
+		<Name>SideDishName</Name>
+		<String>Side Dishes</String>
+	</TextString>
+	<TextString>
+		<Name>DessertName</Name>
+		<String>Desserts</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageName</Name>
+		<String>Beverages</String>
+	</TextString>
+
+  <!--Ricette-->
+
+  <TextString>
+    <Name>TrofieBasilPestoName</Name>
+    <String>Trofie with Basil Pesto</String>
+  </TextString>
+  <TextString>
+    <Name>TrofieBasilPestoDescription</Name>
+    <String>Pesto is a typical Italian sauce made with basil.</String>
+  </TextString>
+  <TextString>
+    <Name>CarbonaraName</Name>
+    <String>Spaghetti alla Carbonara</String>
+  </TextString>
+  <TextString>
+    <Name>CarbonaraDescription</Name>
+    <String>The carbonara is one of the most desecrated Italian dishes. The actual recipe only includes egg yolks, pecorino cheese, guanciale and black pepper.</String>
+  </TextString>
+  <TextString>
+    <Name>CapreseSaladName</Name>
+    <String>Caprese Salad</String>
+  </TextString>
+  <TextString>
+    <Name>CapreseSaladDescription</Name>
+    <String>The caprese salad is a simple recipe made of tomatoes and buffalo mozzarella.</String>
+  </TextString>
+  <TextString>
+    <Name>CheeseOmeletteName</Name>
+    <String>Cheese Omelette</String>
+  </TextString>
+  <TextString>
+    <Name>CheeseOmeletteDescription</Name>
+    <String>A French classic in one of its most common variants.</String>
+  </TextString>
+  <TextString>
+    <Name>CheeseSouffleName</Name>
+    <String>Cheese Souffle</String>
+  </TextString>
+  <TextString>
+    <Name>CheeseSouffleDescription</Name>
+    <String>A classic French recipe with a unique texture. It requires patience and precision.</String>
+  </TextString>
+
+  <TextString>
+    <Name>LasagnaNapoletanaName</Name>
+    <String>Lasagna Napoletana</String>
+  </TextString>
+  <TextString>
+    <Name>LasagnaNapoletanaDescription</Name>
+    <String>People in Naples decided to make their own lasagna, with ricotta and meatballs.</String>
+  </TextString>
+  <TextString>
+    <Name>OssobucoMilaneseName</Name>
+    <String>Ossobouco alla Milanese</String>
+  </TextString>
+  <TextString>
+    <Name>OssobucoMilaneseDescription</Name>
+    <String>A popular recipe from Milan, consisting of a cow vertebra and the surrounding meat.</String>
+  </TextString>
+  <TextString>
+    <Name>OnionSoupName</Name>
+    <String>Onion Soup</String>
+  </TextString>
+  <TextString>
+    <Name>OnionSoupDescription</Name>
+    <String>A classic soup, which may be really hard to make if you've had a bad day.</String>
+  </TextString>
+  <TextString>
+    <Name>QuicheLorraineName</Name>
+    <String>Quiche Lorraine</String>
+  </TextString>
+  <TextString>
+    <Name>QuicheLorraineDescription</Name>
+    <String>A classic French recipe, modified by the English to include Bacon.</String>
+  </TextString>
+  <TextString>
+    <Name>RatatouilleName</Name>
+    <String>Ratatouille</String>
+  </TextString>
+  <TextString>
+    <Name>RatatouilleDescription</Name>
+    <String>The Ratatouille is a French Provençal recipe made of stewed vegetables.</String>
+  </TextString>
+  <TextString>
+    <Name>RibollitaName</Name>
+    <String>Ribollita</String>
+  </TextString>
+  <TextString>
+    <Name>RibollitaDescription</Name>
+    <String>A famous Tuscan bread soup, full of vegetables.</String>
+  </TextString>
+  <TextString>
+    <Name>RisottoPorciniName</Name>
+    <String>Risotto with Porcini Mushrooms</String>
+  </TextString>
+  <TextString>
+    <Name>RisottoPorciniDescription</Name>
+    <String>A simple yet delicious risotto recipe, including expensive mushrooms.</String>
+  </TextString>
+  <TextString>
+    <Name>TagliatelleBologneseName</Name>
+    <String>Tagliatelle alla Bolognese</String>
+  </TextString>
+  <TextString>
+    <Name>TagliatelleBologneseDescription</Name>
+    <String>Originally made in Bologna, the tagliatelle alla bolognese is a famous meat-based pasta recipe.</String>
+  </TextString>
+  <TextString>
+    <Name>TartifletteName</Name>
+    <String>Tartiflette</String>
+  </TextString>
+  <TextString>
+    <Name>TartifletteDescription</Name>
+    <String>Originated in the Alpine territory, this dish is made of potatoes, cheese, lard, and onions.</String>
+  </TextString>
+  <TextString>
+    <Name>TiramisuName</Name>
+    <String>Tiramisù</String>
+  </TextString>
+  <TextString>
+    <Name>TiramisuDescription</Name>
+    <String>A famous Italian coffee-flavored dessert.</String>
+  </TextString>
+  <TextString>
+    <Name>TortelliniBrothName</Name>
+    <String>Tortellini in Broth</String>
+  </TextString>
+  <TextString>
+    <Name>TortelliniBrothDescription</Name>
+    <String>Native to the Italian region of Emilia, the tortellini are a really small kind of stuffed pasta, usually served in broth.</String>
+  </TextString>
+  <TextString>
+    <Name>BucatiniAmatricianaName</Name>
+    <String>Bucatini all'Amatriciana</String>
+  </TextString>
+  <TextString>
+    <Name>BucatiniAmatricianaDescription</Name>
+    <String>A classic Italian recipe based on guanciale, pecorino cheese and tomato. No onions allowed.</String>
+  </TextString>
+  <TextString>
+    <Name>SpaghettiClamsName</Name>
+    <String>Spaghetti with Clams</String>
+  </TextString>
+  <TextString>
+    <Name>SpaghettiClamsDescription</Name>
+    <String>A simple pasta recipe that allows clams to unleash all of their unique flavor.</String>
+  </TextString>
+  <TextString>
+    <Name>SteakTartareName</Name>
+    <String>Steak Tartare</String>
+  </TextString>
+  <TextString>
+    <Name>SteakTartareDescription</Name>
+    <String>A meat dish made of raw ground meat sliced in small pieces and often flavored with any sort of sides and sauces.</String>
+  </TextString>
+  <TextString>
+    <Name>KungPaoChickenName</Name>
+    <String>Kung Pao Chicken</String>
+  </TextString>
+  <TextString>
+    <Name>KungPaoChickenDescription</Name>
+    <String>The kung pao chicken is a spicy, stir-fried Chinese recipe originated in the Sichuan Province.</String>
+  </TextString>
+  <TextString>
+    <Name>BlanquetteVeauName</Name>
+    <String>Blanquette de Veau</String>
+  </TextString>
+  <TextString>
+    <Name>BlanquetteVeauDescription</Name>
+    <String>A French veal ragout cooked in a way so as to make it as white as possible. Is this racist?</String>
+  </TextString>
+  <TextString>
+    <Name>PastaNormaName</Name>
+    <String>Pasta alla Norma</String>
+  </TextString>
+  <TextString>
+    <Name>PastaNormaDescription</Name>
+    <String>A Sicilian pasta recipe made with tomatoes, dried ricotta and fried eggplants.</String>
+  </TextString>
+  <TextString>
+    <Name>PikePerchQuenellesName</Name>
+    <String>Fish Quenelles</String>
+  </TextString>
+  <TextString>
+    <Name>PikePerchQuenellesDescription</Name>
+    <String>Quenelles made of fish, served with a seafood sauce.</String>
+  </TextString>
+  <TextString>
+    <Name>AranciniName</Name>
+    <String>Arancini</String>
+  </TextString>
+  <TextString>
+    <Name>AranciniDescription</Name>
+    <String>Sicilian fried rice balls hiding a surprise sauce.</String>
+  </TextString>
+  <TextString>
+    <Name>CannoliName</Name>
+    <String>Cannoli</String>
+  </TextString>
+  <TextString>
+    <Name>CannoliDescription</Name>
+    <String>A classic Sicilian dessert consisting of a fried crunchy tube filled with ricotta.</String>
+  </TextString>
+  <TextString>
+    <Name>VeganLasagnaName</Name>
+    <String>Vegan Lasagna</String>
+  </TextString>
+  <TextString>
+    <Name>VeganLasagnaDescription</Name>
+    <String>Lasagna is good and vegans deserve to have their own variant.</String>
+  </TextString>
+  <TextString>
+    <Name>PannacottaName</Name>
+    <String>Pannacotta</String>
+  </TextString>
+  <TextString>
+    <Name>PannacottaDescription</Name>
+    <String>A classic Italian dessert made of cooked cream, hence the name: panna (cream) cotta (cooked). Yeah, very original...</String>
+  </TextString>
+  <TextString>
+    <Name>EggplantParmesanName</Name>
+    <String>Eggplant Parmesan</String>
+  </TextString>
+  <TextString>
+    <Name>EggplantParmesanDescription</Name>
+    <String>An Italian recipe made with eggplants, mozzarella, parmesan, tomato sauce and basil.</String>
+  </TextString>
+  <TextString>
+    <Name>CanederliMushroomsName</Name>
+    <String>Canederli with Mushrooms</String>
+  </TextString>
+  <TextString>
+    <Name>CanederliMushroomsDescription</Name>
+    <String>An Alpine recipe consisting of bread dumplings served alongside tasty mushrooms.</String>
+  </TextString>
+  <TextString>
+    <Name>BabaName</Name>
+    <String>Babà</String>
+  </TextString>
+  <TextString>
+    <Name>BabaDescription</Name>
+    <String>A classic fried dessert from Naples, flavored with rum. Ideal for getting drunk as early in the morning as possible.</String>
+  </TextString>
+  <TextString>
+    <Name>VealStewName</Name>
+    <String>Veal Stew</String>
+  </TextString>
+  <TextString>
+    <Name>VealStewDescription</Name>
+    <String>Stewed veal cooked with different vegetables until the meat is soft and tasty.</String>
+  </TextString>
+  <TextString>
+    <Name>CaciuccoName</Name>
+    <String>Cacciucco</String>
+  </TextString>
+  <TextString>
+    <Name>CaciuccoDescription</Name>
+    <String>A Tuscan soup made with different kinds of seafood, usually served with bread.</String>
+  </TextString>
+  <TextString>
+    <Name>ApplePieName</Name>
+    <String>Apple Pie</String>
+  </TextString>
+  <TextString>
+    <Name>ApplePieDescription</Name>
+    <String>The most classic of all pies - the apple pie!</String>
+  </TextString>
+  <TextString>
+    <Name>BarbecueRibsName</Name>
+    <String>Barbecued Ribs</String>
+  </TextString>
+  <TextString>
+    <Name>BarbecueRibsDescription</Name>
+    <String>Pork ribs cooked until the meat is soft but still wet, flavored with barbecue sauce.</String>
+  </TextString>
+  <TextString>
+    <Name>CaesarSaladName</Name>
+    <String>Caesar Salad</String>
+  </TextString>
+  <TextString>
+    <Name>CaesarSaladDescription</Name>
+    <String>An American classic - a salad made with romaine lettuce, croutons and a unique sauce.</String>
+  </TextString>
+  <TextString>
+    <Name>CheeseburgerName</Name>
+    <String>Cheeseburger</String>
+  </TextString>
+  <TextString>
+    <Name>CheeseburgerDescription</Name>
+    <String>The most famous and appreciated burger, full of creamy cheese.</String>
+  </TextString>
+  <TextString>
+    <Name>CrabCakesName</Name>
+    <String>Crab Cakes</String>
+  </TextString>
+  <TextString>
+    <Name>CrabCakesDescription</Name>
+    <String>An American recipe consisting of crab meat mixed with other ingredients and cooked in various ways.</String>
+  </TextString>
+  <TextString>
+    <Name>CreamyPotatoSaladName</Name>
+    <String>Creamy Potato Salad</String>
+  </TextString>
+  <TextString>
+    <Name>CreamyPotatoSaladDescription</Name>
+    <String>While this recipe is still considered a salad, the fact that it's filled with mayonnaise makes it a rather unhealthy choice.</String>
+  </TextString>
+  <TextString>
+    <Name>GrilledSalmonName</Name>
+    <String>Grilled Salmon</String>
+  </TextString>
+  <TextString>
+    <Name>GrilledSalmonDescription</Name>
+    <String>Sometimes salmon is so good that it only needs to be grilled and served with a little seasoning.</String>
+  </TextString>
+  <TextString>
+    <Name>GrilledSteakName</Name>
+    <String>Grilled Steak</String>
+  </TextString>
+  <TextString>
+    <Name>GrilledSteakDescription</Name>
+    <String>Grilled steaks come in thousands of varieties and are popular all around the world.</String>
+  </TextString>
+  <TextString>
+    <Name>KeyLimePieName</Name>
+    <String>Key Lime Pie</String>
+  </TextString>
+  <TextString>
+    <Name>KeyLimePieDescription</Name>
+    <String>An American dessert made of key lime juice, egg yolks and condensed milk.</String>
+  </TextString>
+  <TextString>
+    <Name>PulledPorkName</Name>
+    <String>Pulled Pork</String>
+  </TextString>
+  <TextString>
+    <Name>PulledPorkDescription</Name>
+    <String>It's basically slow-cooked pork meat that is wrecked before you eat it. But it's so good!</String>
+  </TextString>
+  <TextString>
+    <Name>RedVelvetName</Name>
+    <String>Red Velvet Cake</String>
+  </TextString>
+  <TextString>
+    <Name>RedVelvetDescription</Name>
+    <String>A traditional red-colored chocolate cake, usually served on Christmas or Valentine's Day.</String>
+  </TextString>
+  <TextString>
+    <Name>RedBeansRiceName</Name>
+    <String>Red Beans and Rice</String>
+  </TextString>
+  <TextString>
+    <Name>RedBeansRiceDescription</Name>
+    <String>"Red Beans and Ricely Yours" - Louis Armstrong's favorite recipe.</String>
+  </TextString>
+  <TextString>
+    <Name>SpicyFriedChickenName</Name>
+    <String>Spicy Fried Chicken</String>
+  </TextString>
+  <TextString>
+    <Name>SpicyFriedChickenDescription</Name>
+    <String>Southern-style deep-fried chicken.</String>
+  </TextString>
+  <TextString>
+    <Name>SurfTurfName</Name>
+    <String>Surf 'n' Turf</String>
+  </TextString>
+  <TextString>
+    <Name>SurfTurfDescription</Name>
+    <String>Seafood and red meat together. An explosion of taste.</String>
+  </TextString>
+  <TextString>
+    <Name>OystersRockfellerName</Name>
+    <String>Oysters Rockefeller</String>
+  </TextString>
+  <TextString>
+    <Name>OystersRockfellerDescription</Name>
+    <String>Oysters topped with a rich sauce made from butter, parsley and other green herbs.</String>
+  </TextString>
+  <TextString>
+    <Name>MapleBakedBeansName</Name>
+    <String>Maple Baked Beans</String>
+  </TextString>
+  <TextString>
+    <Name>MapleBakedBeansDescription</Name>
+    <String>Maple syrup, mustard, ginger. A real bomb!</String>
+  </TextString>
+  <TextString>
+    <Name>MapoTofuName</Name>
+    <String>Mapo Tofu</String>
+  </TextString>
+  <TextString>
+    <Name>MapoTofuDescription</Name>
+    <String>Tofu served in a spicy sauce with douchi and soybean paste.</String>
+  </TextString>
+  <TextString>
+    <Name>YuXiangName</Name>
+    <String>Yuxiang Eggplant</String>
+  </TextString>
+  <TextString>
+    <Name>YuXiangDescription</Name>
+    <String>Stir-fried crispy eggplant cooked with a rich, spicy and sweet sauce from Sichuan.</String>
+  </TextString>
+  <TextString>
+    <Name>SpicyTanTanSoupName</Name>
+    <String>Spicy Dan Dan Soup</String>
+  </TextString>
+  <TextString>
+    <Name>SpicyTanTanSoupDescription</Name>
+    <String>Sichuan noodle dish with pork mince, sesame and spicy chili broth.</String>
+  </TextString>
+  <TextString>
+    <Name>TeaLeafEggsName</Name>
+    <String>Tea Leaf Eggs</String>
+  </TextString>
+  <TextString>
+    <Name>TeaLeafEggsDescription</Name>
+    <String>Hard-boiled eggs with the subtle flavor of anise and the deep brown hues of black tea and soy.</String>
+  </TextString>
+  <TextString>
+    <Name>ClamSyceeName</Name>
+    <String>Clam Sycee</String>
+  </TextString>
+  <TextString>
+    <Name>ClamSyceeDescription</Name>
+    <String>Clams stuffed with a clam and pork mixture. Traditional New Year's dish from China.</String>
+  </TextString>
+  <TextString>
+    <Name>MooncakesName</Name>
+    <String>Mooncakes</String>
+  </TextString>
+  <TextString>
+    <Name>MooncakesDescription</Name>
+    <String>Traditional Chinese dessert with a rich thick filling, usually made from lotus seed paste, surrounded by a thin crust.</String>
+  </TextString>
+  <TextString>
+    <Name>RedBeanSoupName</Name>
+    <String>Red Bean Soup</String>
+  </TextString>
+  <TextString>
+    <Name>RedBeanSoupDescription</Name>
+    <String>A Chinese banquet dessert with orange peels and lotus seeds.</String>
+  </TextString>
+  <TextString>
+    <Name>MangoLoMaiChiName</Name>
+    <String>Mango Lo Mai Chi</String>
+  </TextString>
+  <TextString>
+    <Name>MangoLoMaiChiDescription</Name>
+    <String>Pastry made of rice flour, mangoes and coconut.</String>
+  </TextString>
+  <TextString>
+    <Name>PaellaName</Name>
+    <String>Paella</String>
+  </TextString>
+  <TextString>
+    <Name>PaellaDescription</Name>
+    <String>Does paella really need a description?</String>
+  </TextString>
+  <TextString>
+    <Name>GazpachoName</Name>
+    <String>Gazpacho</String>
+  </TextString>
+  <TextString>
+    <Name>GazpachoDescription</Name>
+    <String>Traditional cold soup made of raw, blended vegetables.</String>
+  </TextString>
+  <TextString>
+    <Name>BacalaPilPilName</Name>
+    <String>Baccalà Pil Pil</String>
+  </TextString>
+  <TextString>
+    <Name>BacalaPilPilDescription</Name>
+    <String>Traditional seafood dish from the Basque Country.</String>
+  </TextString>
+  <TextString>
+    <Name>CocidoMadrilenoName</Name>
+    <String>Cocido Madrileno</String>
+  </TextString>
+  <TextString>
+    <Name>CocidoMadrilenoDescription</Name>
+    <String>Chickpea-based stew from Madrid. You can find anything on your plate.</String>
+  </TextString>
+  <TextString>
+    <Name>GalicianStyleOctopusName</Name>
+    <String>Galician-Style Octopus</String>
+  </TextString>
+  <TextString>
+    <Name>GalicianStyleOctopusDescription</Name>
+    <String>A popular tapa with octopus, potatoes and paprika.</String>
+  </TextString>
+  <TextString>
+    <Name>TortillaPatateName</Name>
+    <String>Tortilla de Patate</String>
+  </TextString>
+  <TextString>
+    <Name>TortillaPatateDescription</Name>
+    <String>A traditional omelette made with eggs and potatoes.</String>
+  </TextString>
+  <TextString>
+    <Name>AsparagusEggsName</Name>
+    <String>Asparagus with Eggs</String>
+  </TextString>
+  <TextString>
+    <Name>AsparagusEggsDescription</Name>
+    <String>A tasty appetizer with scrambled eggs.</String>
+  </TextString>
+  <TextString>
+    <Name>EspinacasGarbanzosName</Name>
+    <String>Espicancas con Gabronzos</String>
+  </TextString>
+  <TextString>
+    <Name>EspinacasGarbanzosDescription</Name>
+    <String>Spinach and chickpea stew.</String>
+  </TextString>
+  <TextString>
+    <Name>JamonTapasName</Name>
+    <String>Jamon Tapas</String>
+  </TextString>
+  <TextString>
+    <Name>JamonTapasDescription</Name>
+    <String>Tapas made with one of the most expensive hams in the world.</String>
+  </TextString>
+  <TextString>
+    <Name>OctopusTapasName</Name>
+    <String>Octopus di Polpo</String>
+  </TextString>
+  <TextString>
+    <Name>OctopusTapasDescription</Name>
+    <String>Tapas made with octopus.</String>
+  </TextString>
+  <TextString>
+    <Name>PiperradaName</Name>
+    <String>Piperrada</String>
+  </TextString>
+  <TextString>
+    <Name>PiperradaDescription</Name>
+    <String>Typical Basque dish prepared with onion, green peppers and sautéed tomatoes.</String>
+  </TextString>
+  <TextString>
+    <Name>CremaCatalanaName</Name>
+    <String>Crema Catalana</String>
+  </TextString>
+  <TextString>
+    <Name>CremaCatalanaDescription</Name>
+    <String>Brûlée or Catalana? Can we really trust the French after they stole the Gioconda from us?</String>
+  </TextString>
+  <TextString>
+    <Name>BunuelosVientoName</Name>
+    <String>Bunuelos de Viento</String>
+  </TextString>
+  <TextString>
+    <Name>BunuelosVientoDescription</Name>
+    <String>Cream puff batter that bakes like a popover.</String>
+  </TextString>
+  <TextString>
+    <Name>HuevosFlamencaName</Name>
+    <String>Huevos a la Flamenca</String>
+  </TextString>
+  <TextString>
+    <Name>HuevosFlamencaDescription</Name>
+    <String>Eggs served with potatoes and vegetables. Do yourself a favor and go to Sevilla.</String>
+  </TextString>
+  <TextString>
+    <Name>SoldaditosPaviaName</Name>
+    <String>Soldaditos de Pavia</String>
+  </TextString>
+  <TextString>
+    <Name>SoldaditosPaviaDescription</Name>
+    <String>Fried salt cod with peppers.</String>
+  </TextString>
+  <TextString>
+    <Name>BienmesabeName</Name>
+    <String>Bienmasabe</String>
+  </TextString>
+  <TextString>
+    <Name>BienmesabeDescription</Name>
+    <String>Dessert prepared with honey, egg yolk and almonds. The name literally means "it tastes good!"</String>
+  </TextString>
+  <TextString>
+    <Name>FriedPrawnsName</Name>
+    <String>Fried Prawns</String>
+  </TextString>
+  <TextString>
+    <Name>FriedPrawnsDescription</Name>
+    <String>Fried prawns. Oh, yes!</String>
+  </TextString>
+  <TextString>
+    <Name>GardenSaladName</Name>
+    <String>Garden Salad</String>
+  </TextString>
+  <TextString>
+    <Name>GardenSaladDescription</Name>
+    <String>Made with anything you can find in your garden.</String>
+  </TextString>
+  <TextString>
+    <Name>IrishStewName</Name>
+    <String>Irish Stew</String>
+  </TextString>
+  <TextString>
+    <Name>IrishStewDescription</Name>
+    <String>A traditional folk dish made with meat and vegetables.</String>
+  </TextString>
+  <TextString>
+    <Name>SeaBreamFilletName</Name>
+    <String>Sea Bream Fillet</String>
+  </TextString>
+  <TextString>
+    <Name>SeaBreamFilletDescription</Name>
+    <String>Some parsley, a drop of lemon, and even the most boring fillet comes to life.</String>
+  </TextString>
+  <TextString>
+    <Name>GrilledTunaName</Name>
+    <String>Grilled Tuna</String>
+  </TextString>
+  <TextString>
+    <Name>GrilledTunaDescription</Name>
+    <String>Tuna is also perfect for barbecue.</String>
+  </TextString>
+  <TextString>
+    <Name>MushroomSoupName</Name>
+    <String>Mushroom Soup</String>
+  </TextString>
+  <TextString>
+    <Name>MushroomSoupDescription</Name>
+    <String>A bowl of mushroom soup.</String>
+  </TextString>
+  
+  <TextString>
+    <Name>BeverageWaterName</Name>
+    <String>Spring Water</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageWaterDescription</Name>
+    <String>A bottle of water! What did you expect?</String>
+  </TextString>
+  
+  <TextString>
+    <Name>BeverageWhiteWineName</Name>
+    <String>White Wine</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageWhiteWineDescription</Name>
+    <String>A bottle of white wine! What did you expect?</String>
+  </TextString>
+  
+  <TextString>
+    <Name>BeverageRedWineName</Name>
+    <String>Red Wine</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageRedWinepDescription</Name>
+    <String>A bottle of red wine! What did you expect?</String>
+  </TextString>
+
+  <TextString>
+    <Name>BouillabaisseName</Name>
+    <String>Bouillabaisse</String>
+  </TextString>
+  <TextString>
+    <Name>BouillabaisseDescription</Name>
+    <String>Traditional Provençal fish stew originating from the port city of Marseille.</String>
+  </TextString>
+  <TextString>
+    <Name>RoastedChickenGarlicName</Name>
+    <String>Roast Chicken with Garlic</String>
+  </TextString>
+  <TextString>
+    <Name>RoastedChickenGarlicDescription</Name>
+    <String>Not a good thing to eat if you're planning on kissing someone. But who'd want to kiss people and miss out on eating this delicious chicken?</String>
+  </TextString>
+  <TextString>
+    <Name>CoqVinName</Name>
+    <String>Coq au Vin</String>
+  </TextString>
+  <TextString>
+    <Name>CoqVinDescription</Name>
+    <String>Wine and rooster. The French might even know what they're doing.</String>
+  </TextString>
+  <TextString>
+    <Name>EscargotsName</Name>
+    <String>Escargots</String>
+  </TextString>
+  <TextString>
+    <Name>EscargotsDescription</Name>
+    <String>Snails cooked with butter, garlic and parsley.</String>
+  </TextString>
+  <TextString>
+    <Name>ProvencalStylePrawnsName</Name>
+    <String>Provencal-Style Prawns</String>
+  </TextString>
+  <TextString>
+    <Name>ProvencalStylePrawnsDescription</Name>
+    <String>Prawns cooked with tomato, zucchini, garlic and onion.</String>
+  </TextString>
+  <TextString>
+    <Name>BeefWellingtonName</Name>
+    <String>Beef Wellington</String>
+  </TextString>
+  <TextString>
+    <Name>BeefWellingtonDescription</Name>
+    <String>Fillet steak wrapped in puff pastry. Rordon Gamsay's best dish.</String>
+  </TextString>
+  <TextString>
+    <Name>FishChipsName</Name>
+    <String>Fish 'n' Chips</String>
+  </TextString>
+  <TextString>
+    <Name>FishChipsDescription</Name>
+    <String>Fried battered fish and hot potato chips.</String>
+  </TextString>
+  <TextString>
+    <Name>JackedPotatoName</Name>
+    <String>Jacked Potato</String>
+  </TextString>
+  <TextString>
+    <Name>JackedPotatoDescription</Name>
+    <String>Open that potato and let me put everything in it. Wait, what?</String>
+  </TextString>
+  <TextString>
+    <Name>LambPieName</Name>
+    <String>Lamb Pie</String>  
+    </TextString>
+  <TextString>
+    <Name>LambPieDescription</Name>
+    <String>Nothing screams "Middle Ages" more than British pies.</String>
+  </TextString>
+  <TextString>
+    <Name>SheperdPieName</Name>
+    <String>Shepherd Pie</String>
+  </TextString>
+  <TextString>
+    <Name>SheperdPieDescription</Name>
+    <String>Nothing screams "Middle Ages" more than British pies.</String>>
+  </TextString>
+  <TextString>
+    <Name>PineNutsName</Name>
+    <String>Pine Nuts</String>
+  </TextString>
+  <TextString>
+    <Name>PineNutsDescription</Name>
+    <String>Pine Nuts</String>
+  </TextString>
+  <TextString>
+    <Name>RoastBeefYorkshirePuddingName</Name>
+    <String>Roast Beef and Yorkshire Pudding</String>
+  </TextString>
+  <TextString>
+    <Name>RoastBeefYorkshirePuddingDescription</Name>
+    <String>Beef roasted in the oven and served with yorkshire pudding.</String>
+  </TextString>
+  <TextString>
+    <Name>PorkPieName</Name>
+    <String>Pork Pie</String>
+  </TextString>
+  <TextString>
+    <Name>PorkPieDescription</Name>
+    <String>A pie filled with pork mince. Also the name of Walter White's hat.</String>
+  </TextString>
+  <TextString>
+    <Name>ScotchEggsName</Name>
+    <String>Scotch Eggs</String>
+  </TextString>
+  <TextString>
+    <Name>ScotchEggsDescription</Name>
+    <String>Hard-boiled egg wrapped in sausage meat, coated in bread crumbs and deep-fried. Did you hear that?! My God!</String>
+  </TextString>
+  <TextString>
+    <Name>PottedShrimpsName</Name>
+    <String>Potted Shrimps</String>
+  </TextString>
+  <TextString>
+    <Name>PottedShrimpsDescription</Name>
+    <String>One of James Bond's favorite dishes.</String>
+  </TextString>
+  <TextString>
+    <Name>HaggisName</Name>
+    <String>Haggis</String>
+  </TextString>
+  <TextString>
+    <Name>HaggisDescription</Name>
+    <String>Savory pudding containing sheep's pluck, cooked encased in the animal's stomach. A bit awkward, but tasty.</String>
+  </TextString>
+  <TextString>
+    <Name>RumbledethumpsName</Name>
+    <String>Rumbledethumps</String>
+  </TextString>
+  <TextString>
+    <Name>RumbledethumpsDescription</Name>
+    <String>A traditional dish from the Scottish Borders with potato, cabbage and onion.</String>
+  </TextString>
+  <TextString>
+    <Name>BlackBunName</Name>
+    <String>Black Bun</String>
+  </TextString>
+  <TextString>
+    <Name>BlackBunDescription</Name>
+    <String>A fruit cake with raisins, currants, almonds, allspice, ginger, cinnamon and more. Yeah, the Scottish are strange people.</String>
+  </TextString>
+  <TextString>
+    <Name>BarbecuedPiggyScallopsName</Name>
+    <String>Barbecued Piggy Scallops</String>
+  </TextString>
+  <TextString>
+    <Name>BarbecuedPiggyScallopsDescription</Name>
+    <String>Scallops mixed with parsley and butter, wrapped in bacon. Damn, if I'm hungry now.</String>
+  </TextString>
+  <TextString>
+    <Name>BigosBreadBowlName</Name>
+    <String>Bigos in a Bread Bowl</String>
+  </TextString>
+  <TextString>
+    <Name>BigosBreadBowlDescription</Name>
+    <String>Stew of sauerkraut braised with meat, served in a bread bowl.</String>
+  </TextString>
+  <TextString>
+    <Name>CabbageRollsName</Name>
+    <String>Cabbage Rolls</String>
+  </TextString>
+  <TextString>
+    <Name>CabbageRollsDescription</Name>
+    <String>Cabbage leaves wrapped around a filling of pork and rice.</String>
+  </TextString>
+  <TextString>
+    <Name>BrigandPancakeName</Name>
+    <String>Brigand's Pancake</String>
+  </TextString>
+  <TextString>
+    <Name>BrigandPancakeDescription</Name>
+    <String>>Thick goulash laid on a potato pancake.</String>
+  </TextString>
+  <TextString>
+    <Name>SmokedTroutSaladName</Name>
+    <String>Smoked Trout Salad</String>
+  </TextString>
+  <TextString>
+    <Name>SmokedTroutSaladDescription</Name>
+    <String>Salad with trout, onion, celery, mayonnaise, sour cream and lemon juice.</String>
+  </TextString>
+  <TextString>
+    <Name>BeefRollsName</Name>
+    <String>Beef Rolls</String>
+  </TextString>
+  <TextString>
+    <Name>BeefRollsDescription</Name>
+    <String>Tender pieces of beef wrapped around cheese and vegetables.</String>
+  </TextString>
+  <TextString>
+    <Name>GreekStyleFishName</Name>
+    <String>Greek-Style Fish</String>
+  </TextString>
+  <TextString>
+    <Name>GreekStyleFishDescription</Name>
+    <String>Fried fillets of fish with tomato, onion, parsley and celery.</String>
+  </TextString>
+  <TextString>
+    <Name>PolishGulashName</Name>
+    <String>Polish Goulash</String>
+  </TextString>
+  <TextString>
+    <Name>PolishGulashDescription</Name>
+    <String>Polish version of the goulash, with beef, mushrooms, onion and tomato.</String>
+  </TextString>
+  <TextString>
+    <Name>PierogiName</Name>
+    <String>Pierogi</String>
+  </TextString>
+  <TextString>
+    <Name>PierogiDescription</Name>
+    <String>Traditional polish dumplings filled with sauerkraut and porcini mushrooms.</String>
+  </TextString>
+  <TextString>
+    <Name>GelfiteFishName</Name>
+    <String>Gefilte Fish</String>
+  </TextString>
+  <TextString>
+    <Name>GelfiteFishDescription</Name>
+    <String>Carp, whitefish, or pike, traditionally served as an appetizer in Ashkenazi Jewish households.</String>
+  </TextString>
+  <TextString>
+    <Name>SmalecName</Name>
+    <String>Smalec</String>
+  </TextString>
+  <TextString>
+    <Name>SmalecDescription</Name>
+    <String>Flavored pork fat with pork pieces.</String>
+  </TextString>
+  <TextString>
+    <Name>PackziName</Name>
+    <String>Pączki</String>
+  </TextString>
+  <TextString>
+    <Name>PackziDescription</Name>
+    <String>Polish doughnuts.</String>
+  </TextString>
+  <TextString>
+    <Name>WuzetkaName</Name>
+    <String>Wuzetka</String>
+  </TextString>
+  <TextString>
+    <Name>WuzetkaDescription</Name>
+    <String>Polish chocolate and cream cake.</String>
+  </TextString>
+  <TextString>
+    <Name>SpringRollsName</Name>
+    <String>Spring Rolls</String>
+  </TextString>
+  <TextString>
+    <Name>SpringRollsDescription</Name>
+    <String>Savory rolls with cabbage and other vegetable fillings inside a thinly-wrapped cylindrical pastry.</String>
+  </TextString>
+  <TextString>
+    <Name>HongKongSweetSourName</Name>
+    <String>Hong Kong Sweet Sour Pork</String>
+  </TextString>
+  <TextString>
+    <Name>HongKongSweetSourDescription</Name>
+    <String>Succulent pork pieces with pineapple, peppers and sweet and sour sauce.</String>
+  </TextString>
+  <TextString>
+    <Name>PekingDuckName</Name>
+    <String>Peking Duck</String>
+  </TextString>
+  <TextString>
+    <Name>PekingDuckDescription</Name>
+    <String>Prepared since the imperial era (1330 B.C.), the meat is characterized by its thin, crisp skin.</String>
+  </TextString>
+	<TextString>
+    <Name>JiaoziName</Name>
+    <String>Jiaozi</String>
+  </TextString>
+  <TextString>
+    <Name>JiaoziDescription</Name>
+    <String>The legendary Chinese stuffed pasta. These meat-and-vegetable-filled delicacies are one of the most popular dishes in Asian cuisine.</String>
+  </TextString>
+	<TextString>
+    <Name>AppleCreamPieName</Name>
+    <String>Apple Cream Pie</String>
+  </TextString>
+  <TextString>
+    <Name>AppleCreamPieDescription</Name>
+    <String>A soft pie filled with apple cream.</String>
+  </TextString> 
+	<TextString>
+    <Name>BananaBreadHoneyName</Name>
+    <String>Banana Bread with Honey</String>
+  </TextString>
+  <TextString>
+    <Name>BananaBreadHoneyDescription</Name>
+    <String>Soft banana bread with honey seasoning.</String>
+  </TextString>  
+	<TextString>
+    <Name>ButterCookiesName</Name>
+    <String>Butter Cookies</String>
+  </TextString>
+  <TextString>
+    <Name>ButterCookiesDescription</Name>
+    <String>Simple cookies made with butter and love.</String>
+  </TextString>  
+	<TextString>
+    <Name>ChocolateCookiesName</Name>
+    <String>Chocolate Chip Cookies</String>
+  </TextString>
+  <TextString>
+    <Name>ChocolateCookiesDescription</Name>
+    <String>Classic butter cookies with chocolate chips.</String>
+  </TextString>   
+	<TextString>
+    <Name>RoastedPotatoesName</Name>
+    <String>Roast Potatoes</String>
+  </TextString>
+  <TextString>
+    <Name>RoastedPotatoesDescription</Name>
+    <String>Sliced potatoes roasted in the oven until they are crunchy and tasty.</String>
+  </TextString>    
+	<TextString>
+    <Name>MusselsSoupName</Name>
+    <String>Mussel Soup</String>
+  </TextString>
+  <TextString>
+    <Name>MusselsSoupDescription</Name>
+    <String>A simple seafood soup made with mussels.</String>
+  </TextString>
+	<TextString>
+    <Name>TomatoSoupName</Name>
+    <String>Tomato Soup</String>
+  </TextString>
+  <TextString>
+    <Name>TomatoSoupDescription</Name>
+    <String>A light and refreshing soup made with tomatoes and potatoes.</String>
+  </TextString>
+	<TextString>
+    <Name>GarlicPotatoSoupName</Name>
+    <String>Garlic Potato Soup</String>
+  </TextString>
+  <TextString>
+    <Name>GarlicPotatoSoupDescription</Name>
+    <String>A potato soup flavored with garlic and pepper.</String>
+  </TextString>
+	<TextString>
+    <Name>CodSaladName</Name>
+    <String>Cod Salad</String>
+  </TextString>
+  <TextString>
+    <Name>CodSaladDescription</Name>
+    <String>A salad made with lettuce, tomatoes, potatoes and cod.</String>
+  </TextString>
+	<TextString>
+    <Name>LightSaladName</Name>
+    <String>Light Salad</String>
+  </TextString>
+  <TextString>
+    <Name>LightSaladDescription</Name>
+    <String>A simple salad made with common vegetables.</String>
+  </TextString>
+	<TextString>
+    <Name>TurkeySaladName</Name>
+    <String>Turkey Salad</String>
+  </TextString>
+  <TextString>
+    <Name>TurkeySaladDescription</Name>
+    <String>A rich salad made with turkey and vegetables.</String>
+  </TextString>
+	<TextString>
+    <Name>ButterPastaName</Name>
+    <String>Butter Pasta</String>
+  </TextString>
+  <TextString>
+    <Name>ButterPastaDescription</Name>
+    <String>A very simple pasta recipe seasoned with butter and black pepper.</String>
+  </TextString>
+	<TextString>
+    <Name>ClassicTomatoPastaName</Name>
+    <String>Italian Tomato Pasta</String>
+  </TextString>
+  <TextString>
+    <Name>ClassicTomatoPastaDescription</Name>
+    <String>A classic pasta recipe with tomato sauce, parmesan and basil.</String>
+  </TextString>
+	<TextString>
+    <Name>ParmesanSaucePastaName</Name>
+    <String>Fettuccine Alfredo</String>
+  </TextString>
+  <TextString>
+    <Name>ParmesanSaucePastaDescription</Name>
+    <String>A simple yet very popular pasta recipe with a sauce made using butter and parmesan.</String>
+  </TextString>
+	<TextString>
+    <Name>TomatoPastaName</Name>
+    <String>Tomato Pasta</String>
+  </TextString>
+  <TextString>
+    <Name>TomatoPastaDescription</Name>
+    <String>A simple pasta recipe with tomato sauce.</String>
+  </TextString>
+	<TextString>
+    <Name>FriedRicePrawnsName</Name>
+    <String>Fried Rice with Prawns</String>
+  </TextString>
+  <TextString>
+    <Name>FriedRicePrawnsDescription</Name>
+    <String>Sautéed rice with prawns and garlic.</String>
+  </TextString>
+	<TextString>
+    <Name>FishFilletWithOnionsName</Name>
+    <String>Cod Fillet with Onions</String>
+  </TextString>
+  <TextString>
+    <Name>FishFilletWithOnionsDescription</Name>
+    <String>A roasted cod fillet with crunchy onions.</String>
+  </TextString>
+	<TextString>
+    <Name>FishFilletWithSaladName</Name>
+    <String>Cod Fillet with Salad</String>
+  </TextString>
+  <TextString>
+    <Name>FishFilletWithSaladDescription</Name>
+    <String>A cod fillet with salad dressing.</String>
+  </TextString>
+	<TextString>
+    <Name>RoastedChickenBreastName</Name>
+    <String>Chicken Breast with Salad</String>
+  </TextString>
+  <TextString>
+    <Name>RoastedChickenBreastDescription</Name>
+    <String>A simple roasted chicken breast with salad dressing.</String>
+  </TextString>
+	<TextString>
+    <Name>RoastedTurkeyOnionName</Name>
+    <String>Roast Turkey with Onions</String>
+  </TextString>
+  <TextString>
+    <Name>RoastedTurkeyOnionDescription</Name>
+    <String>Roast turkey flavored with onions.</String>
+  </TextString>
+	<TextString>
+    <Name>SteakAndPotatoesName</Name>
+    <String>Steak and Potatoes</String>
+  </TextString>
+  <TextString>
+    <Name>SteakAndPotatoesDescription</Name>
+    <String>A simple roasted beef steak served with potatoes.</String>
+  </TextString>
+	<TextString>
+    <Name>RoastedOnionsCheeseName</Name>
+    <String>Roasted Onions in Cheese Sauce</String>
+  </TextString>
+  <TextString>
+    <Name>RoastedOnionsCheeseDescription</Name>
+    <String>Some roasted onions with tasty cheese cream.</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageRumTier1Name</Name>
+    <String>Cheap Rum</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageRumTier2Name</Name>
+    <String>Good Rum</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageRumTier3Name</Name>
+    <String>Excellent Rum</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageBrandyTier1Name</Name>
+    <String>Cheap Brandy</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageBrandyTier2Name</Name>
+    <String>Good Brandy</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageBrandyTier3Name</Name>
+    <String>Excellent Brandy</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageSakeTier1Name</Name>
+    <String>Cheap Sake</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageSakeTier2Name</Name>
+    <String>Good Sake</String>
+  </TextString>
+  <TextString>
+    <Name>BeverageSakeTier3Name</Name>
+    <String>Excellent Sake</String>
+  </TextString>
+  
+  
+  <TextString>
+    <Name>SichuanSpicyChickenName</Name>
+    <String>Sichuan Spicy Chicken</String>
+  </TextString>
+  <TextString>
+    <Name>SichuanSpicyChickenDescription</Name>
+    <String>Sichuan Spicy Chicken</String>
+  </TextString>
+  
+</TextStrings>

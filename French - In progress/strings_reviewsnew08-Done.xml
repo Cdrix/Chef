@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TextStrings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TextString>
+		<Name>ReviewTitleStandard_0_0</Name>
+		<String>TERRIBLE !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_1</Name>
+		<String>Plus jamais…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_2</Name>
+		<String>Le pire endroit au monde !!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_3</Name>
+		<String>UN GRAND NON !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_4</Name>
+		<String>Pourquoi ? POURQUOI ?</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_5</Name>
+		<String>UNE PURE MERDE !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_6</Name>
+		<String>N'essayez même pas !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_7</Name>
+		<String>NON ! NON ! NON !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_8</Name>
+		<String>MAUVAIS !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_9</Name>
+		<String>FERMER CE RESTAURANT !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_10</Name>
+		<String>Une usine à vomi…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_11</Name>
+		<String>J'ai détesté ce restaurant !!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_12</Name>
+		<String>JE NE MÉRITAIS PAS CELA !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_13</Name>
+		<String>Pire que les mèmes de Facebook !!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_14</Name>
+		<String>Mauvais... Vraiment mauvais !!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_15</Name>
+		<String>Absolument pas !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_16</Name>
+		<String>Je n'arrive pas à y croire !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_17</Name>
+		<String>Est-ce que c'est réel ?????</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_18</Name>
+		<String>AAAAAAAAAAAAAAAAAH!!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_19</Name>
+		<String>Trèèèèès mauvais !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_0_20</Name>
+		<String>Non, sérieusement, non !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_0</Name>
+		<String>Mauvais...</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_1</Name>
+		<String>N'y revenez plus…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_2</Name>
+		<String>Une mauvaise expérience</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_3</Name>
+		<String>Epouvantable…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_4</Name>
+		<String>A éviter</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_5</Name>
+		<String>Non recommandé</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_6</Name>
+		<String>Non</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_7</Name>
+		<String>N'a pas apprécié !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_8</Name>
+		<String>Certainement pas !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_9</Name>
+		<String>Tout simplement mauvais !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_10</Name>
+		<String>Nonononononono</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_11</Name>
+		<String>Ugh!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_12</Name>
+		<String>Allez ailleurs !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_13</Name>
+		<String>Nan</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_14</Name>
+		<String>Vraiment décevant</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_15</Name>
+		<String>Je m'attendais à bien plus !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_16</Name>
+		<String>Décevant !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_17</Name>
+		<String>C'est un mauvais restaurant !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_18</Name>
+		<String>N'y allez pas !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_1_19</Name>
+		<String>Mangez ailleurs…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_0</Name>
+		<String>Pourrait être mieux…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_1</Name>
+		<String>Pas assez bien !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_2</Name>
+		<String>Médiocre</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_3</Name>
+		<String>Meh</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_4</Name>
+		<String>Ils devraient faire mieux !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_5</Name>
+		<String>Le jeu n'en vaut pas la chandelle !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_6</Name>
+		<String>Pas une bonne expérience</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_7</Name>
+		<String>Pas assez bien</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_8</Name>
+		<String>J'ai connu mieux</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_9</Name>
+		<String>Restaurant médiocre…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_10</Name>
+		<String>Peut vraiment être amélioré</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_11</Name>
+		<String>Ils devraient faire mieux</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_12</Name>
+		<String>Cela pourrait être bien mieux</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_13</Name>
+		<String>Certainement pas suffisant</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_14</Name>
+		<String>Pas vraiment un bon restaurant...</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_15</Name>
+		<String>Pourrait être amélioré…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_16</Name>
+		<String>Il y a un potentiel caché quelque part…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_17</Name>
+		<String>Ils doivent faire davantage !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_18</Name>
+		<String>Mmmmmh</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_2_19</Name>
+		<String>Je m'attendais à plus…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_0</Name>
+		<String>Pas mauvais…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_1</Name>
+		<String>Correct</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_2</Name>
+		<String>C'est bon, je pense.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_3</Name>
+		<String>Un bon restaurant</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_4</Name>
+		<String>Je vais peut être y revenir</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_5</Name>
+		<String>Un restaurant correct !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_6</Name>
+		<String>Pourrait être un peu mieux !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_7</Name>
+		<String>Bien, mais pourrait être mieux</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_8</Name>
+		<String>Tout va bien</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_9</Name>
+		<String>Bien !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_10</Name>
+		<String>Eh, a du potentiel…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_11</Name>
+		<String>Bien, assez bien</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_12</Name>
+		<String>Acceptable</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_13</Name>
+		<String>Un restaurant agréable !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_14</Name>
+		<String>Un peu plus et ça pourrait être légendaire !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_15</Name>
+		<String>Du vrai potentiel ici !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_16</Name>
+		<String>Le jeu en vaut la chandelle !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_17</Name>
+		<String>J'ai apprécié !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_18</Name>
+		<String>C'est un bon restaurant !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_3_19</Name>
+		<String>Bien, Je mangerai ici à nouveau.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_0</Name>
+		<String>Excellent !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_1</Name>
+		<String>Très bon !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_2</Name>
+		<String>Un beau restaurant !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_3</Name>
+		<String>Magnifique !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_4</Name>
+		<String>Une expérience agréable</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_5</Name>
+		<String>J'y retournerai encore !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_6</Name>
+		<String>Un grand bravo !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_7</Name>
+		<String>Superbe !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_8</Name>
+		<String>Oui !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_9</Name>
+		<String>C'est comme ça qu'il faut faire !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_10</Name>
+		<String>L'excellence absolue !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_11</Name>
+		<String>Fantastique !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_12</Name>
+		<String>Wow !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_13</Name>
+		<String>Inoubliable !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_14</Name>
+		<String>Je suis étonné !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_15</Name>
+		<String>Incroyable !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_16</Name>
+		<String>C'est un vrai restaurant !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_17</Name>
+		<String>Le summum de l'excellence !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_18</Name>
+		<String>Je n'arrive pas à y croire !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewTitleStandard_4_19</Name>
+		<String>Wow !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_0</Name>
+		<String>Ce restaurant est tellement mauvais ! Je n'arrive pas à y croire.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_1</Name>
+		<String>Mon expérience a été si terrible que je ne sais même pas par où commencer.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_2</Name>
+		<String>Dans ce restaurant, j'ai mangé le pire repas de ma vie…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_3</Name>
+		<String>J'ai décidé de laisser cette critique uniquement pour épargner à d'autres la douleur de venir ici! </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_4</Name>
+		<String>Manger ici m'a ramené à mon enfance où je mangeais mes crottes de nez…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_5</Name>
+		<String>Des endroits comme celui-ci ne devraient même pas être appelés des restaurants ! J'ai failli mourir là-dedans!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_6</Name>
+		<String>OMG, cet endroit est si mauvais!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_7</Name>
+		<String>Je regrette sincèrement d'avoir donné une chance à cet endroit.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_8</Name>
+		<String>CE LIEU EST TERRIBLE !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_9</Name>
+		<String>Je n'attendais pas grand-chose, mais ils ont quand même réussi à me décevoir !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_10</Name>
+		<String>Comment est-il possible qu'un endroit comme celui-ci soit encore ouvert ???</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_11</Name>
+		<String>Je préférerai mourir de faim que de revenir ici !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_12</Name>
+		<String>Eh bien, ce doit être le PIRE endroit de la ville ! Et peut-être dans le monde !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_13</Name>
+		<String>Vous voulez vraiment savoir ce qui ne va pas dans cet endroit ? ?? Préparez-vous, il y a beaucoup de choses!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_14</Name>
+		<String>J'ai décidé d'ignorer mon instinct et de donner une chance à ce restaurant. UNE GRANDE ERREUR !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_15</Name>
+		<String>Wow, je n'arrive pas à croire que cet horrible restaurant existe.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_0_16</Name>
+		<String>J'ai écrit cette critique pour mettre en garde tout le monde contre cet endroit abominable !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_0</Name>
+		<String>Je ne pense pas que cet endroit valait l'argent que j'ai dépensé.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_1</Name>
+		<String>Mon expérience globale a été assez mauvaise.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_2</Name>
+		<String>J'ai décidé de manger ici parce que l'endroit me semblait assez correct, mais je me suis trompé.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_3</Name>
+		<String>Je n'aime pas laisser des critiques négatives sur le conseiller en chef, mais cet endroit en mérite une…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_4</Name>
+		<String>J'ai payé une bonne somme d'argent, mais je le regrette sincèrement…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_5</Name>
+		<String>Ils doivent améliorer de nombreuses choses dans de nombreux domaines.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_6</Name>
+		<String>Décevant à de nombreux égards.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_7</Name>
+		<String>Il y a de bons et de mauvais restaurants. Celui-ci est définitivement un mauvais.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_8</Name>
+		<String>Ne perdez pas votre temps ni votre argent en venant ici.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_9</Name>
+		<String>Cet endroit a besoin de sérieuses améliorations, car en ce moment, il est vraiment mauvais !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_10</Name>
+		<String>J'ai visité cet endroit l'autre jour, mais je ne peux vraiment pas le recommander…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_11</Name>
+		<String>La mienne a été une très mauvaise expérience !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_12</Name>
+		<String>Il y a beaucoup de choses que je pourrais dire sur cet endroit, mais la plupart d'entre elles sont mauvaises !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_13</Name>
+		<String>Si vous lisez cette critique, je dois vous avertir : n'allez pas ici!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_1_14</Name>
+		<String>J'ai décidé de donner une chance à ce restaurant, mais maintenant je le regrette...</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_0</Name>
+		<String>L'endroit pourrait être amélioré, je m'attendais à plus.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_1</Name>
+		<String>I really wanted to like this restaurant but it just wasn't good enough.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_2</Name>
+		<String>Definitely not enough to make me happy.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_3</Name>
+		<String>You need to improve if you want to survive in this business!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_4</Name>
+		<String>This city is full of restaurants and this one didn't give me a good reason to visit it again.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_5</Name>
+		<String>I wouldn't say terrible, but definitely not good enough.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_6</Name>
+		<String>My overall experience wasn't good enough to deserve a better rating.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_7</Name>
+		<String>Well, where to begin?</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_8</Name>
+		<String>This place is not very good.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_9</Name>
+		<String>You could do more! You could do better!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_10</Name>
+		<String>I don't want to be harsh, but they really need to improve this place…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_11</Name>
+		<String>I decided to give this place a chance, but I am not impressed.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_12</Name>
+		<String>What can I say about this place? </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_13</Name>
+		<String>I was not satisfied, for many different reasons…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_2_14</Name>
+		<String>I visited this place by chance, but it turned out to be bad…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_0</Name>
+		<String>My experience was ok.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_1</Name>
+		<String>I think this place has potential, but you guys need to step up your game!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_2</Name>
+		<String>Where to begin?</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_3</Name>
+		<String>It's a good place but it needs some more work to be perfect.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_4</Name>
+		<String>I don't regret coming here.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_5</Name>
+		<String>It's a nice place I guess…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_6</Name>
+		<String>There are many things a restaurant needs in order to offer a pleasant experience!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_7</Name>
+		<String>Not bad at all!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_8</Name>
+		<String>I visited here yesterday and I wasn't disappointed!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_9</Name>
+		<String>There are good restaurants and bad ones. I think this is going to be a good one!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_10</Name>
+		<String>I found this place while driving around the city and decided to give it a chance.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_11</Name>
+		<String>If you are thinking about eating here, let me tell you a few things about this place.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_12</Name>
+		<String>I decided to write a review to share my opinion about this place.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_13</Name>
+		<String>Well, I'd say you should give this place a chance!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_3_14</Name>
+		<String>What can I say? I had a good experience, let me tell you why!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_0</Name>
+		<String>What an awesome experience!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_1</Name>
+		<String>I felt the urge to do this review as soon as we finished eating, this place really deserves it!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_2</Name>
+		<String>Some friends told me to come here and I really need to thank them!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_3</Name>
+		<String>Wow! This place is way better than I expected!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_4</Name>
+		<String>This is a good example of how a restaurant should be managed!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_5</Name>
+		<String>A good restaurant!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_6</Name>
+		<String>A surprising experience, in many ways!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_7</Name>
+		<String>I really, really liked this place.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_8</Name>
+		<String>Thumbs up!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_9</Name>
+		<String>I have a new favorite restaurant!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_10</Name>
+		<String>Such an awesome experience, I still can't believe it!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_11</Name>
+		<String>Want to know what's so good about this place?</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_12</Name>
+		<String>I found this place by chance, and I fell in love!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_13</Name>
+		<String>Is this place real? Is this place good? Definitely!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFirstParagraphStandard_4_14</Name>
+		<String>Reviewing this place is a duty, being that it is a hallmark of excellence in town!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_0</Name>
+		<String>Eating the money I spent on dinner would've been a better idea…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_1</Name>
+		<String>I spent the whole time complaining about the restaurant, I don’t think my friends will ever invite me to dinner again.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_2</Name>
+		<String>SAVE YOURSELF FROM A POTENTIALLY DEADLY MEAL!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_3</Name>
+		<String>This place is bad in every aspect. BAAAAAAAD!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_4</Name>
+		<String>Avoid at all costs!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_5</Name>
+		<String>I felt robbed of my money! It's not right!!! THIS PLACE IS THE WORST IN TOWN!!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_6</Name>
+		<String>Everything about this place is terrible. You should avoid it at all costs!!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_7</Name>
+		<String>Je regrette sincèrement de donner une chance à cet endroit !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_8</Name>
+		<String>J'ai créé un compte sur ChefAdvisor uniquement pour faire savoir à tout le monde à quel point cet endroit craint !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_9</Name>
+		<String>Faites une faveur à tout le monde et fermez !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_10</Name>
+		<String>La police devrait fermer cet endroit pour toujours !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_11</Name>
+		<String>Les propriétaires méritent d'être arrêtés !</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_12</Name>
+		<String>If that didn't convince you to go elsewhere, then you probably deserve this place!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_13</Name>
+		<String>Eat elsewhere, that's all you need to remember!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_0_14</Name>
+		<String>You should never visit this place…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_0</Name>
+		<String>I don't think this place was worth the money I spent!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_1</Name>
+		<String>There are far better places in town. Jeez, even eating Fast Food is better…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_2</Name>
+		<String>I don't know if I expected too much or the place is just bad. The only thing I know is that I won't be coming here again.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_3</Name>
+		<String>Sorry, but you need much more to call yourself a "Restaurant" nowadays. Creating something edible is not enough. When I go to a restaurant I want to enjoy a pleasant experience.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_4</Name>
+		<String>I didn't expect much but I was disappointed anyway…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_5</Name>
+		<String>Definitely not coming again!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_6</Name>
+		<String>Save your money and eat somewhere else!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_7</Name>
+		<String>Just follow my advice and avoid this place!!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_8</Name>
+		<String>It's a big NOPE for me!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_9</Name>
+		<String>This is a place you must avoid at all costs!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_10</Name>
+		<String>Eat elsewhere, that's all you need to remember!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_11</Name>
+		<String>You should never visit this place…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_12</Name>
+		<String>I don't think this place was worth the money I spent!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_13</Name>
+		<String>Eat some discount frozen food and avoid wasting money here…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_1_14</Name>
+		<String>I created an account on ChefAdvisor only to let everyone know that this place sucks!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_0</Name>
+		<String>I expected more, but this place is just mediocre.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_1</Name>
+		<String>It was not enough… With so many restaurants available one must strive for excellence, not be satisfied with the bare minimum…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_2</Name>
+		<String>Nothing in this place was memorable and I don’t think I will ever visit this place again.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_3</Name>
+		<String>You need to improve if you want to survive in this business!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_4</Name>
+		<String>I paid good money to eat, but I expected more. The owner of this place should really do something about it…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_5</Name>
+		<String>I feel like they could do a lot more. I mean, it wasn't THAT bad but why should I spend my money here instead of going somewhere else?</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_6</Name>
+		<String>Unless something changes I have no reason to visit the place again.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_7</Name>
+		<String>Restaurants should offer a better experience than the one I can get at my own place.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_8</Name>
+		<String>Humans are not meant to spend time in crappy restaurants.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_9</Name>
+		<String>I'm not coming again until they improve this place!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_10</Name>
+		<String>This place has to improve, or it will fail very soon!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_11</Name>
+		<String>I don't feel like coming here again…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_12</Name>
+		<String>I will need a good reason to visit this place again.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_13</Name>
+		<String>The TL;DR is that it is not good.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_2_14</Name>
+		<String>Go elswewhere. This place could be better…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_0</Name>
+		<String>I will visit here again, hoping to have a better experience!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_1</Name>
+		<String>I think this place has potential, but you guys need to step up your game!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_2</Name>
+		<String>I enjoyed my meal and I will definitely come back again at least once, maybe twice!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_3</Name>
+		<String>While some things could be better, I think this place deserves to be visited!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_4</Name>
+		<String>It was a good meal and I already know I will visit again.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_5</Name>
+		<String>A few more improvements and this place will become perfect!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_6</Name>
+		<String>There are many things a restaurant needs to offer a pleasant experience!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_7</Name>
+		<String>I didn’t expect much but I was pleasantly surprised.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_8</Name>
+		<String>I liked the place, even I feel like they could do even better.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_9</Name>
+		<String>It wasn't bad, so I'm coming again since it is really close to my house.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_10</Name>
+		<String>Considering everything, I think this place deserves a chance!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_11</Name>
+		<String>I suggest you to try and see if you like this place.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_12</Name>
+		<String>I think I may visit again.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_13</Name>
+		<String>So, considering good and bad things, I still think my experience was worth the money I spent.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_3_14</Name>
+		<String>Not bad!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_0</Name>
+		<String>Thumbs up!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_1</Name>
+		<String>Keep up the good work!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_2</Name>
+		<String>You must give this place a chance!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_3</Name>
+		<String>I have a new favorite place! Guys, I love you!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_4</Name>
+		<String>A truly outstanding experience!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_5</Name>
+		<String>I’ll be visiting again, that’s for sure!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_6</Name>
+		<String>So good!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_7</Name>
+		<String>Don’t waste your time going elsewhere, this restaurant has everything you need!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_8</Name>
+		<String>Don’t waste your time with frozen food. Come here for the best experience in your life!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_9</Name>
+		<String>I am definitely eating here again! Maybe next week!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_10</Name>
+		<String>Do yourself a favor and give this place a visit!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_11</Name>
+		<String>Best restaurant ever!!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_12</Name>
+		<String>A hallmark of excellence in town!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_13</Name>
+		<String>Considering everything, this place is definitely one of the best in town!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewFinalParagraphStandard_4_14</Name>
+		<String>But stop reading reviews and just give it a try: words can't fully describe it!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_0_0</Name>
+		<String>There is nothing good I can say about this place: {NEGATIVE_COMMENT}, {NEGATIVE_COMMENT}, and {NEGATIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_0_1</Name>
+		<String>Not only {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}, but also {NEGATIVE_COMMENT}!!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_0_2</Name>
+		<String>I'm really sad that {NEGATIVE_COMMENT}! I also need to mention that {NEGATIVE_COMMENT}! </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_0_3</Name>
+		<String>The fact that {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT} made me so ******* ANGRY! </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_0_4</Name>
+		<String>I am completely disappointed: {NEGATIVE_COMMENT}, {NEGATIVE_COMMENT}, and even {NEGATIVE_COMMENT}!!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_0_5</Name>
+		<String>What's so bad??? Well, {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}!!! </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_0_6</Name>
+		<String>I can't believe that {NEGATIVE_COMMENT} and also {NEGATIVE_COMMENT}!!! </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_0_7</Name>
+		<String>The fact that {NEGATIVE_COMMENT} is unacceptable! And {NEGATIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_1_0</Name>
+		<String>While {POSITIVE_COMMENT}, I can't ignore the fact that {NEGATIVE_COMMENT}, and {NEGATIVE_COMMENT}…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_1_1</Name>
+		<String>I have to say that {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}… On the bright side, {POSITIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_1_2</Name>
+		<String>Yes, {POSITIVE_COMMENT}. But that doesn't change the fact that  {NEGATIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_1_3</Name>
+		<String>I hate to say it, but {NEGATIVE_COMMENT} and  {NEGATIVE_COMMENT}. At least {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_1_4</Name>
+		<String>Well, {POSITIVE_COMMENT}, but {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_1_5</Name>
+		<String>I didn't like that {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}. The only good thing was that {POSITIVE_COMMENT}…</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_1_6</Name>
+		<String>Ok, {POSITIVE_COMMENT}, but {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_1_7</Name>
+		<String>I don't care that {POSITIVE_COMMENT}, because {NEGATIVE_COMMENT}, and {NEGATIVE_COMMENT}!!!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_0</Name>
+		<String>Some things may be improved, for example {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}. But I have to say that {POSITIVE_COMMENT} and {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_1</Name>
+		<String>Well, {POSITIVE_COMMENT}! Also {POSITIVE_COMMENT}, but I can't ignore the fact that {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_2</Name>
+		<String>I think that {POSITIVE_COMMENT}. At the same time, I wasn't happy that {NEGATIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_3</Name>
+		<String>So, {POSITIVE_COMMENT} and {POSITIVE_COMMENT}, but to be honest {NEGATIVE_COMMENT}. </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_4</Name>
+		<String>I am not entirely satisfied because {NEGATIVE_COMMENT}. At least {POSITIVE_COMMENT}, which is nice.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_5</Name>
+		<String>Well, {POSITIVE_COMMENT}. But I wasn't happy that {NEGATIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_6</Name>
+		<String>Let's start with the fact that {POSITIVE_COMMENT} and {POSITIVE_COMMENT}, but to be honest {NEGATIVE_COMMENT}. </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_7</Name>
+		<String>I am not 100% happy because {NEGATIVE_COMMENT}. But {POSITIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_2_8</Name>
+		<String>This place needs improvements because {NEGATIVE_COMMENT} and {NEGATIVE_COMMENT}. At least {POSITIVE_COMMENT} and {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_0</Name>
+		<String>I can only complain about one thing: {NEGATIVE_COMMENT}. Everything else was ok: {POSITIVE_COMMENT}, {POSITIVE_COMMENT}, and {POSITIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_1</Name>
+		<String>Well, {POSITIVE_COMMENT} and {POSITIVE_COMMENT}! The only downside is that {NEGATIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_2</Name>
+		<String>I am not disappointed: {POSITIVE_COMMENT}, and {POSITIVE_COMMENT}! My only complaint would be that {NEGATIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_3</Name>
+		<String>Let's say that {POSITIVE_COMMENT} and {POSITIVE_COMMENT}. The only thing that I didn't like was that {NEGATIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_4</Name>
+		<String>I have to say that {NEGATIVE_COMMENT}, but everything else was just fine: {POSITIVE_COMMENT}, {POSITIVE_COMMENT}, and {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_5</Name>
+		<String>I'd say that {POSITIVE_COMMENT} and {POSITIVE_COMMENT}. The only downside was that {NEGATIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_6</Name>
+		<String>My biggest criticism is that {NEGATIVE_COMMENT}. Everything else was ok: {POSITIVE_COMMENT}, and {POSITIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_7</Name>
+		<String>So, {POSITIVE_COMMENT} and {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_3_8</Name>
+		<String>While {NEGATIVE_COMMENT}, everything else was just fine: {POSITIVE_COMMENT} and {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_4_0</Name>
+		<String>I only have nice things to say: {POSITIVE_COMMENT} and {POSITIVE_COMMENT}! Also, {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_4_1</Name>
+		<String>Truth to be told, I am quite satisfied: {POSITIVE_COMMENT} and {POSITIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_4_2</Name>
+		<String>I have literally no complaints: {POSITIVE_COMMENT} and {POSITIVE_COMMENT}. I also need to mention that {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_4_3</Name>
+		<String>Let's start with the fact that {POSITIVE_COMMENT} and {POSITIVE_COMMENT}! I can also say that {POSITIVE_COMMENT}.</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_4_4</Name>
+		<String>A positive experience with no real downsides! I'd like to mention that {POSITIVE_COMMENT} and {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_4_5</Name>
+		<String>I was positively surprised that {POSITIVE_COMMENT} and {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_4_6</Name>
+		<String>I'd like to say that {POSITIVE_COMMENT} and {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewCommentContainerStandard_4_7</Name>
+		<String>I liked that {POSITIVE_COMMENT}}! And also {POSITIVE_COMMENT}!</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_0</Name>
+		<String>the prices are incredibly high</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_1</Name>
+		<String>eating pure gold would cost less</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_2</Name>
+		<String>I needed a loan to pay the check</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_3</Name>
+		<String>a human kidney is more affordable than a dinner here</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_4</Name>
+		<String>eating here cost me a lot</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_5</Name>
+		<String>prices are preposterous</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_6</Name>
+		<String>you can't ask people to pay that much</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_7</Name>
+		<String>I spent A LOT of money</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_8</Name>
+		<String>the prices here are truly absurd</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_0_9</Name>
+		<String>food costs a lot here</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_0</Name>
+		<String>this place is not cheap</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_1</Name>
+		<String>eating here is not cheap</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_2</Name>
+		<String>the prices are quite high</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_3</Name>
+		<String>I can't afford to pay that much for a meal</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_4</Name>
+		<String>they could definitely lower their prices</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_5</Name>
+		<String>you'll spend quite some money to eat here</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_6</Name>
+		<String>the prices are really high</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_7</Name>
+		<String>I paid too much for the {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_8</Name>
+		<String>you can't ask me to pay that much for a {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_1_9</Name>
+		<String>the prices definitely need to be lower</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_0</Name>
+		<String>the prices are a little too high</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_1</Name>
+		<String>this place is not cheap</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_2</Name>
+		<String>I didn't expect to pay that much for a {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_3</Name>
+		<String>I ordered a {RECIPE} but it cost me quite a lot of money</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_4</Name>
+		<String>they could lower the prices</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_5</Name>
+		<String>they could ask for less money</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_6</Name>
+		<String>the prices were somewhat high</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_7</Name>
+		<String>I expected to spend less for my meal</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_8</Name>
+		<String>I didn't expect to spend that much</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_2_9</Name>
+		<String>I expected the place to be cheaper</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_0</Name>
+		<String>the prices were okay</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_1</Name>
+		<String>the prices were fine</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_2</Name>
+		<String>the prices were not that high</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_3</Name>
+		<String>I paid more or less what I expected for a place like this</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_4</Name>
+		<String>the restaurant's prices were in line with its offerings</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_5</Name>
+		<String>the prices were in line with the food quality</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_6</Name>
+		<String>this place has decent prices</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_7</Name>
+		<String>you'll spend reasonably in this restaurant</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_8</Name>
+		<String>I didn't spend too much for what I got</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_3_9</Name>
+		<String>I felt that the prices were honest</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_0</Name>
+		<String>the prices were surprisingly low</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_1</Name>
+		<String>I didn't expect the food to be that cheap</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_2</Name>
+		<String>the prices were more than reasonable</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_3</Name>
+		<String>I expected to pay much more for what I got</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_4</Name>
+		<String>the place has some really low prices</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_5</Name>
+		<String>eating here is much more affordable than I thought</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_6</Name>
+		<String>the prices are very good for a restaurant like this</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_7</Name>
+		<String>I paid less than I expected</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_8</Name>
+		<String>the place has really good prices</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewExpenseCommentStandard_4_9</Name>
+		<String>most courses have low prices</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_0</Name>
+		<String>the food was ATROCIOUS</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_1</Name>
+		<String>I have never eaten such bad food in my whole life</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_2</Name>
+		<String>the food was so bad I clogged my toilet</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_3</Name>
+		<String>expired frozen food is better than what they offer</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_4</Name>
+		<String>the food made me violently vomit</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_5</Name>
+		<String>I didn't expect the food to be SO BAD</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_6</Name>
+		<String>the {RECIPE} I got was terrible</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_7</Name>
+		<String>I have never tasted something as bad as the {RECIPE} </String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_8</Name>
+		<String>the Chef that made the {RECIPE} should be ashamed</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_0_9</Name>
+		<String>their {RECIPE} tasted like feces</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_0</Name>
+		<String>their food was tasteless</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_1</Name>
+		<String>their {RECIPE} was bland and tasteless</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_2</Name>
+		<String>the {RECIPE} was quite bad</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_3</Name>
+		<String>I ate some crappy food</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_4</Name>
+		<String>I got a terrible {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_5</Name>
+		<String>I felt sick after eating the {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_6</Name>
+		<String>I can cook better while blindfolded</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_7</Name>
+		<String>not even my dog would eat their {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_8</Name>
+		<String>I never expected a {RECIPE} to be THAT bad</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_1_9</Name>
+		<String>their menu is comprised of awful recipes</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_0</Name>
+		<String>their food is bland</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_1</Name>
+		<String>the food was bad</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_2</Name>
+		<String>the {RECIPE} I got was insipid</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_3</Name>
+		<String>their food overall is subpar</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_4</Name>
+		<String>I got a crappy {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_5</Name>
+		<String>I expected the {RECIPE} to be much better</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_6</Name>
+		<String>I expected the food to be better</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_7</Name>
+		<String>their {RECIPE} wasn't that good</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_8</Name>
+		<String>I found their {RECIPE} quite disappointing</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_2_9</Name>
+		<String>the {RECIPE} is nothing special</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_0</Name>
+		<String>the food was okay</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_1</Name>
+		<String>the food was decent</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_2</Name>
+		<String>their menu wasn't bad</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_3</Name>
+		<String>there are some good recipes in their menu</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_4</Name>
+		<String>the {RECIPE} was not bad</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_5</Name>
+		<String>the food quality was in line with my expectations</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_6</Name>
+		<String>the {RECIPE} I got was good</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_7</Name>
+		<String>their chefs delivered some good food</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_8</Name>
+		<String>their {RECIPE} was ok</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_3_9</Name>
+		<String>the food offer was satisfactory</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_0</Name>
+		<String>their food is excellent</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_1</Name>
+		<String>the {RECIPE} I got was awesome</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_2</Name>
+		<String>I tasted a wonderful {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_3</Name>
+		<String>the {RECIPE} I ordered tasted great</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_4</Name>
+		<String>they have an exceptional menu</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_5</Name>
+		<String>I got a terrific {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_6</Name>
+		<String>their {RECIPE} is the best in town</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_7</Name>
+		<String>their food made me fall in love</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_8</Name>
+		<String>I ate an exceptional {RECIPE}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewMealCommentStandard_4_9</Name>
+		<String>I can't believe how good the food was</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_0</Name>
+		<String>the service was awful</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_1</Name>
+		<String>it took the waiters hours to do their job</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_2</Name>
+		<String>I waited centuries to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_3</Name>
+		<String>I wanted to {ACTION} but I died and decomposed while waiting</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_4</Name>
+		<String>I grew old while waiting to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_5</Name>
+		<String>the staff did a terrible job</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_6</Name>
+		<String>I waited for so long that I digested my own intestine</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_7</Name>
+		<String>I wasted all my smartphone data while waiting to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_8</Name>
+		<String>It took so long to {ACTION} that now I can play Cyberpunk 2077 in real life</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_0_9</Name>
+		<String>I got so bored while waiting to {ACTION} that I called my parents twice</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_0</Name>
+		<String>the service could be improved a lot</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_1</Name>
+		<String>I waited too long to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_2</Name>
+		<String>I got really annoyed while waiting to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_3</Name>
+		<String>my hunger killed me while waiting to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_4</Name>
+		<String>their staff was really slow</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_5</Name>
+		<String>I waited for so long that I wanted to eat my own arms</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_6</Name>
+		<String>a customer should not have to wait so long to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_7</Name>
+		<String>I got bored while waiting to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_8</Name>
+		<String>it took too long to let me {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_1_9</Name>
+		<String>the waiters made me wait for hours</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_0</Name>
+		<String>their service was slow</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_1</Name>
+		<String>I waited for some time to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_2</Name>
+		<String>I got bored while waiting to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_3</Name>
+		<String>a customer should not have to wait so long to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_4</Name>
+		<String>their staff was really slow</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_5</Name>
+		<String>the service could definitely be improved</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_6</Name>
+		<String>I spent a lot of time waiting for the waiters to notice me</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_7</Name>
+		<String>it can't take hours to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_8</Name>
+		<String>I don't want to wait so long to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_2_9</Name>
+		<String>I got angry while waiting to {ACTION}</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_3_0</Name>
+		<String>the service was okay</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_3_1</Name>
+		<String>I didn't have to wait for too long to be served</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_3_2</Name>
+		<String>their service was decent</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_3_3</Name>
+		<String>the service was okay</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_3_4</Name>
+		<String>their service was decent even if not perfect</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_3_5</Name>
+		<String>I enjoyed a decent service</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_3_6</Name>
+		<String>the staff did a decent job considering everything</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_3_7</Name>
+		<String>they didn't make us wait for too long to be served</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_0</Name>
+		<String>their staff was really professional</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_1</Name>
+		<String>this place has an awesome staff</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_2</Name>
+		<String>the service was really good</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_3</Name>
+		<String>the service was nearly perfect</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_4</Name>
+		<String>we enjoyed a flawless service</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_5</Name>
+		<String>the staff did a good job</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_6</Name>
+		<String>their waiters made us feel at home</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_7</Name>
+		<String>I couldn't ask for better waiters</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_8</Name>
+		<String>we didn't have to wait for the waiters to notice us</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewServiceCommentStandard_4_9</Name>
+		<String>the staff took proper care of us</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_0_0</Name>
+		<String>this place was decorated by a tasteless person</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_0_1</Name>
+		<String>the place was dirty and ugly</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_0_2</Name>
+		<String>I never seen an uglier restaurant</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_0_3</Name>
+		<String>the furnishing was truly horrid</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_0_4</Name>
+		<String>the place was so awful to see that my eyes still hurt</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_1_0</Name>
+		<String>the restaurant was quite ugly to see</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_1_1</Name>
+		<String>the place had some terrible décor</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_1_2</Name>
+		<String>they should fire their interior designer</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_1_3</Name>
+		<String>they should hire a new interior designer</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_1_4</Name>
+		<String>the place could really use some better furniture</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_2_0</Name>
+		<String>they should hire a new interior designer</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_2_1</Name>
+		<String>the place could really use better furniture</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_2_2</Name>
+		<String>I didn't like the place and its furnishings</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_2_3</Name>
+		<String>some better décor could really improve the place</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_2_4</Name>
+		<String>the place needs better furniture</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_3_0</Name>
+		<String>they did a decent job furnishing the place</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_3_1</Name>
+		<String>the ambience was pleasant enough</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_3_2</Name>
+		<String>the décor was nice enough</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_3_3</Name>
+		<String>the place was nice and clean</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_3_4</Name>
+		<String>I can't complain about the furniture and décor</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_4_0</Name>
+		<String>the restaurant is gorgeous</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_4_1</Name>
+		<String>the ambience was spot on</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_4_2</Name>
+		<String>the place was one of the best looking ones I ever saw</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_4_3</Name>
+		<String>their interior designer did a great job</String>
+	</TextString>
+	<TextString>
+		<Name>ReviewEnvironmentCommentStandard_4_4</Name>
+		<String>they did an exquisite job furnishing the place</String>
+	</TextString>
+</TextStrings>

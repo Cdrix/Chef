@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+
+	<TextString>
+		<Name>FurnishingCustomerTooltipIntroID</Name>
+		<String>Different Customers have different tastes beyond food. All customers are going to judge your establishment according to those tastes.
+If you don't meet their minimum requirements in terms of Ambience, they won't even come inside your restaurant.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingCleaningName</Name>
+		<String>Ambience: General</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingCleaningDescription</Name>
+		<String>Ambience in your restaurant is not only about furnishing, but is also affected by cleanliness, decorations, and air conditioning. It may be costly, but all customers will appreciate these things.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingCountryName</Name>
+		<String>Ambience: Rustic</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingCountryDescription</Name>
+		<String>A simple style reminiscent of rural countrysides and home-cooked meals, Rustic furnishings are often appreciated for their dedication to function over form.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingModernName</Name>
+		<String>Ambience: Modern</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingModernDescription</Name>
+		<String>Designed to combine comfort and a sleek, modern look, Modern furnishings can make any restaurant look upscale.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingElegantName</Name>
+		<String>Ambience: Elegant</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingElegantDescription</Name>
+		<String>As all the rich people say, "If you've got tons of money, flaunt it!". Elegant furnishings are what you expect to see when walking into a mansion.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>RestaurantSizeMultiplierName</Name>
+		<String>Restaurant Size Multiplier</String>
+	</TextString>
+	
+	<TextString>
+		<Name>RestaurantSizeMultiplierDesc</Name>
+		<String>The bigger your restaurant, the more furnishings and decorations you will need! This multiplier affects all Ambience Style scores.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SmallRestaurantName</Name>
+		<String>Small Restaurant</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MediumRestaurantName</Name>
+		<String>Medium Restaurant</String>
+	</TextString>
+	
+	<TextString>
+		<Name>LargeRestaurantName</Name>
+		<String>Large Restaurant</String>
+	</TextString>
+	
+	<TextString>
+		<Name>VeryLargeRestaurantName</Name>
+		<String>Very Large Restaurant</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HugeRestaurantName</Name>
+		<String>Huge Restaurant</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SmallRestaurantDesc</Name>
+		<String>Having a &lt;b&gt;Small Restaurant&lt;/b&gt; you have &lt;b&gt;no negative effects&lt;/b&gt;.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MediumRestaurantDesc</Name>
+		<String>Having a &lt;b&gt;Medium Restaurant&lt;/b&gt; you will need &lt;b&gt;two times&lt;/b&gt; the usual amount of furnishing to satisfy your customers compared to a Small Restaurant.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>LargeRestaurantDesc</Name>
+		<String>Having a &lt;b&gt;Large Restaurant&lt;/b&gt; you will need &lt;b&gt;three times&lt;/b&gt; the usual amount of furnishing to satisfy your customers compared to a Small Restaurant.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>VeryLargeRestaurantDesc</Name>
+		<String>Having a &lt;b&gt;Very Large Restaurant&lt;/b&gt; you will need &lt;b&gt;four times&lt;/b&gt; the usual amount of furnishing to satisfy your customers compared to a Small Restaurant.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>HugeRestaurantDesc</Name>
+		<String>Having a &lt;b&gt;Huge Restaurant&lt;/b&gt; you will need &lt;b&gt;five times&lt;/b&gt; the usual amount of furnishing to satisfy your customers compared to a Small Restaurant.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingAlertName</Name>
+		<String>Ambience value too low!</String>
+	</TextString>
+	
+	<TextString>
+		<Name>FurnishingAlertDesc</Name>
+		<String>Even with world-class chefs and incredible food, certain Customers will never visit your Restaurant unless your Ambience score meets their requirements.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>UIRankingName</Name>
+		<String>Ranking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>UICalendarName</Name>
+		<String>Calendar</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AttractivenessTooltipFurnishingBlock</Name>
+		<String>&lt;b&gt;This Customer type will not visit your Restaurant because the Ambience rating is too low. Invest in furniture that is more expensive and/or more to their taste.&lt;/b&gt;</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialDecorName</Name>
+		<String>Furnish your place</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialDecorDescription</Name>
+		<String>You need to spend some money on furniture and decorations and raise your Ambience scores to attract customers. For now, luring Cheapskates in will be enough to make some money, so raise your Ambience scores enough to bring them in!</String>
+	</TextString>
+	
+	<TextString>
+		<Name>QuestTutorialDecorCondition</Name>
+		<String>Satisfy the Cheapskates</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CustomersGoneService</Name>
+		<String>Slow Service: </String>
+	</TextString>
+	
+	<TextString>
+		<Name>CustomersGoneMenu</Name>
+		<String>Unsatisfying Menu: </String>
+	</TextString>
+	
+	<TextString>
+		<Name>MoreFurnishingAlertName</Name>
+		<String>Need More Decorations</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MoreFurnishingAlertDescription</Name>
+		<String>Your restaurant is not clean or attractive enough for people to be willing to come inside! Spend some money on Cleaning Policies or invest in more/better decorations!</String>
+	</TextString>
+	
+	
+	
+	
+	<!-- New Furnishing -->
+	
+	<TextString>
+		<Name>PlantName</Name>
+		<String>Plant</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Plant01Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. Take care of it or it may die.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Plant02Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. Only edible for the extremely brave.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Plant03Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. A reliable, plastic model that looks just like the real thing.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Plant04Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. This one is particularly non-descript.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Plant05Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. Plant more trees outside instead of moving plants into restaurants.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Plant06Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. It's unbe-LEAF-ably hard to write jokes about plants.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Plant07Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. It's the greener shade of green.
+		
+{PERKS}</String>Condizionatore
+	</TextString>
+	
+	<TextString>
+		<Name>Plant08Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. Not meant for smoking or inhaling of any kind. 
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Plant09Description</Name>
+		<String>A simple plant, useful for decorating your restaurant. So green it almost seems foreign to this planet, as if from a place or a time where nature was never tainted by humanity.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning01Name</Name>
+		<String>Air Conditioner Breezer 500</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning01Description</Name>
+		<String>The Breezer 500 AC Unit uses modern technology to make your restaurant cooler. Also, it will lower the temperature.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning02Name</Name>
+		<String>Air Conditioner CoCoCool</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning02Description</Name>
+		<String>Despite its awful name, the CoCoCool AC Unit actually works quite nicely.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning03Name</Name>
+		<String>Air Conditioner Frost 99</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning03Description</Name>
+		<String>Do you like sweaty armpits? Of course not! No one does! Don't worry, the Frost 99 AC Unit can solve this issue with its high-tech design!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning04Name</Name>
+		<String>Air Conditioner OwnGlacier</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning04Description</Name>
+		<String>While glaciers are disappearing all around the world, cutting-edge technology will now let you buy your OwnGlacier and use it to fight the heat!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning05Name</Name>
+		<String>Air Conditioner Gelato</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AirConditioning05Description</Name>
+		<String>Everyone loves smooth, cool gelato. Now imagine that same feeling except all over your face! The Gelato AC Unit offers a lovely vanilla-flavored cool breeze!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard01Name</Name>
+		<String>Really Traditional Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard01Description</Name>
+		<String>Already seen this cupboard? Of course you have! According to our stats 97% of all grandparents around the world own this cupboard!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard02Name</Name>
+		<String>Long Traditional Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard02Description</Name>
+		<String>Why settle for a small traditional cupboard when you can buy a LONG cupboard? It's twice as traditional!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard03Name</Name>
+		<String>Another Traditional Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard03Description</Name>
+		<String>Do you want your restaurant to feel familiar? Then why not buy this really standard, classic, traditional cupboard?
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard04Name</Name>
+		<String>Design Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard04Description</Name>
+		<String>The minimalistic beauty of this cupboard will let your customers know that you at least you have good taste when it comes to furnishings, no matter how bad your food or service may be.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard05Name</Name>
+		<String>Tall Traditional Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard05Description</Name>
+		<String>Another traditional cupboard, but this one is tall instead of small or long! Wow! So much mind-blowingly vertical beauty!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard06Name</Name>
+		<String>Another Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard06Description</Name>
+		<String>Do you feel like there aren't enough cupboards in your restaurant? Do you need ANOTHER one? This is the extra one you've been looking for!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard07Name</Name>
+		<String>Tall Royal Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard08</Name>
+		<String>Royal Cupboard </String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard07Description</Name>
+		<String>Beautiful, yet sober, this royal cupboard will please even the most demanding of your customers.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard09Name</Name>
+		<String>Cube Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard09Description</Name>
+		<String>The incredible design of this cubic cupboard will amaze all of your customers!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard10Name</Name>
+		<String>Design Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard10Description</Name>
+		<String>Cupboards need to evolve to survive, and modern design is taking care of that!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard11Name</Name>
+		<String>Misplaced Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard11Description</Name>
+		<String>"You're right! This furniture piece is NOT supposed to be used in restaurants. But, we produced it and now we need to sell it, so..."
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard12Name</Name>
+		<String>Random Furniture Piece</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard12Description</Name>
+		<String>"...I mean, what do customers know about furnishing a restaurant? Just put this shit on sale and call it abstract or modern and someone will buy it!"
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard13Name</Name>
+		<String>Old Style Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard13Description</Name>
+		<String>All the beauty of an era long since past is condensed in this unique furniture piece!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard14Name</Name>
+		<String>Minimalist Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard14Description</Name>
+		<String>With its minimalist design, this cupboard is perfect to give a modern touch to your restaurant.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard15Name</Name>
+		<String>Simple Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard15Description</Name>
+		<String>Another furniture piece you may want to add to your restaurant. Or not.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard16Name</Name>
+		<String>Another Simple Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard17Name</Name>
+		<String>Slim Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard17Description</Name>
+		<String>One day our designers asked, "What if we could use less wood and charge the same price?". They did it! You can buy it now!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard19Name</Name>
+		<String>Glass Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard19Description</Name>
+		<String>Ever wanted to know the contents of a cupboard without the TEDIOUS need of opening it? Now you can!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard20Name</Name>
+		<String>Small Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard20Description</Name>
+		<String>Smaller than most cupboards, this unique furniture piece will surprise your customers!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard21Name</Name>
+		<String>Boring Minimal "Thing"</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard21Description</Name>
+		<String>"There is literally nothing we can write about this furniture piece..."
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard22Name</Name>
+		<String>Nostalgic Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard22Description</Name>
+		<String>Do you miss the good ol' days from before you were even born? You can soothe that overwhelming pain by furnishing your restaurant with pieces like this!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard23Name</Name>
+		<String>Decorated Cupboard</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Cupboard23Description</Name>
+		<String>To create something really unique we downloaded a random pattern from the internet and used it to decorate this unique piece of furniture!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TV01Name</Name>
+		<String>Television</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TV01Description</Name>
+		<String>Are your customers getting bored while waiting? A television is what you need!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror05Name</Name>
+		<String>Simple Mirror</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror05Description</Name>
+		<String>Just a mirror, with a really simple design. There is literally nothing fun or interesting you could say about it.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror06Name</Name>
+		<String>Minimal Mirror</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror06Description</Name>
+		<String>Thanks to its minimal frame, you get 20% more reflective space compared to similar products!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror08Name</Name>
+		<String>Small Decorated Mirror</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror08Description</Name>
+		<String>Don't buy a plain, standard mirror when you can buy one with a gorgeous decorated frame like this one!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror07Name</Name>
+		<String>Small Oval Mirror</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror07Description</Name>
+		<String>This small mirror, with its oval shape, is mostly a decorative item, being too small and oddly shaped to actually provide a decent mirror experience.
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror09Name</Name>
+		<String>Antique Mirror</String>
+	</TextString>
+	
+	<TextString>
+		<Name>Mirror09Description</Name>
+		<String>A truly original antique mirror, mass produced to give everyone the chance to have it!
+		
+{PERKS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>WineShelves01Name</Name>
+		<String>Wine Bottles Holder</String>
+	</TextString>
+	
+	<TextString>
+		<Name>WineShelves01Description</Name>
+		<String>The perfect way to store your wine bottles and show them off to your customers at the same time.
+		
+{PERKS}</String>
+	</TextString>
+	
+	
+	
+	
+	
+	<!-- Decisions -->
+
+	
+	
+
+	
+	<TextString>
+		<Name>UnlockDecorationTier3Name</Name>
+		<String>IKOA Prestige Furnishing</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockDecorationTier3Description</Name>
+		<String>You think IKOA only makes crappy furniture? Think again! The Prestige Furniture line is here to prove that we DO have high-quality furniture!</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>UnlockDecorationTier4Name</Name>
+		<String>FutureTech Furnishing</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockDecorationTier4Description</Name>
+		<String>The past is gone, the future is imminent! FutureTech provides you with a new generation of furniture that looks exactly like the one that is already available, but is also innovative! Can't you see how much better it is?</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>UnlockDecorationTier5Name</Name>
+		<String>Hello World Design School</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockDecorationTier5Description</Name>
+		<String>The prestigious Hello World Design School will provide you with their latest furniture prototypes. Admire the brave and daring designs of First-year students and decorate your restaurant with some truly unique furniture!</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>UnlockDecorationTier6Name</Name>
+		<String>Ideal Design Decor</String>
+	</TextString>
+
+	<TextString>
+		<Name>UnlockDecorationTier6Description</Name>
+		<String>Being popular means being able to contact Ideal Design and get your hands on their fantastic furniture. Offer a completely new experience to your customers and amaze them with the greatness of top-notch design!</String>
+	</TextString>
+
+	
+	
+	<!-- Alerts -->
+	
+	<TextString>
+		<Name>UpRankAlertName</Name>
+		<String>Rank Up!</String>
+	</TextString>
+
+	<TextString>
+		<Name>UpRankAlertDescription</Name>
+		<String>You gained enough popularity to increase your World Chef Ranking!</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DownRankAlertName</Name>
+		<String>Rank Down!</String>
+	</TextString>
+
+	<TextString>
+		<Name>DownRankAlertescription</Name>
+		<String>You lost some popularity and your World Chef Ranking decreased!</String>
+	</TextString>
+	
+	
+</TextStrings>

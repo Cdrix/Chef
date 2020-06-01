@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>TutorialStartingText1</Name>
+		<String>This is the main hub, all relevant information and panels can be accessed from here. 
+
+You can use WASD or move your mouse to the edge of the screen to move the camera. 
+
+You can use Q and E to rotate the camera.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialStartingText2</Name>
+		<String>When in need of some more help, click on the Chef Icon on the upper left of the screen, then drag it on things you want to learn more about. 
+
+Please note that not everything have additional info available.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialStartingText3</Name>
+		<String>You can also right click on the Chef Icon to open again tutorial panels like this one, when you need to read again some info.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TutorialStartingText4</Name>
+		<String>You can do all those things using the buttons on the lower left corner of the screen, there you will find the Staff Panel, the Menu Panel, and the Furnishing Panel.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUISkillsText</Name>
+		<String>Use this button to access to the Skill Panel, in which you will be able to specialize your character and increase the overall quality of your Restaurant. 
+
+It's time to offer something better than microwawed discount food!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUIMenuText</Name>
+		<String>Use this button to access to the Menu Panel, in which you will be able to add pre-made and custom recipes to this Restaurant's menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUIStaffText</Name>
+		<String>Use this button to access to the Staff Panel and hire new people for your Restaurant. Or fire the lazy ones, there are no labor unions in this world. 
+
+&lt;i&gt;Capitalism Intensifies&lt;/i&gt;</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUIEditorText</Name>
+		<String>Use this button to access to the Recipe Editor, which allows you to create custom Recipes with the Ingredients and Recipes Templates you unlocked.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUIFurnishingText</Name>
+		<String>Use this button to access to the Furnishing Panel and spend unreasonable amounts of money on Kitchen Tools, Tables, Decorations. Or simply use it to change the color of Walls and Floors.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUIIngredientsText</Name>
+		<String>Use this button to open the Ingredients Panel and spend your hard-earned ingredient points to unlock new Ingredients. You will be able to use them for custom-made Recipes.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUISummaryText</Name>
+		<String>Use this button to open a panel full of statistics of any sort. It may seem boring, but after the first three bankruptcies you will often head here to understand why you are failing.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUISeatsText</Name>
+		<String>This values tell you how many Seats you have in your Restaurant and how many of them are currently taken.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUIMoneyText</Name>
+		<String>Why are you even asking me about Money? This is a management game, have you ever seen one without Money?</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMainUIPopularityText1</Name>
+		<String>This value shows you how popular you are.</String>
+	</TextString>
+
+
+
+	<TextString>
+		<Name>TutorialRecipeEditorText1</Name>
+		<String>Welcome, my friend, to the Recipe Editor! 
+
+Using this Editor, you will be able to create your own unique recipes by combining your Skills and the Ingredients you've unlocked.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorText2</Name>
+		<String>To start the process you need to select a Template, which will be the foundation of your recipe. 
+
+Different Templates can be used in different Sections of the menu. Remember that every category of Customers will have different tastes and will only visit your restaurant if you can satisfy them!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorText3</Name>
+		<String>To create a good Recipe you will have to focus on two things: Taste Balancing and Aroma Matchings.
+
+Balancing the Taste of a Recipe is not easy: use different ingredients to create a nice tasting recipe and use their Weight Slider to carefully balance their presence inside the recipe.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorText4</Name>
+		<String>You can create Aroma Matchings in a recipe by combining two ingredients that have a Match. You can click on an ingredient to check its Matches: Light Green means a decent Match, Dark Green means a good one, Light Blue is a terrific Match! 
+
+But be careful! Each missed Match will confer a slight penalty to the Recipe Evaluation, while ingredients without any single Match will give a strong penalty.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorText5</Name>
+		<String>Your skill will have deep influence on this Editor, allowing you to work with more Templates, reduce Costs, improve the Evaluation and reduce the overall Cooking Time.
+
+You should also unlock more Ingredients in the Ingredient Panel. As you progress to the most advanced phases of the game, you will also be able to access Good and High Quality Ingredients, which provide bonuses to the overall Evaluation of your recipe.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorText6</Name>
+		<String>Wait! One last thing! All Recipes have unique Perks.
+
+The Green one is the Mandatory Perk, you can't save the recipe if you don't meet its requirements!
+
+The other ones can be unlocked by spending skill points in the Character Panel, and will help you create better recipes!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorRatingText</Name>
+		<String>This is the overall rating of the recipe you are creating.
+
+The higher, the better. It is that simple.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorTastesText1</Name>
+		<String>All those sliders represent the Taste Values of your recipe. Both high and low values can negatively affect the final Rating of your recipe. 
+
+The secret with Tastes is learning how to properly balance them!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorTastesText2</Name>
+		<String>The Tooltip on each Taste will give you more info. You may notice that some Tastes balance each others, while some other strengthen each others.
+
+The Sliders will show you both the Real Taste Value (in dark red, very fashionable) and the Perceived Taste Value (in bright red, less fashionable).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorTastesText3</Name>012
+		<String>You need to use Ingredients will different Taste Values to get the higher Real Taste Values as possible, while keeping the Perceived Taste Value at bay.
+
+No one likes when the Fried Chicken is too oily, that's why some cultures put Lemon Juice on it: its Sour Taste balance the Greasy Taste.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorFlavorMatchingsText1</Name>
+		<String>This composite Slider here communicates you how many Flavor Matchings you have in the recipe. Each Ingredient has several Flavor Matchings with others ingredients.
+
+There are three tiers of Positive Matchings: Perfect, Very Good, and Good.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorFlavorMatchingsText2</Name>
+		<String>When an Ingredient has no Flavor Matchings with all other Ingredients in the Recipe, you will get an Absent Matching, yielding a certain penalty to the Recipe Rating
+
+But if an Ingredient has at least one Positive Matching, every missing Matching will count as a Neutral Matching and give you only a slight penalty.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorFlavorMatchingsText3</Name>
+		<String>The more Flavor Matchings you put in the Recipe, the higher will be its Rating.
+
+Just be careful with adding too many ingredients, it's hard to find a proper balance with a tomatillion ingredients in the Recipe.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorTagsText1</Name>
+		<String>This field shows all Tags your recipe has. Tags describe a recipe beyond its mere stats: is it Vegan? Does it contain Meat? Is it Healthy?
+
+Differently tagged recipes will attract different customers to you Restaurant.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorSlotsText1</Name>
+		<String>Those are the various Ingredient Slots of your recipe.
+
+There are three kinds of Ingredients Slots, reserved to Main Ingredients, Important Ingredients, and Secondary Ingredients. The first line is for Main Ingredient, the second for Important ones, the third for Secondary Ones.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorSlotsText2</Name>
+		<String>Main Ingredients are the foundation of your recipe and they have specific constraints. You can't create a Pasta recipe without Pasta as well as you can't create Meatballs without Meat.
+
+When you place an Ingredient in those slots you will notice that they will cost more than in other slots, because the amount of food needed for Important Ingredients is higher and therefore it will have a stronger impact on the Recipe Taste Values.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorSlotsText3</Name>
+		<String>Important Ingredients are the ones you will use to give Taste and Flavour to your recipe. 
+
+Ingredients placed in those slots will have average values, both in terms of amount and of Taste Values.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialRecipeEditorSlotsText4</Name>
+		<String>Secondary Ingredients are used to add additional flavour and quality to your Recipe.
+
+When placed in those slot an ingredient will come in low amounts, therefore its effect on Taste Values will be lower, they won't trigger any Neutral Aroma Matching, and they won't activate Tags of any sort.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialStaffScreenMainText1</Name>
+		<String>Welcome to the Staff Screen - the place that allows you to hire and fire people with no remorse.
+
+You can choose Personnel to hire using the scroll view on the right.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialStaffScreenMainText2</Name>
+		<String>Each Staff Member will have a certain daily wage and different skills, be careful with what you hire. You won't probably need a second Chef at the beginning.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMenuScreenMainText1</Name>
+		<String>This is the Menu of your Restaurant. Using the scroll view on the right you can add recipes to the Menu and customers will be able to order them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMenuScreenMainText2</Name>
+		<String>You can freely adjust the prices, feel free to put pretty much anything at 5 dollars, since it's a good price anyone will be willing to pay. Don't raise your prices too much, or people won't come in!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMenuScreenMainText3</Name>
+		<String>You need proper tools to add recipes to the menu. You can't fry without a fryer, you can't roast without an oven! Most recipes requires at least two tools, the Counter is required in most cases!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMenuScreenMainText4</Name>
+		<String>Pay attention to the Tags of the Recipes in your Menu, because they can change the Dynamic Perks of your Restaurant.
+
+Dynamic Perks define the offer of your restaurant, bringing more Customers belonging to certain categories while decreasing others. You can't make everyone happy, but attracting as many Customers as possible may be very important!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialSkillPanelMainText1</Name>
+		<String>This is the Skill Panel. Here you will be able to spend Skill Points to specialize your character.
+
+You can buy both Skills, which give you different bonuses, and Templates, which allow you to create different Recipes.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialSkillPanelMainText2</Name>
+		<String>The best Skills can only be unlocked through dedication and sacrifice. You'd better prepare yourself to spend a lot of time cooking - spending points in a single tree is vital in order to become the best.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialFurnishingMain1</Name>
+		<String>This is the Furnishing Panel. Here you can change the color of both the Walls and Floors, but also place all kinds of objects in your Restaurant.
+
+In the Walls and Floors Screen you will be able to change how they appear in the restaurant, everyone of them has several different colors and variants.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialFurnishingMain2</Name>
+		<String>In the Furniture Screen you will be able to buy Cooking Tools, Tables, and various Decorations! Those are very useful, but be careful not to spend too much!
+
+	Decoration are useful, along cleaning Policies, to increase the Atmosphere rating of the restaurant.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialFurnishingMain3</Name>
+		<String>To sell something, just select the item with the Furnishing Panel open, then the sell botton will appear. Selling items has no penalties if you buy and sell them without closing the Furnishing Panel</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialIngredientsPanelText1</Name>
+		<String>This is the Ingredients Panel. Here you can unlock new ingredients that can be used in custom Recipes.
+
+You can click and drag with your mouse to navigate this panel!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialIngredientsPanelText3</Name>
+		<String>Ingredients are divided in three tiers of quality: Normal, Good, and Gourmet. The better the quality of an ingredients, the more evaluation it will add to your recipes!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialIngredientsPanelText2</Name>
+		<String>You can use Ingredients points to unlock Ingredients. This will also allow you to unlock some pre-made recipes, that will be available once you'll have all the ingredients they need to be prepared!</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TutorialCAPanelText1</Name>
+		<String>This is ChefAdvisor! Here you will be able to see what customers think of your restaurant. Sometimes people will get angry and leave bad reviews without a real reason, but ultimately it is a good tool to measure how you are doing. </String>
+	</TextString>
+	<TextString>
+		<Name>TutorialCAPanelText2</Name>
+		<String>Remember that everyone with a smartphone can access ChefAdvisor, so if your rating starts dropping you can expect fewer people to visit your place.
+
+Also, not everyone is interested in the same things. Workers expect good service, but Food Enthusiasts only care about how good your food is. Finding an ideal target for yourself is the best thing to do!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialCAPanelText3</Name>
+		<String>After receiving 30 reviews, you will unlock Chef Advisor's Perks. Those perks will appear in the main Chef Advisor's screen and affect the customers' pool. 
+
+	Having high ratings is always useful, but every customer group have unique priorities. Low reviews for prices will scare Cheapskates away, while Food Enthusiasts won't care that much.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialPoliciesPanelText1</Name>
+		<String>This is the Policies and Decisions screen. Here you will be able to set up policies for your restaurant, if you want to learn more about them just hover your mouse over the one you'd like to know more about and read the tooltip. Use them to get rid of unwanted customer categories, and focus on the best ones!
+
+	BE CAREFUL WITH THEM! You can't hope at the beginning to spend thousands on advertising, they could easily lead to bankrupt!</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialPoliciesPanelText2</Name>
+		<String>Each Policy has different options and you can activate the ones you prefer. When you are done with your desired setup, press on the "Apply Changes" button to activate them.
+
+	Policies may have a hourly or daily cost, but despite that they will only impact your budget at the end of the day.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialPoliciesPanelText3</Name>
+		<String>Decisions are something different, they have an immediate effect but can only be activated if certain requirements are met. Their effects are varied, ranging from unlocking new tools to search for people to hire!</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TutorialMap1</Name>
+		<String>Welcome to Chef! This is the City Map, from here you will be able to rent your first restaurant. To begin, navigate the map using your mouse or pressing WASD.
+
+	Click on a District icon to select a District and see its stats and what restaurants are available for rent.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMap2</Name>
+		<String>Click on the Rent button once you decided where to start. But be really careful with the weekly rent, you don't want it to be too high!
+
+	To find lower rents, move away from the city center. The more central the District, the higher are rent prices.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TutorialMap3</Name>
+		<String>Each District has a certain pool of potential customers. During the course of the game, your popularity will grow and you will be able to extend your influence over new Districts.
+
+	But don't worry about it now, you will be notified once you gain your first Influence Point. For now, simply choose the best location for your restaurant, taking into account that your starting district is only the beginning, and you will soon be able to extend your influence around it!</String>
+	</TextString>
+
+	<TextString>
+		<Name>InfoPanelControls</Name>
+		<String>You can control the game's camera using your mouse and keyboard. Screaming at your screen won't work for now because we didn't include voice commands in the game.
+
+The default keys to move the camera are W A S D.
+
+The default keys to rotate the camera are Q and E.
+
+You can use the Mouse Wheel to zoom in or out.
+
+
+
+Most relevant Panels can be accessed in the main hub, their buttons will be in the lower left area of the screen. The big red ones, the ones that look important.
+
+You can use the buttons on the lower right area of the screen to pause or unpause the game, and to choose the speed of the simulation.
+
+You can pause/unpause the game anytime by pressing SPACE, unless there are some pending issues in need of your attention. 
+Feel free to pause the game anytime you need to change or fix something in the restaurant. Thanks to some advanced technologies your customers won't even notice time has stopped!
+
+In case you want to close a certain UI because it bored you, you can press ESC.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>InfoPanelFurnishing</Name>
+		<String>Using the big red button with a table icon on the lower left side of the screen you can open the Furnishing Panel.
+
+You can use it to change the appearance of your walls and floors. It costs nothing, so feel free to experiment!
+
+You can also use it to furnish the place, choosing between several different items divided in different categories. A restaurant needs Tools, Tables, and Decorations to provide a decent offer to its customers.
+
+Remember: more tables, more customers, more money. But be sure your staff can handle all those tables, check ChefAdvisor to see how your place is going and what may require some tweaks.
+
+After you buy stuff, you can click on it to move it somewhere else, or sell it for half the money you originally spent on it.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>InfoPanelStaff</Name>
+		<String>You need an experienced Staff to run a successful restaurant, too bad that at the beginning of your career you'll only be able to hire unexperienced people with your thight budget and non-existent reputation.
+
+After being hired, a new Staff Member will have a certain amount of Skill Points available, you can access the Character Panel to use those Skill Points to specialize your Staff Member. Sometimes it will be better to have a jack of all trades, some others having a highly specialized staff will improve the restaurant's performances.
+
+You can search for new candidates by clicking on the ugly buttons on the lower right area of the Staff Panel. New candidates will appear: the more popular you are, the better candidates you can find.
+
+After hiring someone, you will see their Skill Radials and their Morale in the left area of the Staff Panel. The Skill Radials will help you immediately identify in which field a certain person is specialized, while the Morale is something you need to keep under control to avoid losing your highly trained Staff Members.
+
+Once their Morale will reach the bottom, identified with black icon of a really sad stickman smoking a cigarette, you risk to lose a Staff Member. You can avoid that by letting them rest more often and/or using proper policies to increase their Morale at the end of the day.
+
+Morale is also increased if customers are happy, since your staff won't be insulted by them.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>InfoPanelEditor</Name>
+		<String>The Recipe Editor is your tool to create unique Recipes, turn into a real chef, and even try to poison Customers.
+
+The first step when creating a Recipe is selecting a Template, a Name, an icon, and a Menu Section.
+
+Each Template has different rules and characteristics, and not all Templates can be used for all different Menu Sections. Templates can be unlocked by spending Skill Points earned by your Chef.
+
+After choosing those details, you can access to the Ingredients Screen, in which you can add Ingredients to the Recipe, change their quantity, tune Taste and Flavor.
+
+Your objective is to create a Recipe with a high Evaluation, the Tags you need for your menu, and possibly a low Cost and Cooking Time. Combining Ingredients to achieve all those things won't be easy, but it will grant you nice margins of profit.
+
+A Recipe's Evaluation depends on four factors: the Taste, the Flavor, the Template Perks, your Skills.
+
+To get a high Taste score a Recipe need balanced Taste values, without being too high or too low. Each Ingredient taste value is also affected by the quantity that's used of such Ingredient, and the overall weight of the Recipe. Tune the weight carefully and use ingredients with a high Taste value, like Salt or Oil, to tune the Recipe's Taste.
+
+To get a high Flavor score a Recipe need several Aromatic Matchings between ingredients. You can click on any Ingredient to learn which ones are good with it: light green represents a decent matching, dark green a good one, blue an excellent one. The more matchings, the higher the score. But remember: for each ingredient without a proper matching the score will be lowered.
+
+Some Ingredients, like Pasta or Salt, are Aroma Neutral, meaning that they won't provide bonuses or penalties!</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>InfoPanelMenu</Name>
+		<String>The Menu is probably the most important thing in your restaurant and it will dramatically affect the number of customers coming to your place, changing the Attractiveness.
+
+You can add both Pre-made and Custom Recipes to your Menu. More Pre-made Recipes can be unlocked by unlocking Ingredients, while you can create your own Custom Recipes using the Recipe Editor.
+
+When adding a Recipe to the menu, several factors must be taken into account: each Recipe has a certain Cooking Time, Cost, required Tools, and Tags.
+
+The higher the Cooking Time, the more your Chefs will be busy.
+
+The higher the cost, the lower will be your margin of profit. You better spend some time in the editor, trying to create good and cheap Recipes, since it may be one of the best way to make profits!
+
+Depending on the required Tools, you may need to add more of them to the kitchen, since they can only process a limited amount of food.
+
+Tags are extremely important to activate Menu Perks, which can be seen right below the Menu. Your Menu needs to have a proper theme to properly lure specific Customers, and each Customer Category will have different tastes. 
+
+When editing the Menu you will see changes on all those bars on the right. That is the Attractiveness: the higher it is, the more customers of a certain Category will visit your place. Having 50'000 Gourmet Customers in your sphere of Influence won't be enough to bring them to your Restaurant, you will also need to tune your Menu and Marketing to attract them.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>InfoPanelTipsMain</Name>
+		<String>Running a successful restaurant is not an easy task, and you will face several challenges. Even once you start making profits, you will have to carefully improve the place to meet the needs of more demaning customers!
+
+Here's a list of tips and advices to help you run your restaurant:
+		</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>SummaryInfoString</Name>
+		<String>TUTORIAL</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>InfoPanelTips1</Name>
+		<String>While reviews are useful to know more about your place and to gain Popularity, the most important thing is to make enough money to have a profit.
+5 stars reviews are good, but making money is better!</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>InfoPanelTips2</Name>
+		<String>Be sure to place enough Tables to fill the place with customers, but also enough Waiters to properly serve all those customers. Having more tables can bring you the profit you desperately need!</String>
+	</TextString>
+
+	<TextString>
+		<Name>InfoPanelTips3</Name>
+		<String>Your first priority after starting a new game should be gaining Popularity. More Popularity means more and better Customers. But don't be too greedy, or you may spend all the money you have.</String>
+	</TextString>
+
+	<TextString>
+		<Name>InfoPanelTips4</Name>
+		<String>Spend the Influence Points you earned to increase the Customers Pool to gain more daily customers. Even with a low Attractiveness value for that Customer Category you will get more visitors.</String>
+	</TextString>
+
+	<TextString>
+		<Name>InfoPanelTips5</Name>
+		<String>Specialize! It's not easy to please everyone, and it's better to focus on a single Customer Category instead of getting a lot of negative Reviews!</String>
+	</TextString>
+
+	<TextString>
+		<Name>InfoPanelTips6</Name>
+		<String>Losing money at the beginning of the game is not too worrisome, in a matter of a few days your good investments may bring some real profits</String>
+	</TextString>
+
+	<TextString>
+		<Name>InfoPanelTips7</Name>
+		<String>Read reviews carefully! If someone complains because it takes too long to get the food it's not necessarily because your waiters are too busy, but maybe the kitchen lacks the Chefs or the Tools needed to process all those orders.</String>
+	</TextString>
+
+
+
+</TextStrings>
+

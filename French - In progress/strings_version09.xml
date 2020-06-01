@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+	<TextString>
+		<Name>AvatarExecutiveString</Name>
+		<String>You are the Executive Chef in this Restaurant.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExecCurrentLevelNamec</Name>
+		<String>Current Level</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MultipleRestaurantsDecisionName</Name>
+		<String>Multiple Restaurants License</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MultipleRestaurantsDecisionDescription</Name>
+		<String>Once you'll be popular enough, the City Mayor will allow you to have more than one Restaurant and start creating your own Empire of Food!</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MoveRestaurantName</Name>
+		<String>Move to a different Restaurant.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MoveRestaurantDesc</Name>
+		<String>Leave the current Restaurant and move to a new one, keeping your staff and selling your furniture.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>NewRestaurantName</Name>
+		<String>Open a new Restaurant</String>
+	</TextString>
+	
+	<TextString>
+		<Name>NewRestaurantDesc</Name>
+		<String>Open a new place while leaving the current Restaurant in the hands of an Executive Chef.
+		
+This option will unlock once you gained enough Popularity.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>ExecCurrentLevelDesc</Name>
+		<String>Executive Chefs will acquire experience at the end of the day and will eventually level up. They reach their maximum capabilities at level 3.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>EndDayMoraleSimulatedString</Name>
+		<String>Morale change in this Restaurant are based on your performances before leaving it.
+
+In case of Morale losses, you can switch back to this Restaurant and prevent income penalties do to the Staff's low Morale</String>
+	</TextString>
+
+	<TextString>
+		<Name>CenterOnRestaurantString</Name>
+		<String>Center camera on Restaurant</String>
+	</TextString>
+
+	<TextString>
+		<Name>MissingExecName</Name>
+		<String>Executive Chef Needed!</String>
+	</TextString>
+	<TextString>
+		<Name>MissingExecDesc</Name>
+		<String>This Restaurant has no Executive Chef, meaning it will severely underperform unless you hire one in the Restaurants Panel.</String>
+	</TextString>
+
+	<TextString>
+		<Name>RestLowMorName</Name>
+		<String>Morale Issues!</String>
+	</TextString>
+	<TextString>
+		<Name>RestLowMorDesc</Name>
+		<String>One or more Staff Members in this Restaurant have a low Morale and they will negatively affect the overall performances unless you go back to the place and fix the issue.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ActiveRestString</Name>
+		<String>Your Current Restaurant</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>RestaurantWordStringID</Name>
+		<String>Restaurant</String>
+	</TextString>
+	<TextString>
+		<Name>ExecLevelsDesc</Name>
+		<String>Executive Chefs improve their skills over time up to two time. Each day of employment gives them a single Skill Point, they need 10 to reach level 2 and another 20 to reach level 3.</String>
+	</TextString>
+
+	<TextString>
+		<Name>SUBPANEL_OPEN_OWNEDRESTAURANTS_String</Name>
+		<String>Open Restaurants Panel</String>
+	</TextString>
+
+	<TextString>
+		<Name>RestaurantsPanelString</Name>
+		<String>Restaurants Panel</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveMultiplyPeople10String</Name>
+		<String>+5% Customers visiting the Restaurant every day.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveMultiplyPeople20String</Name>
+		<String>+7.5% Customers visiting the Restaurant every day.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveMultiplyPeople30String</Name>
+		<String>+10% Customers visiting the Restaurant every day.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveMultiplyExpense10String</Name>
+		<String>+5% increased spending budget for all Customers.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveMultiplyExpense20String</Name>
+		<String>+7.5% increased spending budget for all Customers.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveMultiplyExpense30String</Name>
+		<String>+10% increased spending budget for all Customers.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveAdditionalExpense10String</Name>
+		<String>+1$ spent by each Customer.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>ExecutiveAdditionalExpense25String</Name>
+		<String>+2$ spent by each Customer.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>ExecutiveAdditionalExpense50String</Name>
+		<String>+3$ spent by each Customer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveVegLevel1String</Name>
+		<String>+5% Vegan and Vegetarians visiting the restaurant and +5% increased budget for them.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>ExecutiveVegLevel2String</Name>
+		<String>+7.5% Vegan and Vegetarians visiting the restaurant and +7.5% increased budget for them.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>ExecutiveVegLevel3String</Name>
+		<String>+10% Vegan and Vegetarians visiting the restaurant and +10% increased budget for them.</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>ExecutiveWorkersLevel1String</Name>
+		<String>+5% Workers visiting the restaurant and +5% increased budget for them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveWorkersLevel3String</Name>
+		<String>+7.5% Workers visiting the restaurant and +7.5% increased budget for them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveWorkersLevel3String</Name>
+		<String>+10% Workers visiting the restaurant and +10% increased budget for them.</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>ExecutiveFoodiesLevel1String</Name>
+		<String>+5% Food Enthusiasts and Gourmets visiting the restaurant and +5% increased budget for them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveFoodiesLevel2String</Name>
+		<String>+7.5% Food Enthusiasts and Gourmets visiting the restaurant and +7.5% increased budget for them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveFoodiesLevel3String</Name>
+		<String>+10% Food Enthusiasts and Gourmets visiting the restaurant and +10% increased budget for them.</String>
+	</TextString>
+
+
+
+	
+	<TextString>
+		<Name>ExecutiveFamiliesLevel1String</Name>
+		<String>+5% Families visiting the restaurant and +5% increased budget for them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveFamiliesLevel2String</Name>
+		<String>+7.5% Families visiting the restaurant and +7.5% increased budget for them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveFamiliesLevel3String</Name>
+		<String>+10% Families visiting the restaurant and +10% increased budget for them.</String>
+	</TextString>
+
+	
+	<TextString>
+		<Name>ExecutiveTouristLevel1String</Name>
+		<String>+5% Tourists visiting the restaurant and +5% increased budget for them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveTouristLevel2String</Name>
+		<String>+7.5% Tourists visiting the restaurant and +7.5% increased budget for them.</String>
+	</TextString>
+
+	<TextString>
+		<Name>ExecutiveTouristLevel3String</Name>
+		<String>+10% Tourists visiting the restaurant and +10% increased budget for them.</String>
+	</TextString>
+
+
+
+
+
+
+
+	<TextString>
+		<Name>CloseRestaurantName</Name>
+		<String>Close the selected Restaurant</String>
+	</TextString>
+
+	<TextString>
+		<Name>CloseRestaurantDesc</Name>
+		<String>By toggling on this option, this Restaurant will be closed at the end of the day, freeing up its Influence Area on the Map. You can't close the Restaurant you are currently managing.</String>
+	</TextString>
+
+
+
+
+
+
+
+	<TextString>
+		<Name>BeverageRedWineGoodTier1Name</Name>
+		<String>Homemade Red Wine</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedWineExcellentTier1Name</Name>
+		<String>Discount Red Wine</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedWineTier2Name</Name>
+		<String>Red Wine "Le Grand Vignoble"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedWineExcellentTier2Name</Name>
+		<String>Red Wine "Chiantino"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedWineTier3Name</Name>
+		<String>Red Wine "Angel's Blood"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedWineExcellentTier3Name</Name>
+		<String>Red Wine "Purosangue"</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>BeverageWhiteWineGoodTier1Name</Name>
+		<String>Cheap White Wine</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageWhiteWineExcellentTier1Name</Name>
+		<String>Smuggled White Wine</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageWhiteWineTier2Name</Name>
+		<String>White Wine "Infinte Sky"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageWhiteWineExcellentTier2Name</Name>
+		<String>White Wine "Pecorello"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageWhiteWineTier3Name</Name>
+		<String>White Wine "Pulignon"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageWhiteWineExcellentTier3Name</Name>
+		<String>White Wine "Blanc Blancs"</String>
+	</TextString>
+
+
+
+
+	<TextString>
+		<Name>BeverageRedBeerGoodTier1Name</Name>
+		<String>Boring Red Beer</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedBeerExcellentTier1Name</Name>
+		<String>Plain Red Beer</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedBeerTier2Name</Name>
+		<String>Red Beer "Imperial"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedBeerExcellentTier2Name</Name>
+		<String>Red Beer "Irish Fury"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedBeerTier3Name</Name>
+		<String>Red Beer "Devil's Tongue"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageRedBeerExcellentTier3Name</Name>
+		<String>Red Beer "The Red"</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>BeverageBlondeBeerGoodTier1Name</Name>
+		<String>Mysterious Blonde Beer</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageBlondeBeerExcellentTier1Name</Name>
+		<String>Cheap Blonde Beer</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageBlondeBeerTier2Name</Name>
+		<String>Blonde Beer "Super Stout"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageBlondeBeerExcellentTier2Name</Name>
+		<String>Blonde Beer "Ale's Destiny"</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageBlondeBeerTier3Name</Name>
+		<String>Blonde Beer "Leffing"</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageBlondeBeerExcellentTier3Name</Name>
+		<String>Blonde Beer "Monks' Choice"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageSodaTier1Name</Name>
+		<String>Discount Soda</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageSodaTier2Name</Name>
+		<String>Soda "Sugartime"</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageSodaTier3Name</Name>
+		<String>Soda "Ambrosia"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageColaTier1Name</Name>
+		<String>Discount Cola</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageColaTier2Name</Name>
+		<String>Cola "Dark Delicacy"</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageColaTier3Name</Name>
+		<String>Cola "Not Your Usual Cola"</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageCoffeeTier1Name</Name>
+		<String>Coffee</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageCoffeeTier2Name</Name>
+		<String>Excellent Coffee</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageCoffeeTier3Name</Name>
+		<String>Gourmet Coffee</String>
+	</TextString>
+
+	<TextString>
+		<Name>BeverageTeaTier1Name</Name>
+		<String>Tea</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageTeaTier2Name</Name>
+		<String>Excellent Tea</String>
+	</TextString>
+	<TextString>
+		<Name>BeverageTeaTier3Name</Name>
+		<String>Gourmet Tea</String>
+	</TextString>
+	
+	
+	
+	
+	<TextString>
+		<Name>ExecutiveChef01Name</Name>
+		<String>Anita Farah</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef02Name</Name>
+		<String>Tim Throttle</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef11Name</Name>
+		<String>Kim Belkin</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef12Name</Name>
+		<String>Sasuke Kido</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef21Name</Name>
+		<String>Sebastian Troy</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef22Name</Name>
+		<String>Julia Espinoza</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef31Name</Name>
+		<String>Eveline Thompson</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef32Name</Name>
+		<String>Tony Cartony</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef41Name</Name>
+		<String>Deborah Stuart</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef42Name</Name>
+		<String>Bjorn Thomasson</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef51Name</Name>
+		<String>Mia Thorn</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef52Name</Name>
+		<String>Marco Fioravalle</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef61Name</Name>
+		<String>Hannah Von Koln</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef62Name</Name>
+		<String>Jaques Dubois</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef71Name</Name>
+		<String>Erika Kain</String>
+	</TextString>
+	<TextString>
+		<Name>ExecutiveChef72Name</Name>
+		<String>Micheal "The Nice Guy"</String>
+	</TextString>
+	
+	
+	
+	
+	
+	<TextString>
+		<Name>MoveRestaurantAlertName</Name>
+		<String>Moving to a new location</String>
+	</TextString>
+	<TextString>
+		<Name>MoveRestaurantAlertDescription</Name>
+		<String>At the end of the day you will abandon the current Restaurant and move with your staff to a new one. To cancel this decision, click here to open the Map Panel.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>RentNewRestaurantAlertName</Name>
+		<String>Opening a new Restaurant</String>
+	</TextString>
+	<TextString>
+		<Name>RentNewRestaurantAlertDescription</Name>
+		<String>At the end of the day you will leave this Restaurant and open an additional one. You will be able to come back to this Restaurant in the future, and its performances will be simulated in the background. To cancel this decision, click here to open the Map Panel.</String>
+	</TextString>
+	
+	
+	
+	
+	
+	<TextString>
+		<Name>DynamicPerkAlcoholOfferName</Name>
+		<String>Alcohol Offer</String>
+	</TextString>
+	<TextString>
+		<Name>DynamicPerkAlcoholOfferDescription</Name>
+		<String>Your Restaurant offers a decent choice of alcoholic beverages.
+		
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkAlcoholSelectionName</Name>
+		<String>Alcohol Selection</String>
+	</TextString>
+	<TextString>
+		<Name>DynamicPerkAlcoholSelectionDescription</Name>
+		<String>Your Restaurant offers a wide selection of alcoholic beverages.
+		
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkMicrowaveName</Name>
+		<String>&lt;b&gt;Microwave Cooking Cheat&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>PerkMicrowaveDescription</Name>
+		<String>Reduces the Cooking Time and the Recipe's Quality at the same time. Doesn't stack.
+		
+{MODIFIERS}</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkCoffeeMachineName</Name>
+		<String>&lt;b&gt;Improved Beverages&lt;/b&gt;</String>
+	</TextString>
+	<TextString>
+		<Name>PerkCoffeeMachineDescription</Name>
+		<String>Improves the Quality of all non-alcoholic Beverages. Doesn't stack.
+		
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>UICyclicQuestsName</Name>
+		<String>Character's Leveling</String>
+	</TextString>
+	<TextString>
+		<Name>SUBPANEL_OPEN_CYCLICQUESTS_String</Name>
+		<String>Character's Leveling Panel</String>
+	</TextString>
+
+
+
+</TextStrings>

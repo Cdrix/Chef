@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>DynamicPerkMeatOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Meat offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkMeatSpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Meat.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkDessertVariety_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Dessert offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkDessertSpecialization_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Desserts.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkPastaOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Carbs offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkPastaSpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Carbs.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkSeafoodOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Seafood offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkSeafoodSpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Seafood.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkBeerSelection_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a good Beer selection.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkWineSelection_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a good Wine selection.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkVegetarianFriendly_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is Vegetarian friendly.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkVegetarian_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is Vegetarian.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkVegetarianNothing_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has no Vegetarian Recipes.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkVeganFriendly_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is Vegan friendly.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkVegan_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is Vegan.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkVeganNothing_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has no Vegan Recipes.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkLegumeOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Legumes offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkLegumeSpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Legumes.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkFruitOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Fruits offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkFruitSpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Fruits.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkDairyOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Dairy offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkDairySpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Dairy.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkSpiceOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Spices offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkSpiceSpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Spices.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DynamicPerkNutOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has a Nuts offer.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkNutSpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is specialized in Nuts.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkSeveralTemplates_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are many different Templates in the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkManyIngredients_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there is a wide variety of ingredients in the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkFewIngredients_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there is a limited number of ingredients in the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkManyVegetarianIngredients_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are many Vegetarian ingredients in the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkManyVeganIngredients_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are many Vegan ingredients in the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkAllCarbsTemplates_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are many Carbs preparations on the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkAllVeggiesTemplates_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are many Vegetables preparations on the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkAllMeatTemplates_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are many Meat preparations on the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkAllSeafoodTemplates_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are many Seafood preparations on the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkAllDessertTemplates_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are many Dessert preparations on the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkAllSectionTwo_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the menu has a decent offer of courses.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkAllSectionFour_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the menu has a good offer of courses.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkHealthyOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the overall offer is quite healthy.</String>
+	</TextString>
+	<TextString>
+		<Name>DynamicPerkHealthySpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the overall offer is really healthy.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkHeavyOffer_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the overall offer is quite caloric.</String>
+	</TextString>
+	<TextString>
+		<Name>DynamicPerkHeavySpecialized_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the overall offer is really caloric.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkShortMenu_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there is not much choice on the menu.</String>
+	</TextString>
+
+	<TextString>
+		<Name>DynamicPerkSmallMenu_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are several alcoholic beverages on the menu.</String>
+	</TextString>
+	<TextString>
+		<Name>DynamicPerkAlcoholSelection_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are a lot of different alcoholic beverages on the menu.</String>
+	</TextString>
+	
+	
+
+	<TextString>
+		<Name>PerkPopularity0_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 0.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity1_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 1.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity2_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity3_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 3.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity4_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 4.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity5_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 5.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity6_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 6.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity7_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 7.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity8_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 8.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity9_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 9.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularity10_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Popularity Level 10</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPopularityStar1_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: this place has a WebGuide Star</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPopularityStar2_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: this place has two WebGuide Stars</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPopularityStar3_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: this place has three WebGuide Stars!</String>
+	</TextString>
+
+	
+	
+	
+	
+
+	<TextString>
+		<Name>PerkOffices_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the place is close to my workplace.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkTrendy_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is in a popular area.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkHotel_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is close to my hotel.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkLuxuryHotel_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is close to my hotel.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkMuseum_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is close to the museum we came to visit.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkAmusementPark_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the place is near the amusement park we visited.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkInfamousNeighborhood_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is in a bad neighbourhood.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPrestigiousNeighborhood_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is in a nice neighbourhood.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkBreeding_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there is a breeding nearby in which animals are suffering.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkNaturalPreserve_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is inside a wonderful natural preserve.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkLandmark_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the place is really close to a local landmark.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkScreamingGuy_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there's a strange guy walking around the area, constantly screaming.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkNarrowStreets_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's really hard to find the place.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkThrivingCommerce_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: my workplace is really close.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkAnnoyingSnobs_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: people in the area think they are better than us.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkFarmersMarket_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I often buy my groceries in the nearby farmers market.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkRestaurantDistrict_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there are so many restaurants in the area.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkGentrifiedArea_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the area has changed and many new activities opened recently.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkWorkingClassDistrict_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is in a working class district.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkIsolated_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's really hard to find the restaurant...</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkTrafficked_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I'm often in the area during the day.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkOldBuilding_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the building seems to be really old.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>PerkModernBuilding_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the building is new and very modern-looking.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkStrangeSmell_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there's a strange smell in the area.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkCheapInstitution_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I used to come here a lot and prices were always very low!</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkNearbyFastFood_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: there's a fast food nearby, I'm not going to spend money on actual food...</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkNoCompetitors_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's the only restaurant in the area.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkNoParking_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's impossible to park.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkStreetGangs_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the area is dangerous. I don't want to be robbed!</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkBillboardsCheapskate_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the billboards of the place.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkBillboardsBlueCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the billboards of the place.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkBillboardsWhiteCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the billboards of the place.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkBillboardsTouristLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the billboards of the place.</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkBlogsVegetarian_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the place was mentioned by an influencer I follow.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkBlogsFoodEnthusiast_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the place was mentioned by an influencer I follow.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkBlogsVegan_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the place was mentioned by an influencer I follow.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkBlogsGourmet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the place was mentioned by an influencer I follow.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkBlogsTouristHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the place was mentioned by an influencer I follow.</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkSocialMediaCheapskate_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	<TextString>
+		<Name>PerkSocialMediaVegetarian_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	<TextString>
+		<Name>PerkSocialMediaFoodEnthusiast_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	<TextString>
+		<Name>PerkSocialMediaVegan_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	<TextString>
+		<Name>PerkSocialMediaWhiteCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	<TextString>
+		<Name>PerkSocialMediaGourmet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	<TextString>
+		<Name>PerkSocialMediaTouristHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	<TextString>
+		<Name>PerkSocialMediaFamilyHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	<TextString>
+		<Name>PerkSocialMediaTouristLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw their ad while scrolling my social media feed</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkNewspapersFoodEnthusiast_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading my newspaper.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkNewspapersWhiteCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading my newspaper.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkNewspapersGourmet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading my newspaper.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkNewspapersFamilyHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading my newspaper.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkNewspapersFamilyLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading my newspaper.</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkMagazinesVegetarian_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading a magazine</String>
+	</TextString>
+	<TextString>
+		<Name>PerkMagazinesFoodEnthusiast_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading a magazine</String>
+	</TextString>
+	<TextString>
+		<Name>PerkMagazinesVegan_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading a magazine</String>
+	</TextString>
+	<TextString>
+		<Name>PerkMagazinesWhiteCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading a magazine</String>
+	</TextString>
+	<TextString>
+		<Name>PerkMagazinesGourmet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading a magazine</String>
+	</TextString>
+	<TextString>
+		<Name>PerkMagazinesTouristHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading a magazine</String>
+	</TextString>
+	<TextString>
+		<Name>PerkMagazinesFamilyHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading a magazine</String>
+	</TextString>
+	<TextString>
+		<Name>PerkMagazinesTouristLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the place while reading a magazine</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkInternetVegetarian_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the ad while browsing the internet</String>
+	</TextString>
+	<TextString>
+		<Name>PerkInternetFoodEnthusiast_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the ad while browsing the internet</String>
+	</TextString>
+	<TextString>
+		<Name>PerkInternetVegan_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the ad while browsing the internet</String>
+	</TextString>
+	<TextString>
+		<Name>PerkInternetGourmet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the ad while browsing the internet</String>
+	</TextString>
+	<TextString>
+		<Name>PerkInternetTouristHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the ad while browsing the internet</String>
+	</TextString>
+	<TextString>
+		<Name>PerkInternetTouristLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the ad while browsing the internet</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkFlyersCheapskate_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I was handed a flyer of this place</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFlyersBlueCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I was handed a flyer of this place</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFlyersFamilyLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I was handed a flyer of this place</String>
+	</TextString>
+	<TextString>
+		<Name>PerkFlyersTouristLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I was handed a flyer of this place</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkTelevisionCheapskate_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the commercial on the TV</String>
+	</TextString>
+	<TextString>
+		<Name>PerkTelevisionBlueCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the commercial on the TV</String>
+	</TextString>
+	<TextString>
+		<Name>PerkTelevisionVegan_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the commercial on the TV</String>
+	</TextString>
+	<TextString>
+		<Name>PerkTelevisionTouristHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the commercial on the TV</String>
+	</TextString>
+	<TextString>
+		<Name>PerkTelevisionFamilyHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the commercial on the TV</String>
+	</TextString>
+	<TextString>
+		<Name>PerkTelevisionFamilyLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I saw the commercial on the TV</String>
+	</TextString>
+	
+	
+	
+	
+	<TextString>
+		<Name>PerkRadioBlueCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the commercial on the radio</String>
+	</TextString>
+	<TextString>
+		<Name>PerkRadioWhiteCollar_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the commercial on the radio</String>
+	</TextString>
+	<TextString>
+		<Name>PerkRadioFamilyHigh_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the commercial on the radio</String>
+	</TextString>
+	<TextString>
+		<Name>PerkRadioFamilyLow_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the commercial on the radio</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>PerkPolicyRelaxingExperience_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the place is all about waiting and lollygagging</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceFlyers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the place is all about waiting and lollygagging</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceInternet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the place is all about waiting and lollygagging</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceMagazines_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the place is all about waiting and lollygagging</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceSocialMedia_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the place is all about waiting and lollygagging</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceTelevision_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the place is all about waiting and lollygagging</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceBillboards_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the place is all about waiting and lollygagging</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceBlogs_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I heard the place is all about waiting and lollygagging</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>PerkPolicyEatLot_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotBillboards_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotBlogs_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotFlyers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotInternet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotMagazines_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotRadio_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotSocialMedia_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotTelevision_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they offer quantity, I want quality.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>PerkPolicyTrendy_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyBillboards_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyBlogs_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyFlyers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyTelevision_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyInternet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyMagazines_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyNewspapers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyRadio_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendySocialMedia_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: I don't really care about trends and stuff.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>PerkPolicyProteinParadise_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: protein paradise? More like murderous hell...</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyProteinParadiseBillboards_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: protein paradise? More like murderous hell...</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyProteinParadiseFlyers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: protein paradise? More like murderous hell...</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyProteinParadiseNewspapers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: protein paradise? More like murderous hell...</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyProteinParadiseRadio_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: protein paradise? More like murderous hell...</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>PerkPolicyLocalsOnly_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they are not welcoming toward tourists...</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyLocalsOnlyFlyers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they are not welcoming toward tourists...</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyLocalsOnlyNewspapers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: they are not welcoming toward tourists...</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>PerkPolicyCheapPrices_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesBillboards_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesBlogs_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesInternet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesMagazines_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesNewspapers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesRadio_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesSocialMedia_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesTelevision_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: cheap prices only means lower quality.</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>PerkPolicyElite_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's a place for posh people.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEliteBlogs_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's a place for posh people.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEliteInternet_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's a place for posh people.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEliteMagazines_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's a place for posh people.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEliteNewspapers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's a place for posh people.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEliteRadio_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's a place for posh people.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEliteSocialMedia_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's a place for posh people.</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEliteTelevision_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: it's a place for posh people.</String>
+	</TextString>
+	
+	
+	
+	
+	<TextString>
+		<Name>ExpenseAttractivenessModifierString_0</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is too expensive for me!</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExpenseAttractivenessModifierString_1</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is expensive.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExpenseAttractivenessModifierString_2</Name>
+		<String>The restaurant has acceptable prices.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExpenseAttractivenessModifierString_3</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant has affordable prices.</String>
+	</TextString>
+	
+	<TextString>
+		<Name>ExpenseAttractivenessModifierString_4</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: the restaurant is quite cheap!</String>
+	</TextString>
+	
+	
+	
+	
+	<TextString>
+		<Name>PerkScenario01Families_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Gaia's powers are messing with my mind!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkScenario01Workers_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Gaia's powers are messing with my mind!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkScenario01Foodies_Attractiveness</Name>
+		<String>&lt;b&gt;{PARAM:0 addpercent}&lt;/b&gt;: Gaia's powers are messing with my mind!</String>
+	</TextString>
+
+</TextStrings>

@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TextStrings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TextString>
+		<Name>TemplatePastaName</Name>
+		<String>Pasta</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePastaDescription</Name>
+		<String>Dried Pasta is cheap and easy to cook, coming in a thousand different varieties and seasonings.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePastaSkillDescription</Name>
+		<String>Dried Pasta is cheap and easy to cook, coming in a thousand different varieties and seasonings.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>PastaSlotName</Name>
+		<String>Pasta</String>
+	</TextString>
+	<TextString>
+		<Name>SauceName</Name>
+		<String>Sauce</String>
+	</TextString>
+	<TextString>
+		<Name>SeasoningName</Name>
+		<String>Seasoning</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFreshPastaName</Name>
+		<String>Fresh Pasta</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFreshPastaDescription</Name>
+		<String>Fresh Pasta has a better flavor and texture, not to mention that it's made with love!</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFreshPastaDescription</Name>
+		<String>Fresh Pasta has a better flavor and texture, not to mention that it's made with love!</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGnocchiName</Name>
+		<String>Gnocchi</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGnocchiDescription</Name>
+		<String>Gnocchi are small balls of pasta, usually made of flour and potatoes.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGnocchiSkillDescription</Name>
+		<String>Gnocchi are small balls of pasta, usually made of flour and potatoes.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>GnocchiSlotName</Name>
+		<String>Gnocchi</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateLasagneName</Name>
+		<String>Lasagna</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateLasagneDescription</Name>
+		<String>The Lasagna is a world-famous multi-layered kind of pasta, cooked in the oven and always delicious.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateLasagneSkillDescription</Name>
+		<String>The Lasagna is a world-famous multi-layered kind of pasta, cooked in the oven and always delicious.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateStuffedPastaName</Name>
+		<String>Dumplings</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateStuffedPastaDescription</Name>
+		<String>Tortellini, Pierogi, Ravioli, Vareniki, Cappelletti… There are so many varieties of stuffed pasta all over the world!</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateStuffedPastaSkillDescription</Name>
+		<String>Tortellini, Pierogi, Ravioli, Vareniki, Cappelletti… There are so many varieties of stuffed pasta all over the world!
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>StuffingName</Name>
+		<String>Stuffing</String>
+	</TextString>
+	<TextString>
+		<Name>RiceSlotName</Name>
+		<String>Rice</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSauteedRiceName</Name>
+		<String>Sauteed Rice</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSauteedRiceDescription</Name>
+		<String>Simple but delicious, you only need a good pan to make some Sauteed Rice.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSauteedRiceSkillDescription</Name>
+		<String>Simple but delicious, you only need a good pan to make some Sauteed Rice.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRisottoName</Name>
+		<String>Risotto</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRisottoDescription</Name>
+		<String>Famous for its creamy texture, there are thousands of different recipes for a good Risotto.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRisottoSkillDescription</Name>
+		<String>Famous for its creamy texture, there are thousands of different recipes for a good Risotto.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>CreamingRisottoName</Name>
+		<String>Creaming</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePaellaName</Name>
+		<String>Paella</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePaellaDescription</Name>
+		<String>Made in a larghe frying pan, the Paella is a delicacy made of rice mixed with countless ingredients.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePaellaSkillDescription</Name>
+		<String>Made in a larghe frying pan, the Paella is a delicacy made of rice mixed with countless ingredients.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRicePieName</Name>
+		<String>Rice Pie</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRicePieDescription</Name>
+		<String>Take some rice, make a pie of it, and put everything in the oven. And you'll have a Rice Pie!</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRicePieSkillDescription</Name>
+		<String>Take some rice, make a pie of it, and put everything in the oven. And you'll have a Rice Pie!
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledMeatName</Name>
+		<String>Grilled Meat</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledMeatDescription</Name>
+		<String>A classic for many occasions, Grilled Meat is always good despite being such a simple dish.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledMeatSkillDescription</Name>
+		<String>A classic for many occasions, Grilled Meat is always good despite being such a simple dish.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>MeatSlotName</Name>
+		<String>Meat</String>
+	</TextString>
+	<TextString>
+		<Name>SauceAndSideName</Name>
+		<String>Sauce and Side</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatStewName</Name>
+		<String>Meat Stew</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatStewDescription</Name>
+		<String>Stews are part of human diet since fire was discovered, and they never stopped being a perfect confort food.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatStewSkillDescription</Name>
+		<String>Stews are part of human diet since fire was discovered, and they never stopped being a perfect confort food.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>StewIngredientsName</Name>
+		<String>Stew Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedMeatName</Name>
+		<String>Roasted Meat</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedMeatDescription</Name>
+		<String>The oven is a perfect tool for turning some raw meat into a Roasted delicacy.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedMeatSkillDescription</Name>
+		<String>The oven is a perfect tool for turning some raw meat into a Roasted delicacy.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>SideName</Name>
+		<String>Side dish</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateBoiledMeatName</Name>
+		<String>Boiled Meat</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateBoiledMeatDescription</Name>
+		<String>While boiling meat is often considered a crime, many good dishes are made with Boiled Meat.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateBoiledMeatSkillDescription</Name>
+		<String>While boiling meat is often considered a crime, many good dishes are made with Boiled Meat.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateStuffedMeatName</Name>
+		<String>Stuffed Meat</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateStuffedMeatDescription</Name>
+		<String>What's better than some meat stuffed with other ingredients? Maybe with some more meat?</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateStuffedMeatSkillDescription</Name>
+		<String>What's better than some meat stuffed with other ingredients? Maybe with some more meat?
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatballsName</Name>
+		<String>Meatballs</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatballsDescription</Name>
+		<String>Once a mean to turn leftover meat into a new meal, now a powerful salivation stimulant.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatballsSkillDescription</Name>
+		<String>Once a mean to turn leftover meat into a new meal, now a powerful salivation stimulant.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>MeatballSlotName</Name>
+		<String>Meatballs</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateBraisedMeatName</Name>
+		<String>Braised Meat</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateBraisedMeatDescription</Name>
+		<String>Braising is not simple, but it's perfect to turn a cheap piece of meat into a true delicacy.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateBraisedMeatSkillDescription</Name>
+		<String>Braising is not simple, but it's perfect to turn a cheap piece of meat into a true delicacy.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatTartareName</Name>
+		<String>Meat Tartare</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatTartareDescription</Name>
+		<String>Some meat is so good you don't even need to cut it. Just cut it into pieces and serve it with some seasoning.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatTartareSkillDescription</Name>
+		<String>Some meat is so good you don't even need to cut it. Just cut it into pieces and serve it with some seasoning.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSauteedVeggiesName</Name>
+		<String>Sauteed Veggies</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSauteedVeggiesDescription</Name>
+		<String>Often despised by kids, sauteed veggies can be used as appetizer, side dish, and even as a main course.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSauteedVeggiesSkillDescription</Name>
+		<String>Often despised by kids, sauteed veggies can be used as appetizer, side dish, and even as a main course.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>VeggieSlotName</Name>
+		<String>Main Vegetable</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSaladName</Name>
+		<String>Salad</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSaladDescription</Name>
+		<String>Salads are the only healthy food on which you are allowed to put some mayonnaise and pretend you're still on diet.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSaladSkillDescription</Name>
+		<String>Salads are the only healthy food on which you are allowed to put some mayonnaise and pretend you're still on diet.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>SaladIngredientsName</Name>
+		<String>Salad Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>SauceAndSeasoningName</Name>
+		<String>Sauce and Seasoning</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSteamedVeggiesName</Name>
+		<String>Steamed Veggies</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSteamedVeggiesDescription</Name>
+		<String>Why cook your vegetables with violent fire when you can preserve all their flavor and vitamins using a steamer?</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSteamedVeggiesSkillDescription</Name>
+		<String>Why cook your vegetables with violent fire when you can preserve all their flavor and vitamins using a steamer?
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVegetableSoupName</Name>
+		<String>Soup</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVegetableSoupDescription</Name>
+		<String>Warm and tasty, Soups are the perfect choice for a winter lunch in front of a crackling fire.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVegetableSoupSkillDescription</Name>
+		<String>Warm and tasty, Soups are the perfect choice for a winter lunch in front of a crackling fire.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVelvetyName</Name>
+		<String>Creamy Soup</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVelvetyDescription</Name>
+		<String>Creamy Soups are like soups, but being creamy they are often more appealing for kids and/or annoying people who don't like veggies.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVelvetySkillDescription</Name>
+		<String>Creamy Soups are like soups, but being creamy they are often more appealing for kids and/or annoying people who don't like veggies.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedVeggiesName</Name>
+		<String>Fried Veggies</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedVeggiesDescription</Name>
+		<String>Go ahead and keep lying to yourself when you say that by frying vegetables you are doing something healthy after all.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedVeggiesSkillDescription</Name>
+		<String>Go ahead and keep lying to yourself when you say that by frying vegetables you are doing something healthy after all.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedMeatName</Name>
+		<String>Fried Meat</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedMeatDescription</Name>
+		<String>If everything is good when fried, what happens when you fry some juicy meat? It's even better!</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedMeatSkillDescription</Name>
+		<String>If everything is good when fried, what happens when you fry some juicy meat? It's even better!
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>AdditionalIngredientsName</Name>
+		<String>Additional Ingredients</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedFishName</Name>
+		<String>Fried Fish</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedFishDescription</Name>
+		<String>Battered seafood is not easy to fry, but it's so good…</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedFishSkillDescription</Name>
+		<String>Battered seafood is not easy to fry, but it's so good…
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>FishSlotName</Name>
+		<String>Seafood</String>
+	</TextString>
+	<TextString>
+		<Name>SeafoodSlotName</Name>
+		<String>Seafood</String>
+	</TextString>
+	<TextString>
+		<Name>BaseSlotName</Name>
+		<String>Base</String>
+	</TextString>
+	<TextString>
+		<Name>FlavorName</Name>
+		<String>Flavor</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledVeggiesName</Name>
+		<String>Grilled Veggies</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledVeggiesDescription</Name>
+		<String>Cook your vegetables while giving them a nice smoked flavor.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledVeggiesSkillDescription</Name>
+		<String>Cook your vegetables while giving them a nice smoked flavor.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledFishName</Name>
+		<String>Grilled Fish</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledFishDescription</Name>
+		<String>It's really easy to cook some fish on a grill, to overcook it's even easier though.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledFishSkillDescription</Name>
+		<String>It's really easy to cook some fish on a grill, to overcook it's even easier though.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishSoupName</Name>
+		<String>Fish Soup</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishSoupSkillDescription</Name>
+		<String>Fish Soups are basically a liquid concentrate of sea flavors.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishSoupDescription</Name>
+		<String>Fish Soups are basically a liquid concentrate of sea flavors.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedFishName</Name>
+		<String>Roasted Fish</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedFishDescription</Name>
+		<String>Take some fish, add some seasoning, put everything in the oven and wait for a few minutes.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedFishSkillDescription</Name>
+		<String>Take some fish, add some seasoning, put everything in the oven and wait for a few minutes.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSteamedFishName</Name>
+		<String>Steamed Fish</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSteamedFishDescription</Name>
+		<String>The steamer is capable of cooking the fish while preserving its flavor intact and its meat wet and juicy.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSteamedFishSkillDescription</Name>
+		<String>The steamer is capable of cooking the fish while preserving its flavor intact and its meat wet and juicy.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishTartareName</Name>
+		<String>Fish Tartare</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishTartareSkillDescription</Name>
+		<String>Raw Fish is eaten all across the world, especially in the areas where many fishermen lives.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishTartareDescription</Name>
+		<String>Raw Fish is eaten all across the world, especially in the areas where many fishermen lives.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateIceCreamName</Name>
+		<String>Ice Cream</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateIceCreamDescription</Name>
+		<String>A very popular half-frozen dessert mostly made with milk and eggs.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateIceCreamSkillDescription</Name>
+		<String>A very popular half-frozen dessert mostly made with milk and eggs.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplatePieName</Name>
+		<String>Pie</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePieDescription</Name>
+		<String>An ancient but immortal dessert, every grandma's secret weapon.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePieSkillDescription</Name>
+		<String>An ancient but immortal dessert, every grandma's secret weapon.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplatePastriesName</Name>
+		<String>Pastries</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePastriesDescription</Name>
+		<String>Coming in thousands different shapes and flavors, pastries are by all means a legalized drug.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePastriesSkillDescription</Name>
+		<String>Coming in thousands different shapes and flavors, pastries are by all means a legalized drug.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateCookiesName</Name>
+		<String>Cookies</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateCookiesDescription</Name>
+		<String>A simple but popular dessert recipe.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateCookiesSkillDescription</Name>
+		<String>A simple but popular dessert recipe.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateCheesecakeName</Name>
+		<String>Cheesecake</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateCheesecakeDescription</Name>
+		<String>A dessert consisting of one or more layer, with the biggest one constisting in a mixture of fresh cheese and other ingredients.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateCheesecakeSkillDescription</Name>
+		<String>A dessert consisting of one or more layer, with the biggest one constisting in a mixture of fresh cheese and other ingredients.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateFriedDessertName</Name>
+		<String>Fried Dessert</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedDessertDescription</Name>
+		<String>All the sweet temptation of a dessert with the unique, greasy taste of fried in a single meal.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedDessertSkillDescription</Name>
+		<String>All the sweet temptation of a dessert with the unique, greasy taste of fried in a single meal.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateMillefeuilleName</Name>
+		<String>Millefeuille</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMillefeuilleDescription</Name>
+		<String>A multi-layered desserts made with puff pastry and filled with creams of any sort.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMillefeuilleSkillDescription</Name>
+		<String>A multi-layered desserts made with puff pastry and filled with creams of any sort.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateRoastedVeggiesName</Name>
+		<String>Roasted Vegetables</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedVeggiesDescription</Name>
+		<String>Vegetables of different nature roasted in an oven.</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedVeggiesSkillDescription</Name>
+		<String>Vegetables of different nature roasted in an oven.
+
+Level 1 - Skill Points required: 1
+This Template will be available in the Recipe Editor.
+
+Level 2 - Skill Points required: 2
+Some Editor Perks will be available in the Recipe Editor for this Template, allowing you to further increase the Recipe's final rating.
+
+Level 3 - Skill Points required: 3
+One additional Editor Perk will be available.</String>
+	</TextString>
+
+</TextStrings>

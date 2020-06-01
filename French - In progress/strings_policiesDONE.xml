@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	<TextString>
+		<Name>PolicyCleaningDesc</Name>
+		<String>Restaurant Cleaning</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>PolicyHallCleaningName</Name>
+		<String>Hall Cleaning </String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningDescription</Name>
+		<String>A clean dining hall is appreciated by most customers.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningOneName</Name>
+		<String>Artistic Stain Patterns</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningOneDescription</Name>
+		<String>Cleaning the hall once a month provides unique decorations on most furniture and utensils.
+
+&lt;b&gt;Effects&lt;/b&gt;
+No Ambience bonus</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningTwoName</Name>
+		<String>Greasy Tables</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningTwoDescription</Name>
+		<String>Just tell your customers not to put their elbows on the tables.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningThreeName</Name>
+		<String>Opaque Glass</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningThreeDescription</Name>
+		<String>How are dirty windows an issue? You can always just turn the lights on!
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningFourName</Name>
+		<String>Germ Removal Protocol</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningFourDescription</Name>
+		<String>Whoa! Did you know that specific products for the eradication of restaurant germs actually exist?
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningFiveName</Name>
+		<String>Pandemic-Proof Hygiene</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyHallCleaningFiveDescription</Name>
+		<String>Maybe hiring a team of cleaning professionals to remove all microscopic lifeforms in your restaurant during the night is a little overkill. Just maybe...
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+
+
+
+	<TextString>
+		<Name>PolicyKitchenCleaningName</Name>
+		<String>Kitchen Cleaning </String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningDescription</Name>
+		<String>Hygiene in the kitchen is mandatory to avoid food poisoning or hairs on plates.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningOneName</Name>
+		<String>Hail to the Rat King</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningOneDescription</Name>
+		<String>Every night, before closing, you sculpt a food totem from all the leftovers to please the Rat King and prevent an invasion.
+
+&lt;b&gt;Effects&lt;/b&gt;
+No Ambience bonus</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningTwoName</Name>
+		<String>Cockroach Protein Supplement</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningTwoDescription</Name>
+		<String>Insects are meant to be the food of the future. So, what's the big deal if some fall into the pots while you're cooking?
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningThreeName</Name>
+		<String>Cleaning Turns</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningThreeDescription</Name>
+		<String>Every day one of the chefs will stay for an additional hour to clean the kitchen.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningFourName</Name>
+		<String>Daily Cleaning Commitment</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningFourDescription</Name>
+		<String>We all understand that a clean kitchen is a better kitchen...but are the speakers playing hygiene-based propaganda really necessary?
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningFiveName</Name>
+		<String>Temple of Light</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyKitchenCleaningFiveDescription</Name>
+		<String>Your kitchen is so shiny that rumors are spreading about the coming of a new God of Light. Also, you need sunscreen and shades just to work.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+
+
+
+	<TextString>
+		<Name>PolicyToiletCleaningName</Name>
+		<String>Toilet Cleaning </String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningDescription</Name>
+		<String>According to certain preposterous laws you need toilets in your restaurant. Keeping them clean may increase the overall olfactory appeal of your restaurant.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningOneName</Name>
+		<String>Organic Wall Paint</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningOneDescription</Name>
+		<String>You are quite sure the walls weren't brown when you originally opened the restaurant.
+
+&lt;b&gt;Effects&lt;/b&gt;
+No Ambience bonus</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningTwoName</Name>
+		<String>Floating Surprises</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningTwoDescription</Name>
+		<String>While some customers appreciate the lottery that rewards the ones finding floating "objects" in the toilets, most of them are just disgusted.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningThreeName</Name>
+		<String>Typhus Containment Protocol</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningThreeDescription</Name>
+		<String>You need to put a little effort and money into raising your toilets' hygiene level above medieval standards.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningFourName</Name>
+		<String>Squatting May Be Necessary</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningFourDescription</Name>
+		<String>The seat is mostly white, but it's always better to do some exercise while using the restaurant's toilets.
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningFiveName</Name>
+		<String>Can Actually Use The Seat</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyToiletCleaningFiveDescription</Name>
+		<String>Though it may seem unthinkable, your restaurant's toilets are so clean that even a germophobe could sit on them confidently!
+
+&lt;b&gt;Effects&lt;/b&gt;
+{COMMANDS}
+{MODIFIERS}</String>
+	</TextString>
+
+
+
+
+
+
+
+
+
+
+	<TextString>
+		<Name>PoliciesCleaningDescriptionString</Name>
+		<String>Cleaning Policies allow you to improve your Atmosphere rating.</String>
+	</TextString>
+	<TextString>
+		<Name>PoliciesMarketingDescriptionString</Name>
+		<String>Marketing Policies allow you to gain Influence Points or focus on specific customer types.</String>
+	</TextString>
+	<TextString>
+		<Name>DecisionsGeneralDescriptionString</Name>
+		<String>The Decision screen allows you to unlock special rewards or perform special actions.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyOutreachName</Name>
+		<String>Outreach</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyOutreachDescription</Name>
+		<String>By spending on Outreach you can make more potential customers aware of your existence! You will gain Influence Points at the end of each day with this policy active!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyTargetName</Name>
+		<String>Customers Attraction</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetDescription</Name>
+		<String>Choosing one or two customer groups to target is the best way to specialize the restaurant and maximize both profits and ratings!</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyRemovalName</Name>
+		<String>Customers Removal</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyRemovalDescription</Name>
+		<String>Are some customer groups being cheap or leaving negative reviews? You can't put a sign up or tell them that they aren't welcome here, but you CAN do anything else it takes to keep them away!</String>
+	</TextString>
+
+	<!-- REMOVAL -->
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceName</Name>
+		<String>Relaxing Experience!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyRelaxingExperienceDescription</Name>
+		<String>Enjoy your time in our restaurant! Slow service, slow eating, slow breathing! What? Are you a busy person? Then just go be busy somewhere else, busy bee!
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPolicyEatLotName</Name>
+		<String>Eat Until You Explode!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEatLotDescription</Name>
+		<String>Who cares about quality when you can have QUANTITY! The best food is the kind that needs to be delivered to the table by a bulldozer !
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPolicyTrendyName</Name>
+		<String>The coolest place in town!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyTrendyDescription</Name>
+		<String>Are you cool or are you a dinosaur? If you're not a relic of forgotten times, then THIS is the place for you. This is the restaurant the whole town is talking about!
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPolicyProteinParadiseName</Name>
+		<String>Protein Paradise!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyProteinParadiseDescription</Name>
+		<String>Ever noticed those pale and weak people walking the streets? Those people are refusing to acknowledge a universal, scientific truth: humans are carnivores who need to destroy the whole environment to keep their stomachs full of protein!
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPolicyLocalsOnlyName</Name>
+		<String>Locals Only!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyLocalsOnlyDescription</Name>
+		<String>What? Do you want cream in your Carbonara? Then you can rot in Hell! We are tired of tourists and the crappy food they want to eat, this place is for true local gourmets only!
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPolicyCheapPricesName</Name>
+		<String>Cheap Prices!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyCheapPricesDescription</Name>
+		<String>Aren't you tired of spending your hard earned money in restaurants? Do you think that prices should be low because, "How hard can it be to make a steak?" This is the place for you! Our staff is paid in visibility!
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<TextString>
+		<Name>PerkPolicyEliteOnlyName</Name>
+		<String>Elitary place!</String>
+	</TextString>
+	<TextString>
+		<Name>PerkPolicyEliteOnlyDescription</Name>
+		<String>Aren't you tired of poor people being so dreadfully poor? Why can't they be rich and respectable, like you are?
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- FLYERS -->
+	<TextString>
+		<Name>PolicyFlyersAdvertisementString</Name>
+		<String>Flyers Advertisement</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyFlyersOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyFlyersOutreachOneDescription</Name>
+		<String>Flyers are for losers and they are like the first source of paper pollution! The better thing to do is to print just a couple of them and recycle them after they are thrown away.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyFlyersOutreachTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyFlyersOutreachTwoDescription</Name>
+		<String>A squad of "Urban Marketing" specialists will be hired in order to quickly spread them in the neighboring areas.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyFlyersOutreachThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyFlyersOutreachThreeDescription</Name>
+		<String>Who needs the Amazon Rainforest? Trees are for losers. They don't provide anything useful like wi-fi or pizza!
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- Billboards -->
+	<TextString>
+		<Name>PolicyBillboardAdvertisementString</Name>
+		<String>Billboard Advertisement</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyBillboardsOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBillboardsOutreachOneOneDescription</Name>
+		<String>Without a real budget you can only afford the name of your restaurant on a single carton billboard posted in the countryside.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBillboardsOutreachOneTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBillboardsOutreachOneTwoDescription</Name>
+		<String>Drivers occasionally have a chance to read the name of your restaurant while passing through. Also no, the local government did NOT allow you to use NSFW photos on the billboards.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBillboardsOutreachOneThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBillboardsOutreachOneThreeDescription</Name>
+		<String>Your face can be found everywhere in town. Some people already mistake you for family.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- Blogs -->
+	<TextString>
+		<Name>PolicyBlogsAdvertisementString</Name>
+		<String>Internet Blogs Advertisement</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyBlogsOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBlogsOutreachOneOneDescription</Name>
+		<String>Who cares what people on the internet think? Who even uses the internet for things like that when everyone is insulting each other on social media?</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBlogsOutreachOneTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBlogsOutreachOneTwoDescription</Name>
+		<String>Truth is relative to the amount of money certain not-that-professional influencers are asking for in exchange for writing positive comments and reviews about your restaurant.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBlogsOutreachOneThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyBlogsOutreachOneThreeDescription</Name>
+		<String>Did you write a negative review of the restaurant? Too bad! We just bought a massive ad that covers the entire page with a positive review of the restaurant!
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- Social Media -->
+	<TextString>
+		<Name>PolicySocialMediaAdvertisementString</Name>
+		<String>Social Media Advertisement</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicySocialMediaOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicySocialMediaOutreachOneOneDescription</Name>
+		<String>You're doing well with rule #1, "posting a lot of material", but you really need to work on rule #2, "writing in a comprehensible language".</String>
+	</TextString>
+	<TextString>
+		<Name>PolicySocialMediaOutreachOneTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicySocialMediaOutreachOneTwoDescription</Name>
+		<String>You maintain a few pages on social media and they're well-managed. That's definitely something to be proud of.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicySocialMediaOutreachOneThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicySocialMediaOutreachOneThreeDescription</Name>
+		<String>You finance a secret collective of anonymous memelords who provide you with all the dank memes you need to obliterate your competition.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- Newspapers -->
+	<TextString>
+		<Name>PolicyNewspapersAdvertisementString</Name>
+		<String>Newspapers Advertisement</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyNewspapersOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyNewspapersOutreachOneOneDescription</Name>
+		<String>The only option for the budget you allocated is a small space on the last page of the newspaper.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyNewspapersOutreachOneTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyNewspapersOutreachOneTwoDescription</Name>
+		<String>Having your name mentioned on the same page that details a horrifying streak of murders proved to be quite effective.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyNewspapersOutreachOneThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyNewspapersOutreachOneThreeDescription</Name>
+		<String>Buying the Chef's Post and the New Pizza Times may have been overkill, but it's definitely going to help with the whole "spread your name" thing.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- Radio -->
+	<TextString>
+		<Name>PolicyRadioAdvertisementString</Name>
+		<String>Radio Advertisement</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyRadioOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyRadioOutreachOneOneDescription</Name>
+		<String>Running your commercial during the night is cheap, but also quite useless.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyRadioOutreachOneTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyRadioOutreachOneTwoDescription</Name>
+		<String>Thanks to extensive psychological studies, you've been able to create very catchy music for your radio ads.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyRadioOutreachOneThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyRadioOutreachOneThreeDescription</Name>
+		<String>With the new Radio Repeater that has been installed on your restaurant, your voice is the only thing people are going to hear!
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- Magazines -->
+	<TextString>
+		<Name>PolicyMagazinesAdvertisementString</Name>
+		<String>Magazines Advertisement</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyMagazinesOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyMagazinesOutreachOneOneDescription</Name>
+		<String>Convincing your cousin to let you have a page in his "Flat World" magazine wasn't easy. But it's also not very useful.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyMagazinesOutreachOneTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyMagazinesOutreachOneTwoDescription</Name>
+		<String>You've managed to get an actual image with logos and colors printed! Someone may finally notice it now!
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyMagazinesOutreachOneThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyMagazinesOutreachOneThreeDescription</Name>
+		<String>Thanks to your investment, the future of magazines has arrived: a foldable multi-layered pizza that can be both read and eaten!
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- Internet -->
+	<TextString>
+		<Name>PolicyInternetAdvertisementString</Name>
+		<String>Internet Advertisement</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyInternetOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyInternetOutreachOneOneDescription</Name>
+		<String>Did you really believe that a massive image of yourself, smiling, with noisy music, would be a good idea?</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyInternetOutreachOneTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyInternetOutreachOneTwoDescription</Name>
+		<String>Begging your nephew to manage the SEO has improved things, but there's a reason why real professionals want a lot of money for it.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyInternetOutreachOneThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyInternetOutreachOneThreeDescription</Name>
+		<String>You've spent so much on advertising that your name comes up as the first result on Google. In any kind of search! Thanks, money!
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+	<!-- Television -->
+	<TextString>
+		<Name>PolicyTelevisionAdvertisementString</Name>
+		<String>Television Advertisement</String>
+	</TextString>
+	<TextString>
+		<Name>NoneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>NoneDescription</Name>
+		<String>Deactivate this particular stance of the policy.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyTelevisionOutreachOneName</Name>
+		<String>None</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTelevisionOutreachOneOneDescription</Name>
+		<String>Local TV stations will let you have a three second advertisement during their shows dedicated to fortune telling.</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTelevisionOutreachOneTwoName</Name>
+		<String>Moderate spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTelevisionOutreachOneTwoDescription</Name>
+		<String>By having a solid presence on the TV you can slowly spread your name in people's minds.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTelevisionOutreachOneThreeName</Name>
+		<String>High spending</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTelevisionOutreachOneThreeDescription</Name>
+		<String>While your accountant keeps telling you that a whole show dedicated to you is overkill, its effects have proved to be incredible!
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+
+
+
+
+	<!-- Staff -->
+	<TextString>
+		<Name>PolicyStaffDesc</Name>
+		<String>Staff Management</String>
+	</TextString>
+	<TextString>
+		<Name>PoliciesStaffDescriptionString</Name>
+		<String>Staff Policies allow you to tune salaries and morale recovery.</String>
+	</TextString>
+
+	<TextString>
+		<Name>PolicyStaffSalaryName</Name>
+		<String>Salaries</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryDescription</Name>
+		<String>Higher salaries increase the amount of Morale recovered by the staff at the end of the day</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryOneName</Name>
+		<String>Survival Mode</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryOneDescription</Name>
+		<String>Your staff is playing a really hard survival game called "life with modern salaries".
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryTwoName</Name>
+		<String>Low Salaries</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryTwoDescription</Name>
+		<String>You are not paying good wages, but sometimes getting less is better than getting nothing.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryThreeName</Name>
+		<String>Average Salaries</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryThreeDescription</Name>
+		<String>You pay average salaries. Which is not a lot, definitely not a lot, but at least your staff can't really complain about it.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryFourName</Name>
+		<String>Decent Salaries</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryFourDescription</Name>
+		<String>You are not paying a lot, but your staff will probably be able to afford extreme luxuries like a vacation every two years and maybe Netflix.
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryFiveName</Name>
+		<String>Good Salaries</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalaryFiveDescription</Name>
+		<String>What? Good salaries? In our age? With the current economy?
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalarySixName</Name>
+		<String>Excellent Salaries</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyStaffSalarySixDescription</Name>
+		<String>You are paying people so much that it look likes they are characters in a videogame!
+
+&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}</String>
+	</TextString>
+
+
+
+
+
+
+
+
+
+
+	<TextString>
+		<Name>PolicyTargetVegetarianName</Name>
+		<String>Vegetarians</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetFoodEnthusiastName</Name>
+		<String>Food Enthusiasts</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetVeganName</Name>
+		<String>Vegans</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetWhiteCollarName</Name>
+		<String>White Collar Workers</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetGourmetName</Name>
+		<String>Gourmets</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetTouristLowName</Name>
+		<String>Low Budget Tourists</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetTouristHighName</Name>
+		<String>High Budget Tourists</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetFamilyHighName</Name>
+		<String>High Budget Families</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetCheapskateName</Name>
+		<String>Cheapskates</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetBlueCollarName</Name>
+		<String>Blue Collar Workers</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetFamilyLowName</Name>
+		<String>Low Budget Families</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyTargetEffectsDescription</Name>
+		<String>&lt;b&gt;Effects:&lt;/b&gt;
+{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyAlternateText</Name>
+		<String>{COMMANDS}{PERKS}</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyAlternateTextEmpty</Name>
+		<String>No Effects</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyAlternateCleaning5</Name>
+		<String>{COMMANDS}+5 Ambience</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyAlternateCleaning10</Name>
+		<String>{COMMANDS}+10 Ambience</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyAlternateCleaning15</Name>
+		<String>{COMMANDS}+15 Ambience</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyAlternateCleaning20</Name>
+		<String>{COMMANDS}+20 Ambience</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyAlternateCleaning30</Name>
+		<String>{COMMANDS}+30 Ambience</String>
+	</TextString>
+	<TextString>
+		<Name>PolicyAlternateCleaning40</Name>
+		<String>{COMMANDS}+40 Ambience</String>
+	</TextString>
+</TextStrings>

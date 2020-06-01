@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+	<TextString>
+		<Name>EditorPerkMoistyName</Name>
+		<String>Moisty</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkMoistyDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► This Recipe Fat Taste value must be at 4 or more;
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkNutGloryName</Name>
+		<String>Nut Glory</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkNutGloryDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► At least one Nut Tagged Ingredient in Average Quantity (50g or more);
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkNutGlorySaladDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► At least one Nut Tagged Ingredient in Average Quantity (50g or more);
+► The Skill related to this Template at Level 2.
+
+When using the Salad Template, the effects of this perk won't stack with Mixed Meat and Seafood Selection.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkPurityName</Name>
+		<String>Purity</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkPurityDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Use no other Ingredients with the same Tag as the one that's required for the recipes (ie: Meat Tagged ingredients in a Roasted Meat Recipe);
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkSayCheeseName</Name>
+		<String/>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkSayCheeseDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► One or more Dairy Tagged Ingredient in Average Quantity (30g or more);
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkSeafoodSelectionName</Name>
+		<String>Seafood Selection</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkSeafoodSelectionDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Three or more Seafood Tagged Ingredients;
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkSeafoodSelectionSaladDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Three or more Seafood Tagged Ingredients;
+► The Skill related to this Template at Level 2.
+
+When using the Salad Template, the effects of this perk won't stack with Mixed Meat and Nut Glory.</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkSeafoodSelectionPaellaDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Three or more Seafood Tagged Ingredients;
+► The Skill related to this Template at Level 2.
+
+When using the Paella Template, the effects of this perk won't stack with Mixed Meat and Veggies Power.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkStockName</Name>
+		<String>Stock Flavor Implanting</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkStockDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► A Stock or Vegetable Stock ingredient in Average Quantity (30g or more);
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkVeggiesPowerName</Name>
+		<String>Veggies Power</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkVeggiesPowerDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Three or more Vegetables Tagged;
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkVeggiesPowerPaellaDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Three or more Vegetables Tagged Ingredients;
+► The Skill related to this Template at Level 2.
+
+When using the Paella Template, the effects of this perk won't stack with Mixed Meat and Seafood Selection.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkBalancedRecipeName</Name>
+		<String>Balanced Recipe</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkBalancedRecipeDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► 10 or less Ingredients used in the Recipe;
+► The Skill related to this Template at Level 3.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkChocolateLoveName</Name>
+		<String>Chocolate Love</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkChocolateLoveDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► One of the Chocolate Ingredients (Chocolate, Dark Chocolate, White Chocolate) in Average Quantity (50g or more);
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkComplexAromaName</Name>
+		<String>Complex Aroma</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkComplexAromaDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Four or more Spice Tagged Ingredients;
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkComplexRecipeName</Name>
+		<String>Structured Recipe</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkComplexRecipeDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► 10 or more Ingredients used in the Recipe;
+► The Skill related to this Template at Level 3.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkDessertWhatName</Name>
+		<String>Wait, what?</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkDessertWhatDescription</Name>
+		<String>People are not exactly eager to try strange desserts. If you want to avoid this penalty do not use Vegetables, Meat, or Seafood Tagged Ingredients in your Desserts.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkFruitPassionName</Name>
+		<String>Fruit Passion</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkFruitPassionDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► One Fruit Tagged Ingredient in High Quantity (100g or more);
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkIntenseName</Name>
+		<String>Intense</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkIntenseDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Have 700 or more Calories in the Recipe;
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkLightweightName</Name>
+		<String>Lightweight</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkLightweightDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Have 450 or less Calories in the Recipe;
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkMarinadeName</Name>
+		<String>Marinade</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkMarinadeDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Use one Fat Tagged Ingredient and one Alcohol Tagged Ingredient in the Recipe;
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+
+	<TextString>
+		<Name>EditorPerkMixedMeatName</Name>
+		<String>Mixed Meat</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkMixedMeatDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Three or more Meat Tagged Ingredients;
+► The Skill related to this Template at Level 2.</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkMixedMeatPaellaDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Three or more Meat Tagged Ingredients;
+► The Skill related to this Template at Level 2.
+
+When using the Paella Template, the effects of this perk won't stack with Veggies Power and Seafood Selection.</String>
+	</TextString>
+	<TextString>
+		<Name>EditorPerkMixedMeatSaladDescription</Name>
+		<String>To increase the Quality of this recipe you need:
+
+► Three or more Meat Tagged Ingredients;
+► The Skill related to this Template at Level 2.
+
+When using the Salad Template, the effects of this perk won't stack wit Nut Glory and Seafood Selection.</String>
+	</TextString>
+
+
+
+
+
+	<TextString>
+		<Name>TemplatePastaMandatoryPerkName</Name>
+		<String>Pasta Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePastaMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use one of the following ingredients in High Quantity (100g or more): Pasta, Fresh Pasta, Noodles.</String>
+	</TextString>
+
+
+	<TextString>
+		<Name>TemplateGnocchiMandatoryPerkName</Name>
+		<String>Gnocchi Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGnocchiMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Flour in Low Quantity (20g or more);		
+► Use Potatoes in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>Name</Name>
+		<String> Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>Description</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► </String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateLasagneMandatoryPerkName</Name>
+		<String>Lasagna Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateLasagneMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Fresh Pasta in Average Quantity (60g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateStuffedPastaMandatoryPerkName</Name>
+		<String>Dumplings Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateStuffedPastaMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Fresh Pasta in High Quantity (80g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateSauteedRiceMandatoryPerkName</Name>
+		<String>Sauteed Rice Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSauteedRiceMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Rice in High Quantity (100g or more);	
+► Use a Fat Tagged Ingredient.</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateRisottoMandatoryPerkName</Name>
+		<String>Risotto Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRisottoMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Rice in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplatePaellaMandatoryPerkName</Name>
+		<String>Paella Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePaellaMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Rice in High Quantity (80g or more).
+► Use Stock or Vegetable Stock in Average Quantity (50g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateRicePieMandatoryPerkName</Name>
+		<String>Rice Pie Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRicePieMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Rice in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateGrilledMeatMandatoryPerkName</Name>
+		<String>Grilled Meat Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledMeatMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Meat Tagged Ingredient in High Quantity (150g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateMeatStewMandatoryPerkName</Name>
+		<String>Meat Stew Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatStewMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Meat Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateRoastedMeatMandatoryPerkName</Name>
+		<String>Roasted Meat Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedMeatMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Meat Tagged Ingredient in High Quantity (150g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateBoiledMeatMandatoryPerkName</Name>
+		<String>Boiled Meat Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateBoiledMeatMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Meat Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateStuffedMeatMandatoryPerkName</Name>
+		<String>Stuffed Meat Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateStuffedMeatMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Meat Tagged Ingredient in High Quantity (100g or more);</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateMeatballsMandatoryPerkPerkName</Name>
+		<String>Meatballs Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatballsMandatoryPerkPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Meat, Seafood or Vegetables Tagged Ingredient in High Quantity (100g or more);
+► Use Eggs in Low Quantity (20g or more);
+► Use Bread in Average Quantity (30g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateMeatTartareMandatoryPerkName</Name>
+		<String>Meat Tartare Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMeatTartareMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Meat Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateSauteedVeggiesMandatoryPerkName</Name>
+		<String>Sauteed Veggies Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSauteedVeggiesMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Vegetables Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateSaladMandatoryPerkName</Name>
+		<String>Salad Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSaladMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Vegetables Tagged Ingredient in High Quantity (60g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateSteamedVeggiesMandatoryPerkName</Name>
+		<String>Steamed Veggies Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSteamedVeggiesMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Vegetables Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateVegetableSoupMandatoryPerkName</Name>
+		<String>Soup Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVegetableSoupMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Two Vegetables Tagged Ingredients in Average Quantity (50g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateVelvetyMandatoryPerkName</Name>
+		<String>Creamy Soup Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateVelvetyMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Two Vegetables Tagged Ingredients in Average Quantity (50g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateFriedVeggiesMandatoryPerkName</Name>
+		<String>Fried Veggies Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedVeggiesMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Vegetables Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateFriedMeatMandatoryPerkName</Name>
+		<String> Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedMeatMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Meat Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateFriedFishMandatoryPerkName</Name>
+		<String>Fried Fish Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedFishMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Seafood Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateGrilledVeggiesMandatoryPerkName</Name>
+		<String>Grilled Vegetables Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledVeggiesMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Vegetables Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateRoastedVeggiesMandatoryPerkName</Name>
+		<String>Roasted Vegetables Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedVeggiesMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Vegetables Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateGrilledFishMandatoryPerkName</Name>
+		<String>Grilled Fish Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateGrilledFishMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Seafood Tagged Ingredient in High Quantity (120g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateFishSoupMandatoryPerkName</Name>
+		<String>Fish Soup Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishSoupMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Two Seafood Tagged Ingredients in Average Quantity (50g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateRoastedFishMandatoryPerkName</Name>
+		<String>Roasted Fish Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateRoastedFishMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Seafood Tagged Ingredient in High Quantity (125g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateSteamedFishMandatoryPerkName</Name>
+		<String>Steamed Fish Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateSteamedFishMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Seafood Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateFishTartareMandatoryPerkName</Name>
+		<String>Fish Tartare Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFishTartareMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Seafood Tagged Ingredient in High Quantity (100g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateIceCreamMandatoryPerkName</Name>
+		<String>Ice Cream Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateIceCreamMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Milk in Average Quantity (50g or more);
+► Use Cream in Average Quantity (50g or more);
+► Use Sugar in Average Quantity (20g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplatePieMandatoryPerkName</Name>
+		<String>Pie Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePieMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Fat Tagged Ingredient in Low Quantity (20g or more);
+► Use Flour in High Quantity (100g or more);
+► Use Sugar in Average Quantity (30g or more). </String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateCookiesMandatoryPerkName</Name>
+		<String>Cookies Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateCookiesMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Fat Tagged Ingredient in Average Quantity (20g or more);
+► Use Flour in High Quantity (80g or more). </String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateCheesecakeMandatoryPerkName</Name>
+		<String>Cheesecake Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateCheesecakeMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Dairy Tagged Ingredient in High Quantity (100g or more)</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplatePastriesMandatoryPerkName</Name>
+		<String>Pastries Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplatePastriesMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use a Fat Tagged Ingredient in Average Quantity (20g or more);
+► Use Flour in High Quantity (100g or more);
+► Use Sugar in Average Quantity (30g or more). </String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateFriedDessertMandatoryPerkName</Name>
+		<String>Fried Dessert Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateFriedDessertMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Flour in High Quantity (80g or more);
+► Use Egg in Average Quantity (40g or more);
+► Use Milk in Average Quantity (30g or more).</String>
+	</TextString>
+
+	<TextString>
+		<Name>TemplateMillefeuilleMandatoryPerkName</Name>
+		<String>Millefuille Requirements</String>
+	</TextString>
+	<TextString>
+		<Name>TemplateMillefeuilleMandatoryPerkDescription</Name>
+		<String>This Template requires you to satisfy to following requirements before being able to save the Recipe:
+
+► Use Flour in High Quantity (100g or more);
+► Use Butter or Margarine in Average Quantity (25g or more).</String>
+	</TextString>
+</TextStrings>

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+	
+	
+	<TextString>
+		<Name>WelcomingLowSkillName</Name>
+		<String>Basic Speaking Skills</String>
+	</TextString>
+	
+	<TextString>
+		<Name>WelcomingLowSkillDescription</Name>
+		<String>Waiters need some practice in speaking with stranger if they want to properly handle all customers coming in.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>WelcomingHighSkillName</Name>
+		<String>Oratory Art</String>
+	</TextString>
+	
+	<TextString>
+		<Name>WelcomingHighSkillDescription</Name>
+		<String>Only the best waiters in the world can use only 20 words to deliver all relevant info to a customer.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	<TextString>
+		<Name>SeatingLowSkillName</Name>
+		<String>Restaurant Mapping</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SeatingLowSkillDescription</Name>
+		<String>By creating accurate maps of the restaurant, it's easier for the Waiter to know where to place new, hungry customers.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SeatingHighSkillName</Name>
+		<String>Dog Trainer</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SeatingHighSkillDescription</Name>
+		<String>When hungry, customers are not unlike dogs: they lose reason and regress to a more primal state of being. Knowing how to train dogs to seat can be extremely useful in those cases.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>DeliverOrdersLowSkillName</Name>
+		<String>Fast Delivery</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DeliverOrdersLowSkillDescription</Name>
+		<String>By learning the secrets of gravity, Waiters can use the forces of nature for a faster delivery.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>DeliverOrdersHighSkillName</Name>
+		<String>Plates Throwing</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DeliverOrdersHighSkillDescription</Name>
+		<String>It doesn't take long to serve people if you throw them plates...
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>TakingOrdersLowSkillName</Name>
+		<String>Fast Writing</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TakingOrdersLowSkillDescription</Name>
+		<String>A good waiter needs to write down a dozen things at once, and then change everything WHEN THE COOKING CUSTOMERS CAN'T DECIDE WHAT TO EAT!
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>TakingOrdersHighSkillName</Name>
+		<String>Human Printer</String>
+	</TextString>
+	
+	<TextString>
+		<Name>TakingOrdersHighSkillDescription</Name>
+		<String>The hand moves the pen with godlike precision, patterns of ink records an insane amount of orders in a small space: this waiter could now do a career change and work as a printer.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>CleaningLowSkillName</Name>
+		<String>Geometrical Cleaning</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CleaningLowSkillDescription</Name>
+		<String>Cleaning neophytes randomly scrub the table for a few minutes, but once the art of geometrical cleaning is learned a waiter can save a lot of time.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>CleaningHighSkillName</Name>
+		<String>The Shining</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CleaningHighSkillDescription</Name>
+		<String>Some people are not like the others: born with the incredible power of the Shining, everything they touches turn into a holy temple of cleaniness.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>CheckOutLowSkillName</Name>
+		<String>The Bill</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CheckOutLowSkillDescription</Name>
+		<String>When it comes to paying the bill, it's always a delicate moment. Good Waiters know how to handle it.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>CheckOutHighSkillName</Name>
+		<String>Costs Foreshadowing</String>
+	</TextString>
+	
+	<TextString>
+		<Name>CheckOutHighSkillDescription</Name>
+		<String>The legend says that a good Waiter can suggest with subtle hints the cost of a dinner to the customers. And when it comes to the bill delivery, they already know what to do.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>EnergyLowSkillName</Name>
+		<String>Fitness</String>
+	</TextString>
+	
+	<TextString>
+		<Name>EnergyLowSkillDescription</Name>
+		<String>Working in a restaurant is not easy nor relaxing, a proper training is needed to endure a full service without fainting.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>EnergyHighSkillName</Name>
+		<String>Crossfit Training Course</String>
+	</TextString>
+	
+	<TextString>
+		<Name>EnergyHighSkillDescription</Name>
+		<String>The good thing about Crossfit is that it turns everyone into a fitness god capable of doing anything. The bad thing is that they will only talk about Crossfit.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SpeedSkillName</Name>
+		<String>Faster Than Light</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SpeedSkillDescription</Name>
+		<String>Just like in the savannah, you need to move fast in a restaurant if you want to survive.
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>AppetizerQualitySkillName</Name>
+		<String>Appetizers: Quality</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AppetizerQualitySkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Appetizers&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Appetizers&lt;/b&gt; 		
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>AppetizerPreparationSkillName</Name>
+		<String>Appetizers: Preparation</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AppetizerPreparationSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Appetizers&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Appetizers&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>AppetizerCookingSkillName</Name>
+		<String>Appetizers: Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AppetizerCookingSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Appetizers&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Appetizers&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>AppetizerCostSkillName</Name>
+		<String>Appetizers: Cost</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AppetizerCostSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Appetizers&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Appetizers&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>AppetizerMasterSkillName</Name>
+		<String>Master of the Appetizers</String>
+	</TextString>
+	
+	<TextString>
+		<Name>AppetizerMasterSkillDescription</Name>
+		<String>This Chef is an &lt;b&gt;Appetizers&lt;/b&gt; Master.
+		
+The bonuses of this skill only apply to &lt;b&gt;Appetizers&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>MainCourseQualitySkillName</Name>
+		<String>Main Courses: Quality</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MainCourseQualitySkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Main Courses&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Main Courses&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>MainCoursePreparationSkillName</Name>
+		<String>Main Courses: Preparation</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MainCoursePreparationSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Main Courses&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Main Courses&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>MainCourseCookingSkillName</Name>
+		<String>Main Courses: Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MainCourseCookingSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Main Courses&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Main Courses&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>MainCourseCostSkillName</Name>
+		<String>Main Courses: Cost</String>
+	</TextString>This Chef is experienced with &lt;b&gt;Main Courses&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Main Courses&lt;/b&gt; 	
+	
+	<TextString>
+		<Name>MainCourseCostSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Main Courses&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Main Courses&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>MainCourseMasterSkillName</Name>
+		<String>Master of the Main Courses</String>
+	</TextString>
+	
+	<TextString>
+		<Name>MainCourseMasterSkillDescription</Name>
+		<String>This Chef is a &lt;b&gt;Main Courses&lt;/b&gt; Master.
+		
+The bonuses of this skill only apply to &lt;b&gt;Main Courses&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SoupQualitySkillName</Name>
+		<String>Soups: Quality</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SoupQualitySkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Soups&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Soups&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SoupPreparationSkillName</Name>
+		<String>Soups: Preparation</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SoupPreparationSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Soups&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Soups&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SoupCookingSkillName</Name>
+		<String>Soups: Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SoupCookingSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Soups&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Soups&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SoupCostSkillName</Name>
+		<String>Soups: Cost</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SoupCostSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Soups&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Soups&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SoupMasterSkillName</Name>
+		<String>Master of the Soups</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SoupMasterSkillDescription</Name>
+		<String>This Chef is a &lt;b&gt;Soups&lt;/b&gt; Master.
+		
+The bonuses of this skill only apply to &lt;b&gt;Soups&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SaladQualitySkillName</Name>
+		<String>Salads: Quality</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SaladQualitySkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Salads&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Salads&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SaladPreparationSkillName</Name>
+		<String>Salads: Preparation</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SaladPreparationSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Salads&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Salads&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SaladCookingSkillName</Name>
+		<String>Salads: Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SaladCookingSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Salads&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Salads&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SaladCostSkillName</Name>
+		<String>Salads: Cost</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SaladCostSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Salads&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Salads&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SaladMasterSkillName</Name>
+		<String>Master of the Salads</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SaladMasterSkillDescription</Name>
+		<String>This Chef is a &lt;b&gt;Salads&lt;/b&gt; Master.
+		
+The bonuses of this skill only apply to &lt;b&gt;Salads&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SideDishQualitySkillName</Name>
+		<String>Side Dishes: Quality</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SideDishQualitySkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Side Dishes&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Side Dishes&lt;/b&gt; 
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SideDishPreparationSkillName</Name>
+		<String>Side Dishes: Preparation</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SideDishPreparationSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Side Dishes&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Side Dishes&lt;/b&gt;
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SideDishCookingSkillName</Name>
+		<String>Side Dishes: Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SideDishCookingSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Side Dishes&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Side Dishes&lt;/b&gt;
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SideDishCostSkillName</Name>
+		<String>Side Dishes: Cost</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SideDishCostSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Side Dishes&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Side Dishes&lt;/b&gt;
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>SideDishMasterSkillName</Name>
+		<String>Master of the Side Dishes</String>
+	</TextString>
+	
+	<TextString>
+		<Name>SideDishMasterSkillDescription</Name>
+		<String>This Chef is a &lt;b&gt;Side Dishes&lt;/b&gt; Master.
+		
+The bonuses of this skill only apply to &lt;b&gt;Side Dishes&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>DessertQualitySkillName</Name>
+		<String>Desserts: Quality</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DessertQualitySkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Desserts&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Desserts&lt;/b&gt;
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>DessertPreparationSkillName</Name>
+		<String>Desserts: Preparation</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DessertPreparationSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Desserts&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Desserts&lt;/b&gt;
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>DessertCookingSkillName</Name>
+		<String>Desserts: Cooking</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DessertCookingSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Desserts&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Desserts&lt;/b&gt;
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>DessertCostSkillName</Name>
+		<String>Desserts: Cost</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DessertCostSkillDescription</Name>
+		<String>This Chef is experienced with &lt;b&gt;Desserts&lt;/b&gt;.
+		
+The bonuses of this skill only apply to &lt;b&gt;Desserts&lt;/b&gt;
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	<TextString>
+		<Name>DessertMasterSkillName</Name>
+		<String>Desserts: Cost</String>
+	</TextString>
+	
+	<TextString>
+		<Name>DessertMasterSkillDescription</Name>
+		<String>This Chef is a &lt;b&gt;Desserts&lt;/b&gt; Master.
+		
+The bonuses of this skill only apply to &lt;b&gt;Desserts&lt;/b&gt; 	
+
+{MODIFIERS}</String>
+	</TextString>
+	
+	
+	
+	
+</TextStrings>

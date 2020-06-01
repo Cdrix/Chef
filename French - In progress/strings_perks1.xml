@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TextStrings>
+
+
+
+  <TextString>
+    <Name>PerkAreaMountainName</Name>
+    <String>Location: Mountain</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaMountainDescription</Name>
+    <String>Being this restaurant located in a mountainous area, there aren't a lot of customers outside the high season. But the price is quite cheap.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaCountrysideName</Name>
+    <String>Location: Countryside</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaCountrysideDescription</Name>
+    <String>This restaurant is located in the countryside. There won't be a lot of customers, but its rent is quite cheap.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaVillageName</Name>
+    <String>Location: Country Village</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaVillageDescription</Name>
+    <String>This restaurant is located near a small country village.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaCityCountrysideName</Name>
+    <String>Location: Outskirts</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaCityCountrysideDescription</Name>
+    <String>This restaurant is located in the rural area right outside a big city. A few Vegans and Vegetarians roams the area in search of locally grown vegetables to eat.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaSmallTownName</Name>
+    <String>Location: Small Town</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaSmallTownDescription</Name>
+    <String>This restaurant is located in proximity of a small town, in which a few dozen thousands people live.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS} </String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaSuburbsName</Name>
+    <String>Location: Suburbs</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaSuburbsDescription</Name>
+    <String>This restaurant is located in the suburbs in which a lot of middle class people lives in their nice houses.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaResidentialName</Name>
+    <String>Location: Residential District</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaResidentialDescription</Name>
+    <String>This restaurant is located in a residential district, full of high apartments in which thousands of people lives, but despite that those people prefer to spend their leisure time elsewhere.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaCommercialName</Name>
+    <String>Location: Commercial District</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaCommercialDescription</Name>
+    <String>This restaurant is located in a commercial district, full of shops and even a few malls, swarming with people eager to spend their money.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaIndustrialName</Name>
+    <String>Location: Industrial District</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaIndustrialDescription</Name>
+    <String>This restaurant is located in an industrial district, full of factories and warehouses. While not exactly the ideal destination for people in search of a good meal, there are a lot of workers searching for a place in which to eat.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaBusinessName</Name>
+    <String>Location: Business District</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaBusinessDescription</Name>
+    <String>This restaurant is located in the business district. While most people are here to make money, close deals, or just walk around in a suit, they still need to eat to survive.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAreaOldTownName</Name>
+    <String>Location: Old Town</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAreaOldTownDescription</Name>
+    <String>This restaurant is located in the old city centre, full of historical buildings and attractions. There are a lot of potential customers, but the price is also enormous.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkIsolatedName</Name>
+    <String>Isolated</String>
+  </TextString>
+  <TextString>
+    <Name>PerkIsolatedDescription</Name>
+    <String>This restaurant is quite isolated and hard to find for any kind of possible customer, meaning that less people will come to the restaurant.</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkTraffickedName</Name>
+    <String>Trafficked Area</String>
+  </TextString>
+  <TextString>
+    <Name>PerkTraffickedDescription</Name>
+    <String>This restaurant is in a trafficked area which is always full of people travelling or visiting, meaning that more people will come to the restaurant.</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkOfficesName</Name>
+    <String>Offices</String>
+  </TextString>
+  <TextString>
+    <Name>PerkOfficesDescription</Name>
+    <String>There are different offices nearby, meaning that a lot of workers may become customers for the restaurant.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkMallName</Name>
+    <String>Mall</String>
+  </TextString>
+  <TextString>
+    <Name>PerkMallDescription</Name>
+    <String>There's a mall nearby and people visiting the area are in a "let's spend some money" mindset, so they'll be willing to spend some more money in your restaurant.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkTrendyName</Name>
+    <String>Popular Area</String>
+  </TextString>
+  <TextString>
+    <Name>PerkTrendyDescription</Name>
+    <String>This area is quite popular and it lures many potential customers.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkHotelName</Name>
+    <String>Hotel</String>
+  </TextString>
+  <TextString>
+    <Name>PerkHotelDescription</Name>
+    <String>There's an hotel in the area and some of its visitors may become customers of yours.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkLuxuryHotelName</Name>
+    <String>Luxury Hotel</String>
+  </TextString>
+  <TextString>
+    <Name>PerkLuxuryHotelDescription</Name>
+    <String>There's a luxurious hotel nearby and the same people willing to spend a lot for a comfortable accomodation may do the same for a good meal.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkMuseumName</Name>
+    <String>Museum</String>
+  </TextString>
+  <TextString>
+    <Name>PerkMuseumDescription</Name>
+    <String>There's a museum nearby and some of its visitors may decide to stop at your place for a meal.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAmusementParkName</Name>
+    <String>Amusement Park</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAmusementParkDescription</Name>
+    <String>There's an amusement park nearby, attracting many different people to the area.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkInfamousNeighborhoodName</Name>
+    <String>Infamous Neighborhood</String>
+  </TextString>
+  <TextString>
+    <Name>PerkInfamousNeighborhoodDescription</Name>
+    <String>This district is quite infamous. Most people are either afraid, disgusted, or simply unwilling to visit the area. But hey, at least it's cheap!
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkPrestigiousNeighborhoodName</Name>
+    <String>Prestigious Neighborhood</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPrestigiousNeighborhoodDescription</Name>
+    <String>This district is a prestigious neighborhood, one of those in which most people would like to live and where several different shops and leisure activities would like to be.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkSmellyIndustryName</Name>
+    <String>Smelly Industry</String>
+  </TextString>
+  <TextString>
+    <Name>PerkSmellyIndustryDescription</Name>
+    <String>This restaurant is in very close to a smelly industry and the smog makes your restaurant harder to spot. But there are a lot of hungry workers in the vicinity.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkBreedingName</Name>
+    <String>Breeding</String>
+  </TextString>
+  <TextString>
+    <Name>PerkBreedingDescription</Name>
+    <String>There is an animal breeding in the vicinity. Both Vegetarians and Vegans customers won't be that happy when seeing it.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkLandmarkName</Name>
+    <String>Landmark</String>
+  </TextString>
+  <TextString>
+    <Name>PerkLandmarkDescription</Name>
+    <String>There's a world famous landmark in the vicinity, attracting people of any kind, especially tourists. But it also means that real estate prices are absurdly high.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkNarrowStreetsName</Name>
+    <String>Narrow Streets</String>
+  </TextString>
+  <TextString>
+    <Name>PerkNarrowStreetsDescription</Name>
+    <String>This district is full of ancient, narrow streets. While tourists may find the area interesting to visit, expect much less customers.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkNaturalPreserveName</Name>
+    <String>Natural Preserve</String>
+  </TextString>
+  <TextString>
+    <Name>PerkNaturalPreserveDescription</Name>
+    <String>This area is located inside a natural preserve, meaning that rents are really high but there will be much more eco-friendly customers.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkThrivingCommerceName</Name>
+    <String>Thriving Businesses</String>
+  </TextString>
+  <TextString>
+    <Name>PerkThrivingCommerceDescription</Name>
+    <String>There are a lot of different businesses and activities in the area, meaning that a lot of workers may need a place in which to eat.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkAnnoyingSnobsName</Name>
+    <String>Annoying Snobs</String>
+  </TextString>
+  <TextString>
+    <Name>PerkAnnoyingSnobsDescription</Name>
+    <String>The districts is full of snobs who are rude and unwelcoming towards people they consider to belong to a lower social class.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkFarmersMarketName</Name>
+    <String>Farmers Market</String>
+  </TextString>
+  <TextString>
+    <Name>PerkFarmersMarketDescription</Name>
+    <String>There is a market in this district in which local farmers sell their product, attracting Vegetarians and Vegans in search of organic and tasty ingredients.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkRestaurantDistrictName</Name>
+    <String>Restaurants District</String>
+  </TextString>
+  <TextString>
+    <Name>PerkRestaurantDistrictDescription</Name>
+    <String>This area is full of restaurants and luring customers is much harder. The bright side is that food lovers often visit the area in search of good meals.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkGentrifiedAreaName</Name>
+    <String>Gentrified Area</String>
+  </TextString>
+  <TextString>
+    <Name>PerkGentrifiedAreaDescription</Name>
+    <String>Gentrification has claimed this district, completely reshaping the area and attracting high paying customers with strange beards and haircuts.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkCloseCityName</Name>
+    <String>Close to the center.</String>
+  </TextString>
+  <TextString>
+    <Name>PerkCloseCityDescription</Name>
+    <String>This district is close to the city center, meaning its rent is higher than the average.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkFarCityName</Name>
+    <String>Far from the center.</String>
+  </TextString>
+  <TextString>
+    <Name>PerkFarCityDescription</Name>
+    <String>This district is far from the city center, meaning its rent is lower than the average.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+
+
+  <TextString>
+    <Name>PerkWorkingClassDistrictName</Name>
+    <String>Working Class District</String>
+  </TextString>
+  <TextString>
+    <Name>PerkWorkingClassDistrictDescription</Name>
+    <String>This district has always belonged to the working class. Prices are low, and there are much more low-paying customers.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkOldBuildingName</Name>
+    <String>Decrepit Building</String>
+  </TextString>
+  <TextString>
+    <Name>PerkOldBuildingDescription</Name>
+    <String>While the real estate agent told you that this building is "ancient and prestigious", it is simply really old and no one bothered to renovate it.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkModernBuildingName</Name>
+    <String>Modern Building</String>
+  </TextString>
+  <TextString>
+    <Name>PerkModernBuildingDescription</Name>
+    <String>The restaurant is in a very modern building and this positively reflects on its appeal.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkStrangeSmellName</Name>
+    <String>Strange Smell</String>
+  </TextString>
+  <TextString>
+    <Name>PerkStrangeSmellDescription</Name>
+    <String>Despite your efforts, you've been unable to locate the source of a faint but still annoying smell permeating the whole area.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkCheapInstitutionName</Name>
+    <String>Cheap Institution</String>
+  </TextString>
+  <TextString>
+    <Name>PerkCheapInstitutionDescription</Name>
+    <String>This place was once a restaurant famous for its low prices, before being closed by the health inspectors. People still come here expecting low prices.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkNearbyFastFoodName</Name>
+    <String>Nearby Fast Food</String>
+  </TextString>
+  <TextString>
+    <Name>PerkNearbyFastFoodDescription</Name>
+    <String>There's a fast food nearby, meaning that some potential customers won't even bother visiting your restaurant.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkNoCompetitorsName</Name>
+    <String>No Competitors</String>
+  </TextString>
+  <TextString>
+    <Name>PerkNoCompetitorsDescription</Name>
+    <String>This restaurant is in an area with no close competitors. You can expect more customers, because no one is willing to walk a few blocks to get somewhere else.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkNoParkingName</Name>
+    <String>No Parking</String>
+  </TextString>
+  <TextString>
+    <Name>PerkNoParkingDescription</Name>
+    <String>Parking in this area is really hard, and some people will simply go somewhere else instead of facing the dreadful perspective of walking for a few minutes.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkHauntedName</Name>
+    <String>Haunted</String>
+  </TextString>
+  <TextString>
+    <Name>PerkHauntedDescription</Name>
+    <String>The staff of the last three restaurants that opened here was murdered with Pineapple Pizza, and that is not exactly helpful when trying to hire people.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkRatInfestationName</Name>
+    <String>Rat Infestation</String>
+  </TextString>
+  <TextString>
+    <Name>PerkRatInfestationDescription</Name>
+    <String>During the night rats swarm the place, eating anything they can find. You searched everywhere but you have no idea how they manage to get inside. Your only clue is a blood inscribed note saying: "Many-As-One sends its regards"
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkStealthyInsectsName</Name>
+    <String>Stealthy Insects</String>
+  </TextString>
+  <TextString>
+    <Name>PerkStealthyInsectsDescription</Name>
+    <String>During the day the place is occasionally visited by stealthy cockroaches wearing a bandana. They do nothing harmful, but the customers are not happy.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkHistoricalBuildingName</Name>
+    <String>Historical Building</String>
+  </TextString>
+  <TextString>
+    <Name>PerkHistoricalBuildingDescription</Name>
+    <String>The restaurant is in a building with quite the historical value.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkOldWiringName</Name>
+    <String>Old Wiring</String>
+  </TextString>
+  <TextString>
+    <Name>PerkOldWiringDescription</Name>
+    <String>The wiring of this restaurant was made ages ago, meaning that it wastes a lot of energy.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkSolarCellsName</Name>
+    <String>Solar Cells</String>
+  </TextString>
+  <TextString>
+    <Name>PerkSolarCellsDescription</Name>
+    <String>There are solar cells on the roof, allowing you to save a lot of money!
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkDumpName</Name>
+    <String>Dump</String>
+  </TextString>
+  <TextString>
+    <Name>PerkDumpDescription</Name>
+    <String>Having a dump in the area is certainly not going to help with customers.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkScreamingGuyName</Name>
+    <String>Screaming Guy</String>
+  </TextString>
+  <TextString>
+    <Name>PerkScreamingGuyDescription</Name>
+    <String>There's a guy roaming the district who spends his entire day screaming crazy stuff, and he slowly became a local celebrity luring people of any kind!
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkNaturalBeautyName</Name>
+    <String>Natural Beauty</String>
+  </TextString>
+  <TextString>
+    <Name>PerkNaturalBeautyDescription</Name>
+    <String>The landscape in this area is simply wonderful, inspiring joy to everyone passing or visiting.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkBeautifulNeighborhoodName</Name>
+    <String>Beautiful Neighborhood</String>
+  </TextString>
+  <TextString>
+    <Name>PerkBeautifulNeighborhoodDescription</Name>
+    <String>This district is one of the most beautiful in the city.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkGarbageLandName</Name>
+    <String>Garbage Kingdom</String>
+  </TextString>
+  <TextString>
+    <Name>PerkGarbageLandDescription</Name>
+    <String>People living in this area have the despicable habit of throwing their garbage around the streets. Be careful while walking around...
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkBoringPlantationsName</Name>
+    <String>Boring Farms</String>
+  </TextString>
+  <TextString>
+    <Name>PerkBoringPlantationsDescription</Name>
+    <String>There's nothing but farms in the area and the result is a really boring landscape. Even the scarecrows are plain and boring.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkHighUnemploymentName</Name>
+    <String>Unemployment</String>
+  </TextString>
+  <TextString>
+    <Name>PerkHighUnemploymentDescription</Name>
+    <String>The unemployment rate in the area is quite high, meaning that people will be willing to work for a lower salary. Hell yeah!
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkStreetGangsName</Name>
+    <String>Street Gangs</String>
+  </TextString>
+  <TextString>
+    <Name>PerkStreetGangsDescription</Name>
+    <String>Street Gangs roam around the district terrorizing both inhabitants and visitors. But they do need to eat sometime, so expect larger groups of people!
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkRichAreaName</Name>
+    <String>Rich Area</String>
+  </TextString>
+  <TextString>
+    <Name>PerkRichAreaDescription</Name>
+    <String>People in this area are loaded with money! You better raise your prices and lighten their wallets.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+  
+  
+  
+  
+
+
+  <TextString>
+    <Name>PerkPopularity0Name</Name>
+    <String>Popularity Tier 0</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity0Description</Name>
+    <String>No one knows you.
+	
+&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkPopularity1Name</Name>
+    <String>Popularity Tier 1</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity1Description</Name>
+    <String>Your staff knows who you are.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkPopularity2Name</Name>
+    <String>Popularity Tier 2</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity2Description</Name>
+    <String>A single customer knows who you are.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkPopularity3Name</Name>
+    <String>Popularity Tier 3</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity3Description</Name>
+    <String>Approximately fifty people know who you are.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkPopularity4Name</Name>
+    <String>Popularity Tier 4</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity4Description</Name>
+    <String>Your name is somewhat known among other chefs.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkPopularity5Name</Name>
+    <String>Popularity Tier 5</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity5Description</Name>
+    <String>People in the vicinity ask about you.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkPopularity6Name</Name>
+    <String>Popularity Tier 6</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity6Description</Name>
+    <String>The whole district knows your face.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkPopularity7Name</Name>
+    <String>Popularity Tier 7</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity7Description</Name>
+    <String>Your name is a popular one around the city.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+  <TextString>
+    <Name>PerkPopularity8Name</Name>
+    <String>Popularity Tier 8</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity8Description</Name>
+    <String>The mayor wants to speak with you.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkPopularity9Name</Name>
+    <String>Popularity Tier 9</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity9Description</Name>
+    <String>The President wants to speak with you.
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkPopularity10Name</Name>
+    <String>Popularity Tier 10</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularity10Description</Name>
+    <String>IS THAT THE POPE CALLING ON YOUR CELLPHONE?
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkPopularityStar1Name</Name>
+    <String>One WebGuide Star</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularityStar1Description</Name>
+    <String>You managed to get your first WebGuide Star, a prestigious achievement. Will you be able to do more?
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkPopularityStar2Name</Name>
+    <String>Two WebGuide Star</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularityStar2Description</Name>
+    <String>You have two Stars, meaning you are very close to becoming a cooking legend!
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+
+  <TextString>
+    <Name>PerkPopularityStar3Name</Name>
+    <String>Three WebGuide Star</String>
+  </TextString>
+  <TextString>
+    <Name>PerkPopularityStar3Description</Name>
+    <String>You did it! You are now one of the most famous Chefs in the world, and you have three Stars to prove it!
+	
+	&lt;b&gt;Effects&lt;/b&gt;
+{MODIFIERS}</String>
+  </TextString>
+
+</TextStrings>
